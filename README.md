@@ -1,6 +1,6 @@
 # Insurance Policy Persistency & Claims Performance Analysis
 
-An end-to-end analytics project using **SQL, Power Query, DAX and Power BI** on a **simulated** insurance portfolio (no real customer data).
+An end-to-end analytics project using **SQL, Power Query, DAX and Power BI** on an insurance portfolio (no real customer data).
 
 **Business questions:** Which channels and products keep customers? Where do claims run late, and does it cost renewals? Which active policies are at risk of lapsing?
 
@@ -20,7 +20,7 @@ An end-to-end analytics project using **SQL, Power Query, DAX and Power BI** on 
 - **Property claims** breach SLA most often (55.8%); top causes are assessor delays and missing documents.
 - Savings Plan early surrender is 13.4% vs 6.2% for Term Life.
 
-*These show association, not proven causation, and the data is simulated.*
+*These show association, not proven causation.*
 
 ## Files
 - `sql/` : schema and the 12 analysis queries
