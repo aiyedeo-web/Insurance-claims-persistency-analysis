@@ -1,0 +1,48 @@
+Q1: Portfolio Overview by Product
+
+Motor Comprehensive has the largest portfolio, with 1,553 policies and the highest total annual premium of 449.7 million. Term Life Protect has the highest active-policy rate at 82.7%, while Motor Third Party has the lowest at 73.7%. The business should investigate the reasons for the lower active rate in Motor Third Party and explore ways to improve policy retention.
+
+Q2: Renewal Rate by Channel
+
+The Agent channel has the highest renewal rate at 88.3%, followed by Broker at 86.3%. Digital has a renewal rate of 78.0%, while Bancassurance has the lowest rate at 73.7%. The company should investigate the reasons for Bancassurance's weaker renewal performance and explore whether successful practices from the Agent channel can be applied to improve retention.
+
+Q3: Renewal Rate by Product Line and Policy Year
+
+Renewal rates increase across policy years 2 to 4 for all three product lines. Life records the highest renewal rate in policy year 4 at 92.0%, while Health has the lowest rate in policy year 2 at 76.9%. The company should investigate factors associated with lower early-year renewals, particularly in Health, while monitoring renewal performance across all product lines.
+
+Q4: Life Product Surrender Analysis
+
+Savings Plan has a surrender rate of 13.4%, compared with 6.2% for Term Life Protect. This indicates that surrender is more common in Savings Plan within the current portfolio. The company should investigate possible reasons for the higher surrender rate, such as affordability, customer needs, or product suitability. Note: the current query measures overall surrender rates and does not specifically isolate policies surrendered within the first two years.
+
+Q5: Claims Settlement Time vs SLA
+
+Property Claims has the highest delay rate at 55.8% and the longest average settlement time of 37.5 days, exceeding its 30-day SLA target. Life Claims also has a high delay rate of 51.9%. Motor and Health Claims handle substantially larger volumes, with 50.2% and 48.3% of settled claims delayed, respectively. The company should investigate causes of delays across all units, prioritising Property Claims while also monitoring high-volume Motor and Health operations.
+
+Q6: Reasons for Claims Delays
+
+Assessor delay is the most common recorded reason for delayed claims, affecting 138 claims, followed by provider authorisation with 132 and missing documents with 121. Loss adjuster cases have the longest average settlement time at 55.7 days, although only 15 claims fall into this category. The company should investigate assessor turnaround times, improve provider authorisation processes, and reduce delays caused by missing documents. Loss adjuster cases should also be reviewed, while considering the small number of claims involved.
+
+Q7: Impact of Claims Delays on Renewal
+
+Customers with delayed claims have the lowest renewal rate at 70.5%, compared with 82.8% for customers with on-time claims and 83.7% for customers with no qualifying settled claim. The renewal rate for customers with delayed claims is 12.3 percentage points lower than for those with on-time claims. This suggests a possible relationship between claims delays and weaker customer retention. The company should investigate customer experiences during claims settlement and assess whether faster claims handling could improve renewal outcomes. These results show an association, not proof of causation.
+
+Q8: Customer Sentiment and Claims Delays
+
+Customers associated with delayed claims gave an average rating of 2.17, compared with 4.16 for customers whose claims were settled on time. This substantial difference suggests a strong relationship between claims settlement speed and customer satisfaction. The company should investigate the causes of delays and improve communication and turnaround times during claims processing.
+
+Q9: Payment Behaviour by Channel
+
+Bancassurance has the highest missed-payment rate at 10.0%, while Bancassurance and Digital share the highest late-payment rate at 19.8%. Agent performs best on both measures, with 5.9% missed payments and 13.1% late payments. The company should investigate payment barriers in Bancassurance and Digital and consider targeted reminders or payment-support measures to improve payment regularity.
+
+Q10: Active Policies at Risk of Lapsing
+
+The query identified 50 active policies with at least two missed or late payments among their four most recent payments in the specified period. Policy 4479 has four problem payments, making it a priority for review. Bancassurance appears frequently in the results, alongside Digital, Agent, and Broker policies. The company should use this list to prioritise customer follow-up, investigate payment difficulties, and encourage customers to bring overdue payments up to date. The list is limited to 50 policies and should not be treated as a complete count of all at-risk policies.
+
+Q11: Monthly Claims Trend
+
+Reported claims generally increased over the period analysed, rising from 1 claim in January 2023 to 119 in September 2026. The cumulative total reached 1,527 by September 2026. September recorded the highest monthly claim count in the results. The company should investigate the reasons for the increase in reported claims and ensure sufficient claims-handling capacity. October 2026 contains only 15 claims in the output and should be verified, given the stated data cutoff of September 30, 2026.
+
+Q12: Claims Amounts Compared with Annual Premiums
+
+Motor Third Party has the highest indicative claims-to-premium ratio at approximately 83.0%, followed by Motor Comprehensive and Term Life Protect at approximately 59.3% each. Savings Plan has the lowest ratio at approximately 2.6%. Motor Third Party should be prioritised for further review of claims costs and premium adequacy. These figures are preliminary comparisons rather than confirmed actuarial loss ratios because the query sums approved claim amounts without filtering to settled claims, and the timing of claims and premiums may differ.
+

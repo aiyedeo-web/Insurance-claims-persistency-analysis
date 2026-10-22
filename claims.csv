@@ -1,0 +1,1543 @@
+claim_id,policy_id,policy_year,claim_type,incident_date,reported_date,settled_date,claim_amount,approved_amount,status,sla_days,delay_reason,handling_unit
+1,3,1,Death Claim,2024-05-06,2024-05-08,2024-07-01,6252100.0,5533400.0,Settled,30,Investigation,Life Claims
+2,4,2,Accident,2024-04-04,2024-04-09,2024-04-24,1217700.0,836900.0,Settled,21,None,Motor Claims
+3,6,2,Theft,2025-09-22,2025-09-22,2025-10-08,136700.0,108000.0,Settled,21,None,Motor Claims
+4,12,2,Outpatient,2025-04-06,2025-04-15,2025-05-06,330600.0,224000.0,Settled,14,Missing documents,Health Claims
+5,15,2,Fire,2026-04-15,2026-04-25,2026-05-20,1999900.0,819600.0,Settled,30,None,Property Claims
+6,20,2,Third-Party Injury,2025-07-12,2025-07-12,2025-07-23,363100.0,178300.0,Settled,21,None,Motor Claims
+7,25,1,Hospitalisation,2024-03-06,2024-03-13,2024-03-31,176800.0,102400.0,Settled,14,None,Health Claims
+8,28,1,Hospitalisation,2024-01-15,2024-01-19,2024-01-26,280600.0,208500.0,Settled,14,None,Health Claims
+9,28,2,Outpatient,2024-12-29,2024-12-29,2025-01-16,332100.0,210700.0,Settled,14,Provider authorisation,Health Claims
+10,30,2,Hospitalisation,2024-12-06,2024-12-16,2025-01-10,101100.0,47500.0,Settled,14,Provider authorisation,Health Claims
+11,31,2,Outpatient,2025-10-09,2025-10-13,2025-10-30,344200.0,0,Rejected,14,Missing documents,Health Claims
+12,34,1,Maternity,2026-07-25,2026-07-30,2026-08-18,100700.0,57000.0,Settled,14,None,Health Claims
+13,38,2,Hospitalisation,2025-10-13,2025-10-15,2025-10-21,114500.0,63000.0,Settled,14,None,Health Claims
+14,60,1,Third-Party Injury,2025-12-17,2025-12-19,2025-12-31,568700.0,302700.0,Settled,21,None,Motor Claims
+15,62,1,Accident,2025-09-22,2025-09-30,2025-11-15,555500.0,238200.0,Settled,21,Assessor delay,Motor Claims
+16,62,2,Theft,2026-08-20,2026-08-24,,941300.0,0,Open,21,Assessor delay,Motor Claims
+17,77,1,Hospitalisation,2025-02-25,2025-03-05,2025-03-22,219800.0,159600.0,Settled,14,None,Health Claims
+18,78,2,Theft,2026-07-23,2026-07-31,2026-08-16,996500.0,527200.0,Settled,21,None,Motor Claims
+19,79,2,Outpatient,2026-06-29,2026-07-02,2026-07-20,345200.0,332700.0,Settled,14,None,Health Claims
+20,80,1,Maternity,2023-02-03,2023-02-08,2023-02-20,308700.0,163200.0,Settled,14,None,Health Claims
+21,88,1,Hospitalisation,2025-11-17,2025-11-17,2025-11-29,68700.0,28200.0,Settled,14,None,Health Claims
+22,89,1,Hospitalisation,2023-04-26,2023-05-01,2023-05-14,208000.0,0,Rejected,14,None,Health Claims
+23,90,2,Accident,2024-08-22,2024-09-01,2024-09-16,1463400.0,757000.0,Settled,21,None,Motor Claims
+24,90,3,Theft,2025-07-31,2025-08-07,2025-08-26,1234500.0,1200300.0,Settled,21,None,Motor Claims
+25,91,3,Hospitalisation,2026-06-21,2026-06-28,2026-07-10,138000.0,117700.0,Settled,14,None,Health Claims
+26,95,2,Flood,2026-04-11,2026-04-16,2026-05-30,2946500.0,2638000.0,Settled,30,Loss adjuster,Property Claims
+27,102,1,Outpatient,2025-06-09,2025-06-18,2025-07-04,352800.0,180100.0,Settled,14,None,Health Claims
+28,102,2,Maternity,2025-11-17,2025-11-23,2025-12-07,107000.0,0,Rejected,14,None,Health Claims
+29,107,3,Fire,2026-09-28,2026-10-06,,2185500.0,0,Open,30,None,Property Claims
+30,108,2,Accident,2026-04-07,2026-04-17,2026-05-07,1319100.0,934600.0,Settled,21,None,Motor Claims
+31,112,1,Maternity,2025-01-08,2025-01-14,2025-01-27,213000.0,156500.0,Settled,14,Provider authorisation,Health Claims
+32,112,3,Outpatient,2026-06-30,2026-07-03,2026-07-15,129700.0,94900.0,Settled,14,None,Health Claims
+33,126,2,Windscreen,2025-09-26,2025-10-04,2025-10-14,1485400.0,1423900.0,Settled,21,None,Motor Claims
+34,128,1,Windscreen,2026-08-07,2026-08-11,2026-09-03,156700.0,64900.0,Settled,21,None,Motor Claims
+35,130,1,Outpatient,2023-07-16,2023-07-21,2023-08-11,358400.0,152800.0,Settled,14,None,Health Claims
+36,130,3,Maternity,2026-02-12,2026-02-20,2026-03-17,302400.0,286700.0,Settled,14,Provider authorisation,Health Claims
+37,130,4,Outpatient,2026-04-16,2026-04-22,2026-05-07,24600.0,9900.0,Settled,14,None,Health Claims
+38,132,1,Outpatient,2024-11-29,2024-12-09,2025-01-04,364600.0,271200.0,Settled,14,Provider authorisation,Health Claims
+39,134,3,Hospitalisation,2026-07-26,2026-07-30,2026-08-11,72500.0,29100.0,Settled,14,None,Health Claims
+40,156,2,Accident,2026-08-17,2026-08-24,,776600.0,0,Open,21,Assessor delay,Motor Claims
+41,157,1,Hospitalisation,2026-04-14,2026-04-23,2026-05-13,275400.0,140200.0,Settled,14,None,Health Claims
+42,163,1,Accident,2024-02-16,2024-02-20,2024-03-16,1399000.0,1035200.0,Settled,21,None,Motor Claims
+43,163,3,Windscreen,2025-11-12,2025-11-15,2025-12-05,1083900.0,653000.0,Settled,21,None,Motor Claims
+44,171,2,Fire,2026-08-01,2026-08-09,2026-08-25,2213000.0,2015600.0,Settled,30,None,Property Claims
+45,180,1,Accident,2026-07-20,2026-07-27,2026-08-14,1287900.0,1252100.0,Settled,21,None,Motor Claims
+46,188,3,Windscreen,2026-01-09,2026-01-13,2026-02-07,1395700.0,1233100.0,Settled,21,None,Motor Claims
+47,196,2,Third-Party Damage,2025-08-21,2025-08-29,2025-09-10,99700.0,79700.0,Settled,21,None,Motor Claims
+48,199,2,Hospitalisation,2026-09-08,2026-09-16,,392400.0,0,Open,14,Provider authorisation,Health Claims
+49,200,2,Accident,2025-08-30,2025-08-31,2025-10-02,354100.0,347600.0,Settled,21,Assessor delay,Motor Claims
+50,201,4,Windscreen,2026-05-05,2026-05-07,2026-05-24,421100.0,325400.0,Settled,21,None,Motor Claims
+51,203,1,Third-Party Injury,2024-04-26,2024-04-29,,275100.0,0,Open,21,Missing documents,Motor Claims
+52,205,3,Hospitalisation,2026-03-12,2026-03-12,2026-03-28,308600.0,290500.0,Settled,14,None,Health Claims
+53,205,4,Maternity,2026-09-10,2026-09-10,2026-09-23,73900.0,61900.0,Settled,14,None,Health Claims
+54,208,1,Hospitalisation,2024-08-13,2024-08-21,2024-09-11,238200.0,157000.0,Settled,14,Provider authorisation,Health Claims
+55,222,1,Theft,2026-06-13,2026-06-17,2026-07-05,421800.0,193700.0,Settled,21,None,Motor Claims
+56,225,2,Third-Party Injury,2026-03-28,2026-04-05,2026-05-21,308500.0,160900.0,Settled,21,Assessor delay,Motor Claims
+57,226,3,Theft,2025-09-24,2025-09-26,2025-11-04,1029800.0,693600.0,Settled,21,Missing documents,Motor Claims
+58,226,4,Windscreen,2026-09-27,2026-10-04,,960000.0,0,Open,21,None,Motor Claims
+59,230,1,Maternity,2026-04-14,2026-04-23,2026-05-08,37300.0,18500.0,Settled,14,None,Health Claims
+60,239,1,Maternity,2023-10-21,2023-10-25,2023-11-05,361000.0,253600.0,Settled,14,None,Health Claims
+61,239,2,Hospitalisation,2024-08-16,2024-08-25,2024-09-07,342900.0,225000.0,Settled,14,None,Health Claims
+62,239,3,Hospitalisation,2026-02-14,2026-02-22,2026-03-11,68000.0,38200.0,Settled,14,None,Health Claims
+63,245,2,Accident,2025-10-14,2025-10-16,2025-10-27,1126700.0,564800.0,Settled,21,None,Motor Claims
+64,247,1,Hospitalisation,2023-05-22,2023-05-29,2023-06-15,27100.0,22800.0,Settled,14,None,Health Claims
+65,247,2,Hospitalisation,2024-07-29,2024-08-06,2024-08-16,53000.0,21400.0,Settled,14,None,Health Claims
+66,247,3,Outpatient,2026-01-13,2026-01-15,2026-01-25,141700.0,114900.0,Settled,14,None,Health Claims
+67,247,4,Outpatient,2026-08-07,2026-08-09,2026-08-18,23900.0,12000.0,Settled,14,None,Health Claims
+68,250,1,Outpatient,2024-10-04,2024-10-13,2024-10-26,109100.0,59200.0,Settled,14,None,Health Claims
+69,250,3,Maternity,2026-07-27,2026-08-01,2026-08-24,247500.0,0,Rejected,14,Missing documents,Health Claims
+70,258,1,Maternity,2026-07-11,2026-07-20,,340600.0,0,Open,14,None,Health Claims
+71,265,2,Accident,2026-08-17,2026-08-26,2026-09-18,596000.0,488100.0,Settled,21,None,Motor Claims
+72,267,1,Windscreen,2026-05-24,2026-05-24,2026-06-27,1130600.0,782000.0,Settled,21,Assessor delay,Motor Claims
+73,268,1,Windscreen,2026-07-30,2026-08-03,2026-09-03,913000.0,397400.0,Settled,21,Missing documents,Motor Claims
+74,281,4,Maternity,2026-03-27,2026-04-05,2026-04-13,58300.0,56000.0,Settled,14,None,Health Claims
+75,282,2,Third-Party Injury,2026-08-08,2026-08-15,,82600.0,0,Open,21,Assessor delay,Motor Claims
+76,284,2,Accident,2025-09-13,2025-09-20,2025-10-14,1227900.0,533500.0,Settled,21,None,Motor Claims
+77,285,3,Maternity,2025-08-27,2025-09-04,2025-09-29,38400.0,16100.0,Settled,14,Provider authorisation,Health Claims
+78,292,1,Hospitalisation,2026-07-26,2026-07-31,2026-08-10,177400.0,170300.0,Settled,14,None,Health Claims
+79,293,1,Maternity,2025-07-09,2025-07-17,2025-07-31,45200.0,34400.0,Settled,14,None,Health Claims
+80,295,3,Outpatient,2025-12-25,2026-01-03,2026-01-18,214300.0,124800.0,Settled,14,None,Health Claims
+81,298,1,Theft,2025-01-10,2025-01-14,2025-01-28,442300.0,392100.0,Settled,21,None,Motor Claims
+82,304,1,Outpatient,2025-01-26,2025-01-28,,30400.0,0,Open,14,Missing documents,Health Claims
+83,304,2,Hospitalisation,2026-09-14,2026-09-23,,98200.0,0,Open,14,None,Health Claims
+84,317,1,Windscreen,2026-05-27,2026-05-27,2026-06-18,939600.0,816600.0,Settled,21,None,Motor Claims
+85,322,2,Accident,2025-07-24,2025-07-30,2025-08-21,1480400.0,1454800.0,Settled,21,Missing documents,Motor Claims
+86,323,2,Death Claim,2026-07-19,2026-07-19,2026-09-09,2120100.0,1082400.0,Settled,30,Investigation,Life Claims
+87,324,3,Flood,2025-08-03,2025-08-12,2025-10-05,2143000.0,1437600.0,Settled,30,Loss adjuster,Property Claims
+88,334,3,Theft,2026-05-12,2026-05-20,2026-06-15,766900.0,475100.0,Settled,21,None,Motor Claims
+89,335,3,Windscreen,2026-07-24,2026-07-27,2026-08-10,1174100.0,742900.0,Settled,21,None,Motor Claims
+90,337,1,Death Claim,2025-06-11,2025-06-18,2025-07-16,5816500.0,5418700.0,Settled,30,None,Life Claims
+91,345,2,Accident,2025-01-10,2025-01-16,2025-01-30,1187300.0,1022800.0,Settled,21,None,Motor Claims
+92,357,1,Maternity,2024-08-25,2024-08-28,2024-09-23,328300.0,132200.0,Settled,14,Provider authorisation,Health Claims
+93,359,2,Flood,2024-12-16,2024-12-26,2025-03-07,418500.0,183700.0,Settled,30,Loss adjuster,Property Claims
+94,360,1,Maternity,2024-08-23,2024-09-02,2024-09-19,150700.0,105100.0,Settled,14,None,Health Claims
+95,360,3,Outpatient,2026-02-24,2026-02-28,2026-03-28,50700.0,34800.0,Settled,14,Provider authorisation,Health Claims
+96,362,3,Hospitalisation,2026-07-19,2026-07-28,2026-08-06,367500.0,197200.0,Settled,14,None,Health Claims
+97,364,1,Death Claim,2023-11-22,2023-11-30,2023-12-25,2350600.0,2001200.0,Settled,30,None,Life Claims
+98,368,2,Accident,2026-02-27,2026-03-07,2026-03-24,585400.0,421900.0,Settled,21,None,Motor Claims
+99,369,1,Accident,2025-07-22,2025-07-23,2025-08-05,876000.0,0,Rejected,21,None,Motor Claims
+100,371,1,Hospitalisation,2026-01-08,2026-01-17,2026-02-03,33900.0,25800.0,Settled,14,None,Health Claims
+101,376,1,Accident,2026-08-18,2026-08-28,2026-09-19,466200.0,363100.0,Settled,21,None,Motor Claims
+102,379,1,Windscreen,2025-11-24,2025-11-25,2025-12-08,1054400.0,586700.0,Settled,21,None,Motor Claims
+103,387,2,Outpatient,2026-05-05,2026-05-08,2026-05-30,215400.0,211600.0,Settled,14,Missing documents,Health Claims
+104,389,2,Maternity,2024-10-03,2024-10-12,2024-10-23,382700.0,328800.0,Settled,14,None,Health Claims
+105,389,3,Maternity,2026-05-14,2026-05-15,2026-05-29,250500.0,123800.0,Settled,14,None,Health Claims
+106,394,1,Accident,2024-10-06,2024-10-16,2024-10-24,826300.0,331300.0,Settled,21,None,Motor Claims
+107,394,2,Windscreen,2025-05-12,2025-05-15,2025-06-17,503200.0,475000.0,Settled,21,None,Motor Claims
+108,394,3,Theft,2026-05-25,2026-05-29,2026-06-21,1462500.0,1314200.0,Settled,21,None,Motor Claims
+109,396,1,Maternity,2026-07-21,2026-07-30,2026-08-20,185600.0,123300.0,Settled,14,Provider authorisation,Health Claims
+110,409,2,Outpatient,2026-05-24,2026-05-26,2026-06-23,333700.0,252200.0,Settled,14,Provider authorisation,Health Claims
+111,415,1,Hospitalisation,2026-03-23,2026-03-23,2026-04-08,135300.0,110800.0,Settled,14,None,Health Claims
+112,424,2,Flood,2026-09-20,2026-09-26,,795700.0,0,Open,30,None,Property Claims
+113,426,3,Accident,2026-06-28,2026-07-03,2026-07-27,540100.0,537900.0,Settled,21,Assessor delay,Motor Claims
+114,428,1,Outpatient,2023-12-08,2023-12-14,2024-01-03,200100.0,116100.0,Settled,14,Provider authorisation,Health Claims
+115,428,2,Outpatient,2024-09-07,2024-09-15,2024-10-06,49900.0,0,Rejected,14,Provider authorisation,Health Claims
+116,428,3,Outpatient,2025-06-16,2025-06-18,2025-06-29,269300.0,0,Rejected,14,None,Health Claims
+117,434,1,Windscreen,2025-07-16,2025-07-18,2025-09-02,159000.0,70000.0,Settled,21,Assessor delay,Motor Claims
+118,434,2,Theft,2026-08-10,2026-08-17,2026-09-02,541300.0,448500.0,Settled,21,None,Motor Claims
+119,437,1,Theft,2025-11-07,2025-11-10,2025-12-01,576000.0,337600.0,Settled,21,None,Motor Claims
+120,438,1,Windscreen,2025-02-27,2025-02-28,2025-03-29,1033300.0,966200.0,Settled,21,Missing documents,Motor Claims
+121,442,2,Accident,2025-08-17,2025-08-17,2025-09-11,164400.0,0,Rejected,21,None,Motor Claims
+122,452,1,Theft,2025-01-13,2025-01-23,2025-02-23,211300.0,206100.0,Settled,21,None,Motor Claims
+123,454,1,Maternity,2026-07-27,2026-08-01,2026-08-07,271300.0,124600.0,Settled,14,None,Health Claims
+124,468,4,Accident,2026-08-14,2026-08-19,2026-09-06,107700.0,45200.0,Settled,21,None,Motor Claims
+125,469,1,Outpatient,2024-04-07,2024-04-13,2024-05-03,289600.0,272200.0,Settled,14,Missing documents,Health Claims
+126,473,1,Maternity,2024-09-19,2024-09-24,2024-10-03,271100.0,115800.0,Settled,14,None,Health Claims
+127,485,4,Accident,2026-08-21,2026-08-30,,1437800.0,0,Open,21,Missing documents,Motor Claims
+128,491,2,Third-Party Injury,2026-07-27,2026-08-06,2026-09-05,309200.0,165400.0,Settled,21,Assessor delay,Motor Claims
+129,496,1,Theft,2026-09-07,2026-09-11,2026-09-20,714500.0,536100.0,Settled,21,None,Motor Claims
+130,497,1,Maternity,2025-06-23,2025-06-27,2025-07-10,181100.0,139800.0,Settled,14,None,Health Claims
+131,500,1,Outpatient,2024-12-06,2024-12-07,2024-12-20,231900.0,99400.0,Settled,14,None,Health Claims
+132,500,2,Outpatient,2025-06-22,2025-06-27,2025-07-13,215200.0,128200.0,Settled,14,None,Health Claims
+133,501,1,Hospitalisation,2025-08-17,2025-08-27,2025-09-11,54600.0,28700.0,Settled,14,None,Health Claims
+134,504,3,Outpatient,2026-08-19,2026-08-29,2026-09-22,331100.0,293000.0,Settled,14,Provider authorisation,Health Claims
+135,517,2,Outpatient,2025-01-20,2025-01-24,2025-02-12,258800.0,219300.0,Settled,14,None,Health Claims
+136,524,2,Burglary,2024-12-04,2024-12-07,2024-12-21,590500.0,492200.0,Settled,30,None,Property Claims
+137,526,2,Maternity,2026-09-17,2026-09-23,2026-09-30,161100.0,123600.0,Settled,14,None,Health Claims
+138,530,3,Theft,2026-03-26,2026-04-03,2026-04-10,468300.0,357700.0,Settled,21,None,Motor Claims
+139,534,1,Windscreen,2024-02-15,2024-02-16,2024-03-06,1447600.0,626600.0,Settled,21,None,Motor Claims
+140,552,1,Accident,2025-02-21,2025-02-22,2025-03-30,517300.0,263900.0,Settled,21,Assessor delay,Motor Claims
+141,553,1,Burglary,2026-06-17,2026-06-27,2026-07-07,1661400.0,1275700.0,Settled,30,None,Property Claims
+142,554,1,Accident,2024-12-19,2024-12-25,2025-01-03,304700.0,301800.0,Settled,21,None,Motor Claims
+143,558,3,Third-Party Injury,2026-02-09,2026-02-19,,393100.0,0,Open,21,None,Motor Claims
+144,568,2,Theft,2026-06-04,2026-06-06,2026-07-17,1356500.0,1049200.0,Settled,21,Assessor delay,Motor Claims
+145,584,1,Windscreen,2026-02-14,2026-02-18,2026-03-10,1282600.0,719500.0,Settled,21,None,Motor Claims
+146,588,1,Maternity,2024-12-14,2024-12-22,2025-01-07,57900.0,34500.0,Settled,14,None,Health Claims
+147,591,2,Maternity,2025-03-19,2025-03-22,2025-04-03,392600.0,231400.0,Settled,14,None,Health Claims
+148,597,1,Outpatient,2025-08-18,2025-08-28,2025-09-11,60300.0,35000.0,Settled,14,None,Health Claims
+149,598,1,Hospitalisation,2026-06-24,2026-07-04,2026-07-12,220900.0,98600.0,Settled,14,None,Health Claims
+150,606,3,Accident,2026-02-18,2026-02-20,2026-03-08,640200.0,287500.0,Settled,21,None,Motor Claims
+151,610,2,Accident,2025-12-16,2025-12-25,2026-01-10,1085300.0,662700.0,Settled,21,None,Motor Claims
+152,611,1,Hospitalisation,2025-09-21,2025-09-21,2025-10-04,208700.0,113200.0,Settled,14,None,Health Claims
+153,616,2,Third-Party Injury,2024-10-03,2024-10-07,2024-11-12,159600.0,155800.0,Settled,21,Assessor delay,Motor Claims
+154,623,1,Outpatient,2024-02-10,2024-02-10,2024-03-01,207900.0,180700.0,Settled,14,Missing documents,Health Claims
+155,627,1,Flood,2023-11-30,2023-12-03,2024-02-04,1177400.0,947700.0,Settled,30,Loss adjuster,Property Claims
+156,629,2,Maternity,2025-12-01,2025-12-03,2025-12-09,222900.0,198400.0,Settled,14,None,Health Claims
+157,629,3,Maternity,2026-09-25,2026-09-28,,214200.0,0,Open,14,None,Health Claims
+158,632,2,Maternity,2024-08-27,2024-08-29,2024-09-14,326400.0,246800.0,Settled,14,None,Health Claims
+159,637,1,Theft,2025-01-13,2025-01-18,2025-02-21,395200.0,243800.0,Settled,21,Missing documents,Motor Claims
+160,640,1,Hospitalisation,2025-06-28,2025-07-01,2025-07-17,198500.0,138500.0,Settled,14,None,Health Claims
+161,656,2,Outpatient,2026-08-09,2026-08-12,2026-08-21,330700.0,276900.0,Settled,14,None,Health Claims
+162,664,2,Hospitalisation,2025-09-10,2025-09-17,2025-10-08,138800.0,107100.0,Settled,14,Provider authorisation,Health Claims
+163,674,1,Outpatient,2025-09-20,2025-09-26,2025-10-06,146700.0,79300.0,Settled,14,None,Health Claims
+164,677,1,Third-Party Injury,2025-09-01,2025-09-06,2025-09-18,589900.0,313900.0,Settled,21,None,Motor Claims
+165,683,1,Theft,2024-09-13,2024-09-16,2024-10-08,788100.0,428800.0,Settled,21,None,Motor Claims
+166,685,1,Hospitalisation,2025-12-12,2025-12-14,2025-12-30,324100.0,184400.0,Settled,14,Missing documents,Health Claims
+167,689,1,Windscreen,2025-11-10,2025-11-19,2025-12-04,1497800.0,728900.0,Settled,21,None,Motor Claims
+168,692,2,Third-Party Damage,2026-01-27,2026-02-05,2026-03-04,460200.0,317000.0,Settled,21,None,Motor Claims
+169,694,3,Flood,2026-01-15,2026-01-20,2026-02-27,740100.0,379200.0,Settled,30,Loss adjuster,Property Claims
+170,701,1,Hospitalisation,2026-01-19,2026-01-28,2026-02-17,151700.0,77700.0,Settled,14,None,Health Claims
+171,707,3,Maternity,2026-07-22,2026-07-26,2026-08-01,298700.0,0,Rejected,14,None,Health Claims
+172,716,1,Maternity,2024-03-10,2024-03-17,2024-04-02,226500.0,148700.0,Settled,14,None,Health Claims
+173,716,3,Maternity,2026-03-01,2026-03-09,2026-03-25,397100.0,262200.0,Settled,14,None,Health Claims
+174,721,2,Accident,2025-10-14,2025-10-18,2025-11-24,892600.0,810700.0,Settled,21,Assessor delay,Motor Claims
+175,745,2,Theft,2026-06-20,2026-06-22,2026-07-21,379100.0,358300.0,Settled,21,Assessor delay,Motor Claims
+176,748,3,Disability,2025-08-21,2025-08-31,2025-10-15,9744700.0,9615100.0,Settled,30,Investigation,Life Claims
+177,751,1,Third-Party Injury,2024-12-01,2024-12-11,2025-01-15,490200.0,327500.0,Settled,21,Assessor delay,Motor Claims
+178,752,3,Theft,2025-11-02,2025-11-08,2025-12-03,261100.0,242100.0,Settled,21,None,Motor Claims
+179,753,1,Hospitalisation,2025-10-02,2025-10-10,2025-10-23,145300.0,61800.0,Settled,14,None,Health Claims
+180,758,2,Flood,2025-11-10,2025-11-18,2025-12-31,2670900.0,0,Rejected,30,Loss adjuster,Property Claims
+181,773,1,Third-Party Injury,2026-02-28,2026-03-06,2026-03-24,79600.0,34500.0,Settled,21,None,Motor Claims
+182,792,1,Hospitalisation,2025-06-21,2025-06-29,,112100.0,0,Open,14,Provider authorisation,Health Claims
+183,793,2,Theft,2026-06-02,2026-06-03,2026-06-29,1429000.0,671900.0,Settled,21,None,Motor Claims
+184,809,1,Windscreen,2024-03-26,2024-04-02,2024-05-09,197500.0,81100.0,Settled,21,Missing documents,Motor Claims
+185,819,2,Hospitalisation,2026-07-18,2026-07-25,2026-08-10,392600.0,365000.0,Settled,14,None,Health Claims
+186,820,2,Outpatient,2025-04-01,2025-04-06,2025-04-27,253100.0,165400.0,Settled,14,Provider authorisation,Health Claims
+187,824,2,Hospitalisation,2026-02-07,2026-02-17,2026-02-26,145400.0,128500.0,Settled,14,None,Health Claims
+188,825,1,Outpatient,2024-09-06,2024-09-16,2024-10-10,173900.0,156400.0,Settled,14,Provider authorisation,Health Claims
+189,825,3,Outpatient,2026-09-02,2026-09-04,2026-09-18,318400.0,261800.0,Settled,14,None,Health Claims
+190,827,1,Outpatient,2025-04-11,2025-04-13,2025-05-02,190500.0,125500.0,Settled,14,None,Health Claims
+191,840,1,Outpatient,2026-03-12,2026-03-19,2026-04-11,398500.0,245500.0,Settled,14,Missing documents,Health Claims
+192,844,1,Hospitalisation,2025-11-05,2025-11-15,2025-11-23,333100.0,205300.0,Settled,14,None,Health Claims
+193,848,1,Outpatient,2026-03-27,2026-04-02,2026-04-19,351400.0,323200.0,Settled,14,None,Health Claims
+194,854,1,Windscreen,2024-12-08,2024-12-12,2024-12-28,1392600.0,969500.0,Settled,21,None,Motor Claims
+195,871,2,Hospitalisation,2024-10-28,2024-11-02,2024-11-14,109300.0,48800.0,Settled,14,None,Health Claims
+196,878,3,Outpatient,2026-03-20,2026-03-23,2026-04-17,69800.0,42800.0,Settled,14,Provider authorisation,Health Claims
+197,886,1,Theft,2023-10-29,2023-10-29,2023-11-18,879500.0,705500.0,Settled,21,None,Motor Claims
+198,886,2,Theft,2024-12-19,2024-12-29,2025-02-09,402800.0,318100.0,Settled,21,Assessor delay,Motor Claims
+199,890,1,Windscreen,2025-12-10,2025-12-10,2025-12-31,1369200.0,621300.0,Settled,21,None,Motor Claims
+200,890,2,Theft,2026-05-01,2026-05-08,2026-06-12,610100.0,470700.0,Settled,21,Missing documents,Motor Claims
+201,893,1,Maternity,2024-12-23,2024-12-23,2025-01-20,239900.0,0,Rejected,14,Provider authorisation,Health Claims
+202,893,3,Outpatient,2026-09-25,2026-09-25,,40700.0,0,Open,14,None,Health Claims
+203,900,2,Outpatient,2024-11-30,2024-12-10,2024-12-21,187500.0,157400.0,Settled,14,None,Health Claims
+204,905,4,Accident,2026-08-09,2026-08-11,2026-09-11,93800.0,39900.0,Settled,21,Missing documents,Motor Claims
+205,907,1,Hospitalisation,2024-11-29,2024-12-01,2024-12-18,340400.0,160600.0,Settled,14,Provider authorisation,Health Claims
+206,912,3,Burglary,2026-04-04,2026-04-09,2026-05-21,2085100.0,2057300.0,Settled,30,Missing documents,Property Claims
+207,923,1,Hospitalisation,2026-06-16,2026-06-18,2026-07-07,101700.0,54000.0,Settled,14,None,Health Claims
+208,924,1,Maternity,2024-03-25,2024-03-27,2024-04-12,117000.0,99500.0,Settled,14,Provider authorisation,Health Claims
+209,924,2,Outpatient,2025-02-24,2025-03-01,2025-03-13,396100.0,0,Rejected,14,None,Health Claims
+210,924,3,Maternity,2025-12-11,2025-12-17,2025-12-25,295900.0,0,Rejected,14,None,Health Claims
+211,926,3,Death Claim,2026-08-02,2026-08-05,2026-09-24,1531000.0,793900.0,Settled,30,Investigation,Life Claims
+212,930,2,Outpatient,2025-07-10,2025-07-10,2025-07-26,208700.0,0,Rejected,14,None,Health Claims
+213,932,2,Theft,2025-05-29,2025-06-03,2025-06-19,224400.0,221800.0,Settled,21,None,Motor Claims
+214,935,2,Maternity,2024-10-06,2024-10-13,2024-11-02,131400.0,89100.0,Settled,14,Missing documents,Health Claims
+215,935,3,Outpatient,2025-12-14,2025-12-17,2025-12-29,390500.0,341800.0,Settled,14,None,Health Claims
+216,935,4,Maternity,2026-09-08,2026-09-12,2026-09-16,28100.0,20500.0,Settled,14,None,Health Claims
+217,937,1,Hospitalisation,2026-07-28,2026-07-31,2026-08-17,285200.0,279200.0,Settled,14,None,Health Claims
+218,939,1,Windscreen,2025-09-18,2025-09-18,2025-10-05,1031400.0,799100.0,Settled,21,None,Motor Claims
+219,942,1,Outpatient,2026-02-22,2026-02-26,2026-03-15,266900.0,211300.0,Settled,14,None,Health Claims
+220,948,3,Windscreen,2025-11-08,2025-11-08,2025-11-23,1336300.0,1142400.0,Settled,21,None,Motor Claims
+221,955,1,Outpatient,2026-08-04,2026-08-09,2026-09-02,172100.0,160400.0,Settled,14,Provider authorisation,Health Claims
+222,961,2,Maternity,2026-05-29,2026-05-30,2026-06-07,20300.0,20100.0,Settled,14,None,Health Claims
+223,977,1,Maternity,2025-02-06,2025-02-06,2025-02-28,392300.0,247600.0,Settled,14,Missing documents,Health Claims
+224,981,3,Windscreen,2025-10-25,2025-10-29,2025-11-17,1023400.0,499500.0,Settled,21,None,Motor Claims
+225,982,3,Theft,2026-09-25,2026-09-30,,517700.0,0,Open,21,None,Motor Claims
+226,985,1,Hospitalisation,2024-11-19,2024-11-28,2024-12-13,295700.0,218400.0,Settled,14,None,Health Claims
+227,985,2,Maternity,2026-03-22,2026-03-25,2026-04-04,284800.0,268900.0,Settled,14,None,Health Claims
+228,993,2,Maternity,2024-09-17,2024-09-19,2024-09-29,115600.0,48100.0,Settled,14,None,Health Claims
+229,993,4,Maternity,2026-09-22,2026-10-02,,253200.0,0,Open,14,None,Health Claims
+230,997,1,Theft,2025-02-15,2025-02-15,2025-03-07,1454200.0,0,Rejected,21,None,Motor Claims
+231,999,2,Hospitalisation,2026-05-12,2026-05-16,,101900.0,0,Open,14,None,Health Claims
+232,999,3,Maternity,2026-07-11,2026-07-11,2026-07-20,32100.0,28500.0,Settled,14,None,Health Claims
+233,1000,1,Hospitalisation,2024-04-30,2024-05-02,2024-05-13,264300.0,0,Rejected,14,None,Health Claims
+234,1004,2,Third-Party Damage,2024-01-16,2024-01-19,2024-02-04,113600.0,104400.0,Settled,21,Missing documents,Motor Claims
+235,1006,3,Theft,2026-03-07,2026-03-11,2026-04-12,1138800.0,1037300.0,Settled,21,Missing documents,Motor Claims
+236,1007,2,Windscreen,2025-10-29,2025-11-02,2025-11-15,511300.0,464400.0,Settled,21,None,Motor Claims
+237,1008,2,Hospitalisation,2026-01-19,2026-01-21,2026-01-29,97000.0,43400.0,Settled,14,None,Health Claims
+238,1011,1,Theft,2025-11-16,2025-11-22,2025-12-19,1331000.0,1299600.0,Settled,21,Missing documents,Motor Claims
+239,1015,1,Hospitalisation,2025-11-16,2025-11-23,2025-12-15,352800.0,179400.0,Settled,14,Provider authorisation,Health Claims
+240,1029,1,Windscreen,2026-08-17,2026-08-24,2026-09-18,155400.0,120200.0,Settled,21,Assessor delay,Motor Claims
+241,1032,2,Disability,2025-03-15,2025-03-17,2025-04-19,6840500.0,5001400.0,Settled,30,None,Life Claims
+242,1033,2,Outpatient,2024-12-08,2024-12-15,2025-01-14,160200.0,81600.0,Settled,14,Provider authorisation,Health Claims
+243,1035,2,Maternity,2025-01-21,2025-01-25,2025-02-04,193600.0,147300.0,Settled,14,None,Health Claims
+244,1038,1,Theft,2026-09-17,2026-09-23,,749100.0,0,Open,21,None,Motor Claims
+245,1047,1,Hospitalisation,2024-04-04,2024-04-11,2024-04-23,90400.0,90200.0,Settled,14,None,Health Claims
+246,1047,2,Maternity,2024-11-06,2024-11-12,2024-11-26,235300.0,107800.0,Settled,14,None,Health Claims
+247,1047,3,Hospitalisation,2026-09-12,2026-09-13,,317600.0,0,Open,14,Provider authorisation,Health Claims
+248,1051,2,Accident,2024-10-22,2024-10-27,2024-11-17,231600.0,150800.0,Settled,21,None,Motor Claims
+249,1069,1,Outpatient,2025-02-06,2025-02-15,2025-03-02,90200.0,66700.0,Settled,14,None,Health Claims
+250,1073,2,Theft,2024-12-14,2024-12-17,2025-01-05,573600.0,355900.0,Settled,21,None,Motor Claims
+251,1081,1,Outpatient,2023-11-21,2023-11-25,2023-12-05,274700.0,164100.0,Settled,14,None,Health Claims
+252,1094,1,Accident,2025-06-10,2025-06-16,2025-08-02,348400.0,269500.0,Settled,21,Assessor delay,Motor Claims
+253,1099,1,Outpatient,2025-03-01,2025-03-09,2025-03-30,329600.0,0,Rejected,14,Provider authorisation,Health Claims
+254,1102,2,Death Claim,2026-06-20,2026-06-23,,1561200.0,0,Open,30,Missing documents,Life Claims
+255,1116,1,Hospitalisation,2024-05-18,2024-05-18,2024-05-27,354400.0,164900.0,Settled,14,None,Health Claims
+256,1116,3,Hospitalisation,2026-07-13,2026-07-23,2026-08-04,165000.0,116100.0,Settled,14,None,Health Claims
+257,1117,2,Theft,2024-12-01,2024-12-06,2025-01-13,1338000.0,590100.0,Settled,21,Assessor delay,Motor Claims
+258,1123,1,Hospitalisation,2024-05-28,2024-05-30,2024-06-27,53800.0,28000.0,Settled,14,Provider authorisation,Health Claims
+259,1126,1,Outpatient,2024-10-09,2024-10-19,2024-11-01,217700.0,163200.0,Settled,14,None,Health Claims
+260,1126,2,Hospitalisation,2025-08-12,2025-08-20,2025-09-09,205500.0,191600.0,Settled,14,None,Health Claims
+261,1129,1,Theft,2026-05-29,2026-06-03,2026-06-20,1313200.0,621000.0,Settled,21,None,Motor Claims
+262,1143,1,Theft,2026-06-04,2026-06-13,2026-07-13,1317900.0,1097500.0,Settled,21,None,Motor Claims
+263,1151,1,Maternity,2023-10-15,2023-10-20,2023-11-02,247800.0,219300.0,Settled,14,None,Health Claims
+264,1151,2,Outpatient,2024-06-21,2024-06-28,2024-07-24,288600.0,238700.0,Settled,14,Provider authorisation,Health Claims
+265,1153,1,Death Claim,2026-05-30,2026-06-07,,4078400.0,0,Open,30,None,Life Claims
+266,1155,3,Windscreen,2025-10-04,2025-10-13,2025-11-02,286300.0,190200.0,Settled,21,None,Motor Claims
+267,1158,2,Third-Party Injury,2026-05-15,2026-05-21,,508500.0,0,Open,21,None,Motor Claims
+268,1171,2,Windscreen,2025-10-11,2025-10-21,2025-11-20,587800.0,451900.0,Settled,21,Assessor delay,Motor Claims
+269,1178,2,Hospitalisation,2025-03-11,2025-03-15,2025-03-31,155000.0,65800.0,Settled,14,None,Health Claims
+270,1178,4,Outpatient,2026-06-14,2026-06-19,2026-07-08,86900.0,50100.0,Settled,14,None,Health Claims
+271,1189,3,Outpatient,2026-01-17,2026-01-26,2026-02-10,255800.0,248600.0,Settled,14,None,Health Claims
+272,1194,1,Theft,2024-08-25,2024-08-29,2024-10-10,1173900.0,1058500.0,Settled,21,Assessor delay,Motor Claims
+273,1200,3,Maternity,2026-08-26,2026-08-29,2026-09-08,127500.0,82400.0,Settled,14,None,Health Claims
+274,1202,2,Accident,2026-05-04,2026-05-13,2026-06-05,519500.0,229900.0,Settled,21,None,Motor Claims
+275,1207,1,Maternity,2025-10-11,2025-10-18,2025-10-26,395300.0,353800.0,Settled,14,None,Health Claims
+276,1207,2,Hospitalisation,2026-04-30,2026-05-08,2026-05-21,275500.0,232600.0,Settled,14,None,Health Claims
+277,1219,2,Theft,2025-12-04,2025-12-05,2025-12-24,1005800.0,884300.0,Settled,21,None,Motor Claims
+278,1223,3,Theft,2026-08-14,2026-08-22,2026-08-31,1467400.0,1228100.0,Settled,21,None,Motor Claims
+279,1224,1,Theft,2026-01-29,2026-02-07,2026-03-10,285000.0,265300.0,Settled,21,Assessor delay,Motor Claims
+280,1225,2,Theft,2026-04-18,2026-04-21,2026-05-26,1290600.0,654900.0,Settled,21,Assessor delay,Motor Claims
+281,1226,2,Accident,2025-11-30,2025-12-06,2025-12-25,654700.0,353300.0,Settled,21,None,Motor Claims
+282,1230,1,Theft,2023-11-25,2023-11-29,2023-12-29,1351900.0,946100.0,Settled,21,None,Motor Claims
+283,1233,4,Windscreen,2026-08-16,2026-08-26,2026-09-18,980100.0,500400.0,Settled,21,None,Motor Claims
+284,1237,1,Outpatient,2026-08-03,2026-08-04,2026-08-27,128700.0,113900.0,Settled,14,Missing documents,Health Claims
+285,1242,3,Accident,2025-08-02,2025-08-09,2025-09-20,1228600.0,0,Rejected,21,Assessor delay,Motor Claims
+286,1257,1,Hospitalisation,2025-01-10,2025-01-13,2025-02-01,48500.0,41100.0,Settled,14,None,Health Claims
+287,1263,1,Theft,2024-05-14,2024-05-16,2024-06-13,573000.0,0,Rejected,21,None,Motor Claims
+288,1274,2,Hospitalisation,2026-06-06,2026-06-06,2026-06-15,206400.0,174000.0,Settled,14,None,Health Claims
+289,1276,1,Maternity,2025-01-23,2025-01-25,2025-02-04,394200.0,241100.0,Settled,14,None,Health Claims
+290,1276,2,Outpatient,2025-12-16,2025-12-17,2025-12-31,120600.0,49800.0,Settled,14,None,Health Claims
+291,1292,4,Maternity,2026-09-22,2026-09-28,,137700.0,0,Open,14,None,Health Claims
+292,1298,2,Outpatient,2025-03-11,2025-03-19,2025-03-31,205300.0,129200.0,Settled,14,None,Health Claims
+293,1302,1,Third-Party Damage,2023-04-23,2023-04-26,,438800.0,0,Open,21,None,Motor Claims
+294,1315,4,Accident,2026-08-31,2026-09-09,,742400.0,0,Open,21,None,Motor Claims
+295,1318,2,Accident,2026-08-28,2026-09-04,2026-09-23,557600.0,262400.0,Settled,21,None,Motor Claims
+296,1319,1,Theft,2023-11-16,2023-11-21,2023-11-30,1189900.0,645700.0,Settled,21,None,Motor Claims
+297,1319,3,Windscreen,2025-09-09,2025-09-14,2025-10-05,337000.0,195200.0,Settled,21,None,Motor Claims
+298,1327,1,Maternity,2026-07-28,2026-07-31,,374300.0,0,Open,14,None,Health Claims
+299,1335,1,Theft,2023-12-08,2023-12-18,2024-01-07,1095100.0,1019600.0,Settled,21,None,Motor Claims
+300,1342,1,Theft,2026-07-05,2026-07-09,2026-07-22,1450700.0,1446100.0,Settled,21,None,Motor Claims
+301,1345,2,Outpatient,2024-09-21,2024-09-26,2024-10-04,178600.0,0,Rejected,14,None,Health Claims
+302,1346,3,Accident,2026-08-18,2026-08-22,2026-09-29,237100.0,223500.0,Settled,21,Assessor delay,Motor Claims
+303,1349,3,Outpatient,2026-09-28,2026-10-02,,148900.0,0,Open,14,Provider authorisation,Health Claims
+304,1354,1,Outpatient,2024-07-21,2024-07-26,,231500.0,0,Open,14,None,Health Claims
+305,1367,1,Outpatient,2023-05-14,2023-05-14,2023-05-23,77600.0,43500.0,Settled,14,None,Health Claims
+306,1367,3,Outpatient,2025-11-22,2025-11-22,2025-12-18,212600.0,162000.0,Settled,14,Provider authorisation,Health Claims
+307,1367,4,Hospitalisation,2026-04-04,2026-04-04,2026-04-20,327900.0,192200.0,Settled,14,None,Health Claims
+308,1368,1,Accident,2026-09-07,2026-09-13,,345500.0,0,Open,21,None,Motor Claims
+309,1369,2,Maternity,2024-07-14,2024-07-22,2024-08-02,100400.0,69000.0,Settled,14,None,Health Claims
+310,1374,2,Maternity,2025-09-17,2025-09-21,2025-09-30,261000.0,159900.0,Settled,14,None,Health Claims
+311,1374,3,Hospitalisation,2026-06-18,2026-06-26,2026-07-16,268100.0,190100.0,Settled,14,Missing documents,Health Claims
+312,1380,1,Outpatient,2025-07-24,2025-07-25,2025-08-05,391700.0,170000.0,Settled,14,None,Health Claims
+313,1385,1,Accident,2026-08-25,2026-09-02,2026-09-25,826800.0,664200.0,Settled,21,None,Motor Claims
+314,1396,1,Theft,2025-09-17,2025-09-25,2025-10-23,504200.0,0,Rejected,21,Missing documents,Motor Claims
+315,1398,1,Maternity,2025-04-10,2025-04-16,,80000.0,0,Open,14,None,Health Claims
+316,1398,2,Hospitalisation,2026-06-22,2026-06-23,2026-06-30,199300.0,132800.0,Settled,14,None,Health Claims
+317,1401,1,Windscreen,2025-09-23,2025-10-01,2025-10-17,785800.0,764900.0,Settled,21,None,Motor Claims
+318,1407,2,Maternity,2026-09-21,2026-09-28,,307300.0,0,Open,14,None,Health Claims
+319,1410,1,Outpatient,2026-07-27,2026-07-27,2026-08-09,139700.0,89000.0,Settled,14,None,Health Claims
+320,1415,1,Windscreen,2026-08-04,2026-08-14,2026-09-19,1101600.0,923600.0,Settled,21,Missing documents,Motor Claims
+321,1425,1,Maternity,2026-04-17,2026-04-18,2026-05-08,295300.0,131000.0,Settled,14,None,Health Claims
+322,1426,1,Accident,2025-03-23,2025-03-28,2025-04-13,803100.0,482900.0,Settled,21,None,Motor Claims
+323,1427,1,Accident,2023-09-22,2023-09-23,2023-10-17,81800.0,59700.0,Settled,21,Assessor delay,Motor Claims
+324,1428,4,Windscreen,2026-08-04,2026-08-04,2026-08-20,1052500.0,434200.0,Settled,21,None,Motor Claims
+325,1430,1,Windscreen,2026-04-01,2026-04-07,2026-04-26,961200.0,0,Rejected,21,None,Motor Claims
+326,1431,2,Windscreen,2024-07-03,2024-07-11,2024-07-31,935800.0,423500.0,Settled,21,None,Motor Claims
+327,1432,3,Maternity,2026-06-19,2026-06-20,2026-07-11,385100.0,176200.0,Settled,14,Missing documents,Health Claims
+328,1434,1,Accident,2026-05-30,2026-06-05,2026-06-30,844100.0,791800.0,Settled,21,None,Motor Claims
+329,1438,1,Windscreen,2025-11-20,2025-11-21,2025-11-28,1114200.0,1012100.0,Settled,21,None,Motor Claims
+330,1438,2,Theft,2026-07-29,2026-08-07,2026-08-18,1190400.0,841900.0,Settled,21,None,Motor Claims
+331,1439,3,Maternity,2026-05-09,2026-05-16,2026-05-28,86200.0,35900.0,Settled,14,None,Health Claims
+332,1451,1,Hospitalisation,2024-09-21,2024-09-24,2024-10-01,258200.0,127400.0,Settled,14,None,Health Claims
+333,1452,1,Hospitalisation,2026-07-14,2026-07-20,2026-07-27,347600.0,244800.0,Settled,14,None,Health Claims
+334,1453,1,Theft,2026-09-19,2026-09-23,,1494000.0,0,Open,21,Assessor delay,Motor Claims
+335,1454,1,Hospitalisation,2024-06-20,2024-06-23,2024-07-03,33400.0,16600.0,Settled,14,None,Health Claims
+336,1464,2,Windscreen,2026-06-01,2026-06-03,2026-06-20,834200.0,511600.0,Settled,21,None,Motor Claims
+337,1471,1,Windscreen,2025-02-23,2025-02-27,2025-04-02,1194900.0,867400.0,Settled,21,Missing documents,Motor Claims
+338,1472,2,Windscreen,2024-10-31,2024-11-01,2024-11-22,487900.0,252600.0,Settled,21,None,Motor Claims
+339,1476,1,Maternity,2026-09-19,2026-09-26,,290000.0,0,Open,14,None,Health Claims
+340,1477,1,Outpatient,2024-02-23,2024-03-03,2024-03-16,28200.0,22300.0,Settled,14,None,Health Claims
+341,1477,2,Maternity,2025-03-25,2025-03-30,2025-04-16,215700.0,196800.0,Settled,14,None,Health Claims
+342,1484,1,Death Claim,2025-05-20,2025-05-20,2025-06-03,2256100.0,1074800.0,Settled,30,None,Life Claims
+343,1488,1,Theft,2025-06-28,2025-07-03,2025-08-03,460800.0,248400.0,Settled,21,Assessor delay,Motor Claims
+344,1489,1,Maternity,2026-08-20,2026-08-23,2026-09-03,255700.0,174400.0,Settled,14,None,Health Claims
+345,1501,1,Theft,2025-11-30,2025-12-04,2025-12-17,1279800.0,550100.0,Settled,21,None,Motor Claims
+346,1512,1,Maternity,2026-02-03,2026-02-12,2026-02-18,150600.0,108900.0,Settled,14,None,Health Claims
+347,1516,2,Hospitalisation,2025-06-08,2025-06-11,2025-07-02,61000.0,33300.0,Settled,14,Missing documents,Health Claims
+348,1526,1,Accident,2023-11-21,2023-11-28,,1101900.0,0,Open,21,None,Motor Claims
+349,1526,2,Theft,2024-03-09,2024-03-19,2024-04-03,658500.0,0,Rejected,21,None,Motor Claims
+350,1532,1,Maternity,2026-06-20,2026-06-20,2026-07-07,122200.0,95900.0,Settled,14,Provider authorisation,Health Claims
+351,1533,2,Flood,2026-03-04,2026-03-13,2026-04-30,2166600.0,1908200.0,Settled,30,Missing documents,Property Claims
+352,1534,2,Hospitalisation,2024-12-15,2024-12-16,2025-01-03,303100.0,125900.0,Settled,14,None,Health Claims
+353,1537,1,Third-Party Injury,2024-04-21,2024-04-25,2024-05-10,339500.0,0,Rejected,21,None,Motor Claims
+354,1544,1,Outpatient,2026-06-22,2026-07-02,,136200.0,0,Open,14,None,Health Claims
+355,1547,1,Maternity,2024-03-20,2024-03-21,2024-04-08,347200.0,332100.0,Settled,14,None,Health Claims
+356,1547,2,Maternity,2025-01-12,2025-01-21,2025-02-02,224400.0,130300.0,Settled,14,None,Health Claims
+357,1547,3,Hospitalisation,2026-07-01,2026-07-06,,97400.0,0,Open,14,None,Health Claims
+358,1547,4,Maternity,2026-09-03,2026-09-08,2026-09-20,23600.0,23300.0,Settled,14,None,Health Claims
+359,1548,1,Theft,2024-12-16,2024-12-18,2025-01-01,1291200.0,802800.0,Settled,21,None,Motor Claims
+360,1553,1,Death Claim,2026-06-20,2026-06-24,2026-07-15,6656300.0,4892200.0,Settled,30,None,Life Claims
+361,1566,1,Accident,2024-11-25,2024-11-27,2024-12-16,958700.0,567300.0,Settled,21,None,Motor Claims
+362,1591,1,Theft,2026-01-17,2026-01-26,2026-02-14,731800.0,696800.0,Settled,21,None,Motor Claims
+363,1598,2,Accident,2025-06-13,2025-06-19,2025-07-01,183600.0,128300.0,Settled,21,None,Motor Claims
+364,1605,2,Maternity,2026-09-11,2026-09-19,,206200.0,0,Open,14,Missing documents,Health Claims
+365,1614,1,Accident,2025-04-21,2025-04-22,2025-05-13,283900.0,202100.0,Settled,21,None,Motor Claims
+366,1617,1,Hospitalisation,2025-12-04,2025-12-09,,201000.0,0,Open,14,None,Health Claims
+367,1617,2,Maternity,2026-07-29,2026-07-30,2026-08-09,305400.0,127100.0,Settled,14,None,Health Claims
+368,1620,1,Maternity,2023-09-19,2023-09-22,,321700.0,0,Open,14,None,Health Claims
+369,1620,2,Hospitalisation,2024-12-24,2024-12-28,2025-01-16,242300.0,211900.0,Settled,14,Missing documents,Health Claims
+370,1621,2,Hospitalisation,2026-08-12,2026-08-18,2026-09-17,176500.0,107300.0,Settled,14,Provider authorisation,Health Claims
+371,1622,1,Hospitalisation,2023-11-12,2023-11-18,2023-12-05,378800.0,285500.0,Settled,14,None,Health Claims
+372,1622,2,Outpatient,2024-09-11,2024-09-13,2024-09-25,138200.0,61900.0,Settled,14,None,Health Claims
+373,1624,1,Third-Party Damage,2024-12-03,2024-12-12,2025-01-03,148200.0,111300.0,Settled,21,None,Motor Claims
+374,1632,2,Maternity,2024-04-28,2024-05-03,2024-05-18,250200.0,193900.0,Settled,14,Provider authorisation,Health Claims
+375,1633,1,Hospitalisation,2023-12-17,2023-12-26,2024-01-16,356900.0,289000.0,Settled,14,Provider authorisation,Health Claims
+376,1634,1,Hospitalisation,2026-06-15,2026-06-19,2026-07-05,99400.0,0,Rejected,14,None,Health Claims
+377,1642,1,Third-Party Damage,2025-06-02,2025-06-11,2025-06-27,589900.0,448700.0,Settled,21,None,Motor Claims
+378,1643,2,Theft,2025-05-20,2025-05-23,2025-06-21,1271500.0,649600.0,Settled,21,Missing documents,Motor Claims
+379,1643,3,Theft,2026-07-15,2026-07-19,2026-08-15,159000.0,154400.0,Settled,21,None,Motor Claims
+380,1645,2,Accident,2026-07-01,2026-07-02,2026-07-11,1284300.0,731500.0,Settled,21,None,Motor Claims
+381,1662,1,Theft,2025-04-26,2025-04-27,2025-05-19,267900.0,157300.0,Settled,21,None,Motor Claims
+382,1662,2,Theft,2026-06-03,2026-06-04,2026-06-28,340000.0,313800.0,Settled,21,None,Motor Claims
+383,1664,3,Outpatient,2025-05-11,2025-05-12,2025-05-28,322200.0,274800.0,Settled,14,None,Health Claims
+384,1678,1,Theft,2025-10-26,2025-11-03,2025-12-04,1286600.0,842400.0,Settled,21,Missing documents,Motor Claims
+385,1687,3,Windscreen,2025-10-11,2025-10-13,2025-11-28,1244400.0,651300.0,Settled,21,Missing documents,Motor Claims
+386,1690,1,Windscreen,2026-07-25,2026-07-29,2026-08-19,269200.0,207900.0,Settled,21,None,Motor Claims
+387,1696,2,Hospitalisation,2025-03-18,2025-03-19,2025-03-25,108600.0,103200.0,Settled,14,None,Health Claims
+388,1696,4,Maternity,2026-07-16,2026-07-16,2026-07-30,296700.0,237700.0,Settled,14,None,Health Claims
+389,1698,3,Theft,2026-08-18,2026-08-25,2026-09-17,154100.0,152100.0,Settled,21,Missing documents,Motor Claims
+390,1699,1,Flood,2025-12-06,2025-12-06,2025-12-28,2297800.0,1139000.0,Settled,30,None,Property Claims
+391,1711,1,Windscreen,2025-09-29,2025-10-04,2025-10-21,151200.0,143500.0,Settled,21,None,Motor Claims
+392,1717,1,Maternity,2024-03-18,2024-03-18,2024-03-27,352500.0,190800.0,Settled,14,None,Health Claims
+393,1718,1,Accident,2023-02-07,2023-02-12,2023-03-05,680800.0,558900.0,Settled,21,None,Motor Claims
+394,1719,4,Hospitalisation,2026-05-11,2026-05-12,2026-06-04,330200.0,166800.0,Settled,14,Provider authorisation,Health Claims
+395,1721,1,Third-Party Damage,2024-09-05,2024-09-06,2024-09-30,584500.0,422700.0,Settled,21,None,Motor Claims
+396,1727,1,Third-Party Damage,2024-02-11,2024-02-15,,504200.0,0,Open,21,None,Motor Claims
+397,1727,3,Third-Party Damage,2026-07-12,2026-07-20,2026-08-09,106000.0,50700.0,Settled,21,None,Motor Claims
+398,1733,1,Theft,2024-06-05,2024-06-07,2024-06-21,1348900.0,1223200.0,Settled,21,None,Motor Claims
+399,1749,1,Maternity,2023-07-01,2023-07-07,2023-07-27,79900.0,62300.0,Settled,14,Missing documents,Health Claims
+400,1749,3,Hospitalisation,2025-12-27,2025-12-31,2026-01-11,225000.0,149400.0,Settled,14,None,Health Claims
+401,1749,4,Maternity,2026-08-30,2026-09-05,,115800.0,0,Open,14,None,Health Claims
+402,1762,1,Theft,2024-09-11,2024-09-21,2024-10-15,1474400.0,602700.0,Settled,21,Assessor delay,Motor Claims
+403,1764,3,Burglary,2026-02-13,2026-02-23,2026-04-04,2952500.0,1557600.0,Settled,30,None,Property Claims
+404,1766,2,Accident,2026-09-14,2026-09-21,,85200.0,0,Open,21,None,Motor Claims
+405,1770,2,Hospitalisation,2025-12-31,2026-01-02,2026-01-12,184300.0,164000.0,Settled,14,None,Health Claims
+406,1771,2,Accident,2025-05-24,2025-05-30,2025-06-20,1365700.0,1060700.0,Settled,21,None,Motor Claims
+407,1777,1,Accident,2025-09-29,2025-09-30,2025-10-13,766100.0,754700.0,Settled,21,None,Motor Claims
+408,1778,1,Outpatient,2024-07-12,2024-07-14,2024-07-30,128500.0,57700.0,Settled,14,None,Health Claims
+409,1778,2,Maternity,2025-09-25,2025-09-30,2025-10-19,136300.0,59500.0,Settled,14,Provider authorisation,Health Claims
+410,1791,1,Outpatient,2024-02-22,2024-02-23,2024-02-29,98100.0,93100.0,Settled,14,None,Health Claims
+411,1825,2,Outpatient,2024-09-28,2024-10-08,2024-11-06,260800.0,249400.0,Settled,14,Provider authorisation,Health Claims
+412,1833,3,Accident,2025-07-09,2025-07-11,2025-08-24,1124900.0,625700.0,Settled,21,Assessor delay,Motor Claims
+413,1833,4,Windscreen,2026-08-15,2026-08-24,,147000.0,0,Open,21,Assessor delay,Motor Claims
+414,1844,1,Death Claim,2023-06-19,2023-06-19,2023-08-08,2997300.0,2500700.0,Settled,30,Investigation,Life Claims
+415,1855,1,Hospitalisation,2025-11-30,2025-12-06,2025-12-29,242300.0,159900.0,Settled,14,None,Health Claims
+416,1860,1,Windscreen,2024-03-14,2024-03-20,2024-04-10,566400.0,506400.0,Settled,21,None,Motor Claims
+417,1860,3,Theft,2026-03-10,2026-03-14,2026-04-05,1145700.0,993200.0,Settled,21,Assessor delay,Motor Claims
+418,1863,1,Maternity,2025-03-06,2025-03-15,2025-03-25,201800.0,131700.0,Settled,14,None,Health Claims
+419,1867,1,Accident,2025-04-30,2025-05-03,2025-05-20,715600.0,431900.0,Settled,21,None,Motor Claims
+420,1868,3,Theft,2026-09-20,2026-09-27,,1126700.0,0,Open,21,Missing documents,Motor Claims
+421,1869,2,Hospitalisation,2024-04-07,2024-04-15,2024-04-29,286100.0,219400.0,Settled,14,None,Health Claims
+422,1875,1,Maternity,2025-10-13,2025-10-22,2025-11-21,262300.0,174000.0,Settled,14,Provider authorisation,Health Claims
+423,1878,3,Maternity,2026-02-03,2026-02-11,2026-02-25,198800.0,116200.0,Settled,14,None,Health Claims
+424,1882,1,Theft,2026-02-07,2026-02-17,2026-03-14,1153700.0,738000.0,Settled,21,None,Motor Claims
+425,1883,1,Burglary,2026-05-28,2026-05-31,2026-07-16,469600.0,203800.0,Settled,30,Loss adjuster,Property Claims
+426,1884,1,Theft,2024-09-19,2024-09-29,2024-10-19,1439100.0,0,Rejected,21,Assessor delay,Motor Claims
+427,1885,1,Outpatient,2026-07-20,2026-07-30,2026-08-12,148800.0,62500.0,Settled,14,None,Health Claims
+428,1894,1,Outpatient,2025-10-24,2025-10-26,2025-11-05,391500.0,207500.0,Settled,14,None,Health Claims
+429,1894,2,Maternity,2026-07-14,2026-07-17,2026-07-29,359700.0,166700.0,Settled,14,None,Health Claims
+430,1895,1,Theft,2026-07-26,2026-08-01,2026-08-15,1146900.0,798000.0,Settled,21,None,Motor Claims
+431,1898,3,Maternity,2026-07-12,2026-07-22,2026-08-02,329400.0,294600.0,Settled,14,None,Health Claims
+432,1905,1,Windscreen,2026-05-31,2026-06-03,2026-06-11,1036500.0,458000.0,Settled,21,None,Motor Claims
+433,1908,1,Accident,2023-04-19,2023-04-29,2023-05-22,756300.0,0,Rejected,21,None,Motor Claims
+434,1908,2,Windscreen,2024-12-16,2024-12-18,2025-02-10,520900.0,355900.0,Settled,21,Assessor delay,Motor Claims
+435,1909,2,Maternity,2025-07-12,2025-07-13,2025-08-01,88000.0,68700.0,Settled,14,Provider authorisation,Health Claims
+436,1913,2,Hospitalisation,2025-06-26,2025-06-27,2025-07-12,294900.0,258400.0,Settled,14,None,Health Claims
+437,1915,2,Third-Party Damage,2024-09-30,2024-10-04,2024-11-21,588300.0,383300.0,Settled,21,Assessor delay,Motor Claims
+438,1917,2,Accident,2024-11-24,2024-11-30,2024-12-24,453100.0,386900.0,Settled,21,Missing documents,Motor Claims
+439,1919,1,Outpatient,2025-07-25,2025-08-03,2025-08-13,147800.0,116600.0,Settled,14,None,Health Claims
+440,1919,2,Outpatient,2026-09-23,2026-09-30,,177300.0,0,Open,14,Provider authorisation,Health Claims
+441,1924,4,Third-Party Damage,2026-07-22,2026-07-31,2026-08-26,360600.0,339500.0,Settled,21,None,Motor Claims
+442,1927,1,Maternity,2026-03-14,2026-03-16,2026-03-22,348800.0,249600.0,Settled,14,None,Health Claims
+443,1934,1,Maternity,2025-09-24,2025-09-25,2025-10-10,262800.0,149200.0,Settled,14,None,Health Claims
+444,1941,2,Outpatient,2025-04-16,2025-04-22,2025-05-04,231100.0,169700.0,Settled,14,Missing documents,Health Claims
+445,1943,1,Disability,2026-06-25,2026-07-03,2026-07-16,1600200.0,1301600.0,Settled,30,None,Life Claims
+446,1944,2,Third-Party Damage,2024-12-01,2024-12-03,2024-12-18,542200.0,219200.0,Settled,21,None,Motor Claims
+447,1956,1,Windscreen,2024-11-28,2024-11-29,2025-01-12,1248600.0,1008400.0,Settled,21,Assessor delay,Motor Claims
+448,1963,1,Maternity,2026-02-02,2026-02-11,2026-02-26,337100.0,193900.0,Settled,14,None,Health Claims
+449,1964,2,Death Claim,2024-11-03,2024-11-12,2024-11-21,7442000.0,7282500.0,Settled,30,None,Life Claims
+450,1965,3,Theft,2026-04-18,2026-04-23,2026-05-21,1304300.0,790500.0,Settled,21,Missing documents,Motor Claims
+451,1970,1,Accident,2023-02-24,2023-03-05,2023-03-31,878000.0,492000.0,Settled,21,None,Motor Claims
+452,1970,2,Windscreen,2024-09-28,2024-09-28,2024-10-18,166500.0,100900.0,Settled,21,None,Motor Claims
+453,1970,3,Theft,2025-04-03,2025-04-04,2025-04-30,1032200.0,480400.0,Settled,21,None,Motor Claims
+454,1979,2,Outpatient,2026-01-02,2026-01-03,2026-01-20,252100.0,149700.0,Settled,14,Missing documents,Health Claims
+455,1982,1,Outpatient,2026-01-18,2026-01-26,2026-02-16,63500.0,52400.0,Settled,14,Provider authorisation,Health Claims
+456,1982,2,Hospitalisation,2026-09-24,2026-09-24,,21100.0,0,Open,14,None,Health Claims
+457,1990,1,Accident,2024-06-19,2024-06-28,2024-07-15,647300.0,571300.0,Settled,21,None,Motor Claims
+458,1990,2,Accident,2025-07-27,2025-07-31,,493400.0,0,Open,21,Missing documents,Motor Claims
+459,2001,1,Hospitalisation,2025-10-03,2025-10-12,2025-11-10,39200.0,31600.0,Settled,14,Provider authorisation,Health Claims
+460,2003,1,Hospitalisation,2023-03-19,2023-03-29,2023-04-09,213700.0,100000.0,Settled,14,None,Health Claims
+461,2005,3,Accident,2026-06-11,2026-06-12,2026-07-03,1341700.0,683500.0,Settled,21,None,Motor Claims
+462,2013,1,Maternity,2024-12-29,2025-01-05,2025-01-19,207500.0,95200.0,Settled,14,None,Health Claims
+463,2017,1,Windscreen,2026-03-16,2026-03-22,2026-04-30,1375100.0,1060900.0,Settled,21,Missing documents,Motor Claims
+464,2018,2,Outpatient,2026-03-08,2026-03-08,2026-03-29,21400.0,19800.0,Settled,14,Provider authorisation,Health Claims
+465,2022,3,Windscreen,2025-04-29,2025-05-03,2025-06-13,1264200.0,1004500.0,Settled,21,Assessor delay,Motor Claims
+466,2031,2,Theft,2026-09-10,2026-09-15,,834900.0,0,Open,21,Assessor delay,Motor Claims
+467,2034,1,Hospitalisation,2025-07-09,2025-07-11,2025-07-23,311300.0,180100.0,Settled,14,None,Health Claims
+468,2034,3,Maternity,2026-08-07,2026-08-12,2026-09-08,157100.0,138300.0,Settled,14,Provider authorisation,Health Claims
+469,2039,2,Maternity,2024-09-26,2024-09-27,2024-10-09,387100.0,276300.0,Settled,14,Provider authorisation,Health Claims
+470,2045,1,Fire,2025-07-11,2025-07-20,2025-08-18,692200.0,434900.0,Settled,30,Missing documents,Property Claims
+471,2051,2,Accident,2025-02-19,2025-02-27,2025-03-18,853000.0,833100.0,Settled,21,None,Motor Claims
+472,2059,1,Maternity,2024-09-21,2024-09-24,2024-10-23,236500.0,122500.0,Settled,14,Provider authorisation,Health Claims
+473,2059,2,Maternity,2025-02-24,2025-03-06,2025-03-22,77800.0,0,Rejected,14,None,Health Claims
+474,2062,1,Third-Party Damage,2023-09-25,2023-10-03,2023-11-10,124200.0,79700.0,Settled,21,Missing documents,Motor Claims
+475,2067,1,Accident,2025-04-03,2025-04-05,2025-04-27,1420000.0,1383300.0,Settled,21,None,Motor Claims
+476,2071,1,Maternity,2023-11-07,2023-11-13,2023-11-23,147900.0,130400.0,Settled,14,None,Health Claims
+477,2072,1,Third-Party Injury,2026-06-24,2026-06-24,2026-07-20,503000.0,290900.0,Settled,21,None,Motor Claims
+478,2084,2,Third-Party Injury,2024-09-03,2024-09-09,2024-10-08,105200.0,72400.0,Settled,21,Assessor delay,Motor Claims
+479,2085,2,Outpatient,2026-08-04,2026-08-04,2026-08-14,22100.0,10200.0,Settled,14,None,Health Claims
+480,2087,2,Theft,2026-09-26,2026-10-04,,1050400.0,0,Open,21,None,Motor Claims
+481,2092,3,Third-Party Damage,2026-07-13,2026-07-15,2026-08-14,92000.0,56900.0,Settled,21,Assessor delay,Motor Claims
+482,2099,1,Outpatient,2025-03-15,2025-03-23,2025-04-01,151700.0,119200.0,Settled,14,None,Health Claims
+483,2120,2,Hospitalisation,2025-02-12,2025-02-13,2025-02-23,386300.0,184600.0,Settled,14,None,Health Claims
+484,2120,3,Hospitalisation,2026-05-08,2026-05-11,2026-05-24,318200.0,178000.0,Settled,14,None,Health Claims
+485,2124,1,Disability,2025-11-10,2025-11-13,2025-12-06,6184300.0,4955500.0,Settled,30,None,Life Claims
+486,2126,4,Hospitalisation,2026-09-03,2026-09-13,2026-09-23,59500.0,36200.0,Settled,14,None,Health Claims
+487,2129,1,Outpatient,2024-06-22,2024-06-30,2024-07-08,162700.0,77300.0,Settled,14,None,Health Claims
+488,2129,2,Outpatient,2025-10-13,2025-10-19,2025-10-27,337900.0,179800.0,Settled,14,None,Health Claims
+489,2136,2,Theft,2025-01-31,2025-02-02,2025-02-28,158300.0,87800.0,Settled,21,Assessor delay,Motor Claims
+490,2140,1,Maternity,2025-11-15,2025-11-19,2025-11-28,83400.0,67800.0,Settled,14,None,Health Claims
+491,2140,2,Hospitalisation,2026-07-08,2026-07-14,2026-08-01,91200.0,47300.0,Settled,14,None,Health Claims
+492,2141,1,Windscreen,2025-03-10,2025-03-20,2025-04-10,112600.0,61400.0,Settled,21,None,Motor Claims
+493,2142,1,Outpatient,2026-09-15,2026-09-23,,138200.0,0,Open,14,None,Health Claims
+494,2153,1,Theft,2023-05-27,2023-06-01,2023-07-07,1361100.0,768900.0,Settled,21,Missing documents,Motor Claims
+495,2153,3,Theft,2025-04-28,2025-05-01,2025-05-25,326700.0,194000.0,Settled,21,Assessor delay,Motor Claims
+496,2157,1,Burglary,2025-11-19,2025-11-25,2025-12-19,1836400.0,1214400.0,Settled,30,None,Property Claims
+497,2158,1,Theft,2026-02-08,2026-02-17,2026-03-15,426500.0,177800.0,Settled,21,Assessor delay,Motor Claims
+498,2164,3,Theft,2025-11-11,2025-11-19,2025-12-07,703200.0,604400.0,Settled,21,None,Motor Claims
+499,2168,2,Hospitalisation,2024-08-11,2024-08-14,2024-08-29,31400.0,27300.0,Settled,14,None,Health Claims
+500,2168,3,Hospitalisation,2025-08-25,2025-09-01,2025-10-03,385000.0,211200.0,Settled,14,Provider authorisation,Health Claims
+501,2168,4,Maternity,2026-08-15,2026-08-18,2026-09-03,285500.0,251200.0,Settled,14,None,Health Claims
+502,2169,1,Windscreen,2024-05-27,2024-05-29,2024-06-06,1288300.0,0,Rejected,21,None,Motor Claims
+503,2173,1,Hospitalisation,2026-02-18,2026-02-22,2026-03-07,378900.0,274300.0,Settled,14,None,Health Claims
+504,2173,2,Outpatient,2026-07-20,2026-07-21,2026-08-03,46300.0,32000.0,Settled,14,Provider authorisation,Health Claims
+505,2186,2,Outpatient,2025-07-15,2025-07-19,2025-08-04,190300.0,139600.0,Settled,14,None,Health Claims
+506,2210,2,Outpatient,2025-04-28,2025-05-03,2025-05-13,47700.0,21600.0,Settled,14,None,Health Claims
+507,2212,3,Theft,2026-09-14,2026-09-23,,287400.0,0,Open,21,None,Motor Claims
+508,2216,1,Theft,2024-02-22,2024-02-27,2024-03-23,475700.0,288500.0,Settled,21,Assessor delay,Motor Claims
+509,2225,1,Theft,2024-05-04,2024-05-10,2024-05-27,1102300.0,1054600.0,Settled,21,None,Motor Claims
+510,2227,1,Theft,2024-07-20,2024-07-20,2024-08-17,1198700.0,811600.0,Settled,21,Missing documents,Motor Claims
+511,2234,1,Windscreen,2026-04-01,2026-04-02,2026-04-24,1225500.0,921700.0,Settled,21,None,Motor Claims
+512,2250,1,Maternity,2026-05-16,2026-05-19,2026-06-07,32800.0,18600.0,Settled,14,Missing documents,Health Claims
+513,2268,1,Third-Party Damage,2026-03-07,2026-03-17,,396000.0,0,Open,21,None,Motor Claims
+514,2271,1,Accident,2026-09-21,2026-09-28,,114200.0,0,Open,21,None,Motor Claims
+515,2276,2,Hospitalisation,2026-06-27,2026-07-06,,316000.0,0,Open,14,Missing documents,Health Claims
+516,2278,2,Windscreen,2026-04-27,2026-04-27,2026-05-24,643200.0,615700.0,Settled,21,Assessor delay,Motor Claims
+517,2296,1,Windscreen,2026-05-27,2026-06-04,2026-06-28,633500.0,341200.0,Settled,21,None,Motor Claims
+518,2297,1,Outpatient,2024-09-12,2024-09-15,2024-09-23,223100.0,153100.0,Settled,14,None,Health Claims
+519,2299,1,Hospitalisation,2025-05-20,2025-05-29,,222000.0,0,Open,14,None,Health Claims
+520,2300,1,Windscreen,2023-05-13,2023-05-14,2023-06-15,713600.0,628900.0,Settled,21,Assessor delay,Motor Claims
+521,2308,1,Theft,2026-01-07,2026-01-11,2026-02-20,93700.0,41400.0,Settled,21,Assessor delay,Motor Claims
+522,2308,2,Windscreen,2026-07-26,2026-07-27,2026-08-16,546600.0,342400.0,Settled,21,None,Motor Claims
+523,2309,1,Theft,2024-02-02,2024-02-12,2024-03-02,1181800.0,1150300.0,Settled,21,None,Motor Claims
+524,2309,4,Theft,2026-06-03,2026-06-12,2026-07-06,442600.0,430100.0,Settled,21,None,Motor Claims
+525,2313,1,Theft,2023-09-17,2023-09-24,2023-10-01,737800.0,575800.0,Settled,21,None,Motor Claims
+526,2313,2,Windscreen,2024-12-10,2024-12-17,2025-01-03,930000.0,560800.0,Settled,21,None,Motor Claims
+527,2316,1,Third-Party Injury,2025-05-11,2025-05-21,2025-06-23,332700.0,223900.0,Settled,21,None,Motor Claims
+528,2321,3,Accident,2026-09-01,2026-09-07,,320200.0,0,Open,21,Missing documents,Motor Claims
+529,2329,1,Accident,2025-06-11,2025-06-20,2025-07-09,876900.0,415700.0,Settled,21,None,Motor Claims
+530,2330,4,Burglary,2026-08-20,2026-08-26,2026-09-23,536900.0,322600.0,Settled,30,None,Property Claims
+531,2333,1,Windscreen,2026-06-26,2026-07-06,2026-08-14,1116200.0,893400.0,Settled,21,Assessor delay,Motor Claims
+532,2335,1,Accident,2026-06-27,2026-07-04,2026-08-05,632800.0,365400.0,Settled,21,None,Motor Claims
+533,2355,3,Theft,2025-09-01,2025-09-09,2025-10-23,404000.0,229800.0,Settled,21,Assessor delay,Motor Claims
+534,2361,2,Hospitalisation,2026-07-01,2026-07-09,2026-08-03,55400.0,43900.0,Settled,14,Provider authorisation,Health Claims
+535,2369,2,Accident,2026-07-10,2026-07-18,2026-08-10,427100.0,287000.0,Settled,21,Missing documents,Motor Claims
+536,2369,3,Theft,2026-09-29,2026-10-01,,633000.0,0,Open,21,Assessor delay,Motor Claims
+537,2375,1,Maternity,2024-11-26,2024-12-02,2024-12-11,226800.0,140100.0,Settled,14,None,Health Claims
+538,2375,2,Maternity,2026-05-06,2026-05-10,2026-05-22,155400.0,103300.0,Settled,14,None,Health Claims
+539,2377,1,Windscreen,2024-07-03,2024-07-10,2024-07-26,443800.0,325700.0,Settled,21,None,Motor Claims
+540,2379,1,Theft,2024-05-10,2024-05-20,2024-05-31,743800.0,313200.0,Settled,21,None,Motor Claims
+541,2384,1,Outpatient,2024-08-12,2024-08-15,2024-08-31,394100.0,296800.0,Settled,14,None,Health Claims
+542,2384,2,Outpatient,2025-08-05,2025-08-11,2025-08-18,311400.0,205300.0,Settled,14,None,Health Claims
+543,2384,3,Hospitalisation,2026-01-26,2026-01-29,2026-02-12,66400.0,45900.0,Settled,14,Provider authorisation,Health Claims
+544,2387,2,Accident,2025-12-25,2025-12-29,2026-01-14,1273500.0,1024100.0,Settled,21,None,Motor Claims
+545,2390,1,Maternity,2026-06-16,2026-06-17,2026-07-02,297200.0,262900.0,Settled,14,None,Health Claims
+546,2395,1,Maternity,2023-09-06,2023-09-07,2023-09-18,69600.0,0,Rejected,14,None,Health Claims
+547,2395,2,Hospitalisation,2025-03-27,2025-03-29,2025-04-20,54700.0,23700.0,Settled,14,Missing documents,Health Claims
+548,2397,1,Maternity,2024-11-22,2024-11-26,2024-12-20,36500.0,31400.0,Settled,14,Missing documents,Health Claims
+549,2406,1,Hospitalisation,2024-05-11,2024-05-14,2024-05-26,177500.0,106000.0,Settled,14,None,Health Claims
+550,2406,3,Maternity,2026-03-22,2026-03-31,2026-04-18,398200.0,354900.0,Settled,14,Provider authorisation,Health Claims
+551,2415,1,Theft,2025-05-15,2025-05-24,2025-06-06,449600.0,244800.0,Settled,21,None,Motor Claims
+552,2418,1,Outpatient,2024-01-13,2024-01-15,2024-02-01,394400.0,184600.0,Settled,14,None,Health Claims
+553,2419,1,Maternity,2025-01-11,2025-01-21,2025-01-30,100600.0,57300.0,Settled,14,None,Health Claims
+554,2422,2,Third-Party Damage,2024-09-09,2024-09-19,2024-09-28,326000.0,134500.0,Settled,21,None,Motor Claims
+555,2425,3,Accident,2025-09-24,2025-09-29,2025-11-16,1088000.0,640000.0,Settled,21,Assessor delay,Motor Claims
+556,2430,1,Third-Party Damage,2026-05-01,2026-05-07,2026-05-26,485200.0,201000.0,Settled,21,None,Motor Claims
+557,2447,3,Theft,2026-08-14,2026-08-18,2026-09-12,369000.0,299400.0,Settled,21,None,Motor Claims
+558,2453,1,Outpatient,2026-09-13,2026-09-22,,205600.0,0,Open,14,None,Health Claims
+559,2454,1,Theft,2024-09-13,2024-09-19,2024-10-23,1119400.0,475400.0,Settled,21,Missing documents,Motor Claims
+560,2455,2,Accident,2025-01-20,2025-01-21,2025-02-02,1238300.0,813200.0,Settled,21,None,Motor Claims
+561,2455,3,Windscreen,2026-09-02,2026-09-05,2026-09-21,938900.0,745300.0,Settled,21,None,Motor Claims
+562,2461,1,Accident,2023-12-01,2023-12-03,2023-12-27,705000.0,308900.0,Settled,21,None,Motor Claims
+563,2470,1,Outpatient,2024-06-11,2024-06-16,2024-06-29,43300.0,20300.0,Settled,14,None,Health Claims
+564,2478,1,Third-Party Injury,2026-06-08,2026-06-11,2026-06-27,59400.0,55500.0,Settled,21,None,Motor Claims
+565,2481,2,Theft,2026-02-07,2026-02-15,2026-03-13,1387100.0,864900.0,Settled,21,None,Motor Claims
+566,2482,3,Accident,2026-06-27,2026-07-04,2026-07-22,1119400.0,994000.0,Settled,21,None,Motor Claims
+567,2486,1,Maternity,2024-07-01,2024-07-10,2024-08-08,185400.0,147000.0,Settled,14,Provider authorisation,Health Claims
+568,2490,1,Hospitalisation,2024-06-05,2024-06-09,2024-06-29,52300.0,38600.0,Settled,14,Provider authorisation,Health Claims
+569,2495,2,Accident,2026-06-22,2026-06-29,2026-07-28,324800.0,227500.0,Settled,21,Missing documents,Motor Claims
+570,2500,1,Accident,2025-03-13,2025-03-14,2025-04-12,1189900.0,979000.0,Settled,21,Missing documents,Motor Claims
+571,2505,1,Outpatient,2023-08-21,2023-08-29,2023-09-16,352300.0,259400.0,Settled,14,None,Health Claims
+572,2505,4,Maternity,2026-05-24,2026-05-24,2026-06-16,72500.0,39800.0,Settled,14,Missing documents,Health Claims
+573,2506,2,Maternity,2026-06-09,2026-06-10,2026-07-03,135400.0,83200.0,Settled,14,Missing documents,Health Claims
+574,2509,3,Maternity,2026-03-04,2026-03-12,2026-03-31,93300.0,46600.0,Settled,14,Provider authorisation,Health Claims
+575,2518,2,Outpatient,2025-04-04,2025-04-14,2025-04-29,47200.0,31300.0,Settled,14,None,Health Claims
+576,2520,1,Third-Party Damage,2024-11-15,2024-11-16,2024-12-04,580400.0,328400.0,Settled,21,None,Motor Claims
+577,2524,2,Accident,2024-05-29,2024-06-01,2024-07-05,486000.0,476100.0,Settled,21,Assessor delay,Motor Claims
+578,2524,4,Windscreen,2026-01-08,2026-01-13,2026-01-29,824500.0,702500.0,Settled,21,None,Motor Claims
+579,2528,2,Hospitalisation,2024-10-13,2024-10-18,2024-11-02,55900.0,52600.0,Settled,14,None,Health Claims
+580,2529,2,Maternity,2026-06-24,2026-07-04,2026-07-18,65000.0,43600.0,Settled,14,None,Health Claims
+581,2535,1,Accident,2025-08-09,2025-08-12,2025-09-02,971500.0,928600.0,Settled,21,None,Motor Claims
+582,2537,1,Theft,2023-09-08,2023-09-12,2023-10-09,361000.0,328600.0,Settled,21,None,Motor Claims
+583,2539,1,Accident,2026-08-09,2026-08-19,2026-09-07,1165900.0,1030900.0,Settled,21,None,Motor Claims
+584,2542,1,Maternity,2024-03-18,2024-03-21,2024-04-03,224400.0,118700.0,Settled,14,None,Health Claims
+585,2542,2,Hospitalisation,2025-09-02,2025-09-10,2025-09-19,27900.0,24400.0,Settled,14,None,Health Claims
+586,2546,2,Windscreen,2026-07-23,2026-07-29,2026-08-21,601800.0,334800.0,Settled,21,None,Motor Claims
+587,2549,1,Windscreen,2024-12-11,2024-12-17,2025-01-11,591400.0,399400.0,Settled,21,Assessor delay,Motor Claims
+588,2568,1,Accident,2023-09-30,2023-10-07,2023-10-29,829500.0,383300.0,Settled,21,None,Motor Claims
+589,2570,1,Hospitalisation,2024-02-18,2024-02-22,2024-03-04,322700.0,202400.0,Settled,14,None,Health Claims
+590,2577,1,Windscreen,2025-07-12,2025-07-15,2025-08-01,1301900.0,1191900.0,Settled,21,None,Motor Claims
+591,2580,1,Third-Party Damage,2025-08-07,2025-08-12,2025-10-01,393500.0,200400.0,Settled,21,Assessor delay,Motor Claims
+592,2581,1,Theft,2025-05-15,2025-05-22,2025-06-09,568800.0,0,Rejected,21,None,Motor Claims
+593,2586,1,Accident,2025-06-20,2025-06-25,2025-07-15,1280200.0,579300.0,Settled,21,None,Motor Claims
+594,2595,2,Hospitalisation,2025-07-20,2025-07-30,2025-08-10,196500.0,148700.0,Settled,14,None,Health Claims
+595,2601,3,Accident,2026-09-17,2026-09-27,,869000.0,0,Open,21,None,Motor Claims
+596,2604,3,Theft,2026-09-25,2026-09-26,,247100.0,0,Open,21,None,Motor Claims
+597,2606,1,Theft,2026-04-11,2026-04-12,2026-06-02,223000.0,201400.0,Settled,21,Assessor delay,Motor Claims
+598,2606,2,Theft,2026-06-27,2026-07-02,2026-07-19,904900.0,883500.0,Settled,21,None,Motor Claims
+599,2617,3,Hospitalisation,2026-09-01,2026-09-04,2026-09-20,339100.0,230600.0,Settled,14,None,Health Claims
+600,2621,1,Hospitalisation,2025-02-08,2025-02-14,2025-02-24,105200.0,56400.0,Settled,14,None,Health Claims
+601,2627,1,Windscreen,2025-05-12,2025-05-21,2025-06-11,490300.0,266200.0,Settled,21,None,Motor Claims
+602,2632,2,Windscreen,2025-04-03,2025-04-09,2025-04-26,827600.0,462900.0,Settled,21,None,Motor Claims
+603,2645,2,Theft,2024-09-27,2024-09-28,2024-10-21,938800.0,0,Rejected,21,Missing documents,Motor Claims
+604,2646,3,Maternity,2026-05-30,2026-06-03,2026-06-18,113000.0,53300.0,Settled,14,Provider authorisation,Health Claims
+605,2656,2,Outpatient,2025-01-05,2025-01-08,2025-01-26,355200.0,0,Rejected,14,None,Health Claims
+606,2656,3,Outpatient,2026-06-30,2026-06-30,2026-07-10,48400.0,37700.0,Settled,14,None,Health Claims
+607,2663,2,Accident,2024-05-11,2024-05-14,2024-07-04,1196000.0,768700.0,Settled,21,Assessor delay,Motor Claims
+608,2668,1,Windscreen,2023-07-12,2023-07-15,2023-08-26,1244900.0,686600.0,Settled,21,Missing documents,Motor Claims
+609,2671,4,Accident,2026-05-25,2026-06-03,2026-07-16,1230100.0,681700.0,Settled,21,Assessor delay,Motor Claims
+610,2673,1,Windscreen,2026-02-17,2026-02-17,2026-03-04,1158400.0,863100.0,Settled,21,None,Motor Claims
+611,2675,3,Hospitalisation,2025-09-12,2025-09-13,2025-09-28,35300.0,32500.0,Settled,14,None,Health Claims
+612,2686,3,Death Claim,2026-06-29,2026-07-01,2026-07-17,2756500.0,2081900.0,Settled,30,None,Life Claims
+613,2690,1,Theft,2025-04-01,2025-04-04,2025-04-20,829200.0,516900.0,Settled,21,None,Motor Claims
+614,2702,3,Accident,2026-08-11,2026-08-17,,115800.0,0,Open,21,Assessor delay,Motor Claims
+615,2705,1,Theft,2026-08-31,2026-09-06,,938200.0,0,Open,21,Assessor delay,Motor Claims
+616,2708,1,Accident,2025-02-07,2025-02-13,2025-03-04,793000.0,488000.0,Settled,21,None,Motor Claims
+617,2711,1,Accident,2025-09-15,2025-09-25,2025-10-13,633400.0,330000.0,Settled,21,None,Motor Claims
+618,2712,1,Maternity,2025-11-20,2025-11-26,2025-12-05,114200.0,111400.0,Settled,14,None,Health Claims
+619,2712,2,Maternity,2026-09-22,2026-09-27,,370300.0,0,Open,14,None,Health Claims
+620,2717,2,Hospitalisation,2026-01-21,2026-01-22,2026-02-06,92500.0,81400.0,Settled,14,None,Health Claims
+621,2720,1,Windscreen,2025-03-06,2025-03-08,2025-04-23,690600.0,622700.0,Settled,21,Assessor delay,Motor Claims
+622,2725,1,Maternity,2023-10-08,2023-10-17,2023-11-02,326200.0,204700.0,Settled,14,None,Health Claims
+623,2725,2,Maternity,2024-03-29,2024-04-03,2024-04-16,306700.0,155900.0,Settled,14,None,Health Claims
+624,2734,1,Maternity,2024-06-26,2024-07-06,2024-07-22,22800.0,13300.0,Settled,14,None,Health Claims
+625,2734,3,Hospitalisation,2026-06-21,2026-06-22,2026-07-10,121400.0,0,Rejected,14,None,Health Claims
+626,2738,3,Outpatient,2026-07-09,2026-07-10,2026-07-23,245100.0,102100.0,Settled,14,None,Health Claims
+627,2741,1,Third-Party Injury,2026-09-18,2026-09-25,,473700.0,0,Open,21,Missing documents,Motor Claims
+628,2751,2,Outpatient,2026-04-29,2026-05-01,2026-05-11,306700.0,196200.0,Settled,14,None,Health Claims
+629,2754,2,Flood,2025-08-07,2025-08-09,2025-09-27,1778500.0,1520600.0,Settled,30,Loss adjuster,Property Claims
+630,2757,3,Windscreen,2026-04-05,2026-04-06,2026-04-25,618900.0,507500.0,Settled,21,None,Motor Claims
+631,2758,1,Hospitalisation,2025-08-10,2025-08-13,2025-09-06,390200.0,227700.0,Settled,14,Missing documents,Health Claims
+632,2761,1,Maternity,2023-12-03,2023-12-10,2023-12-22,240800.0,185600.0,Settled,14,None,Health Claims
+633,2761,2,Hospitalisation,2025-04-26,2025-05-01,2025-05-21,294800.0,249600.0,Settled,14,Missing documents,Health Claims
+634,2765,1,Windscreen,2026-05-16,2026-05-18,2026-06-02,319200.0,303000.0,Settled,21,None,Motor Claims
+635,2771,2,Third-Party Injury,2024-12-24,2024-12-25,2025-01-20,554300.0,438600.0,Settled,21,None,Motor Claims
+636,2782,1,Hospitalisation,2026-01-13,2026-01-17,2026-02-06,223200.0,174100.0,Settled,14,None,Health Claims
+637,2790,1,Maternity,2025-08-04,2025-08-09,2025-08-25,34200.0,0,Rejected,14,None,Health Claims
+638,2791,1,Accident,2024-07-11,2024-07-21,2024-08-08,364400.0,306400.0,Settled,21,None,Motor Claims
+639,2796,2,Hospitalisation,2026-06-18,2026-06-23,2026-07-05,40800.0,21300.0,Settled,14,Provider authorisation,Health Claims
+640,2799,2,Third-Party Damage,2025-01-28,2025-01-30,2025-02-26,126300.0,98700.0,Settled,21,Assessor delay,Motor Claims
+641,2800,1,Third-Party Injury,2025-06-10,2025-06-19,2025-07-08,149100.0,75700.0,Settled,21,None,Motor Claims
+642,2806,1,Accident,2025-07-06,2025-07-13,2025-07-27,257200.0,242000.0,Settled,21,None,Motor Claims
+643,2806,2,Windscreen,2026-05-19,2026-05-28,,1015700.0,0,Open,21,None,Motor Claims
+644,2807,1,Third-Party Injury,2025-10-14,2025-10-14,2025-11-23,243300.0,189400.0,Settled,21,Assessor delay,Motor Claims
+645,2809,1,Theft,2024-10-02,2024-10-02,2024-11-18,405600.0,246200.0,Settled,21,Missing documents,Motor Claims
+646,2813,2,Outpatient,2026-05-27,2026-05-27,2026-06-25,225900.0,122400.0,Settled,14,Provider authorisation,Health Claims
+647,2823,4,Third-Party Damage,2026-06-20,2026-06-22,2026-07-12,74400.0,62100.0,Settled,21,None,Motor Claims
+648,2828,1,Theft,2024-04-19,2024-04-19,2024-05-08,141100.0,86000.0,Settled,21,None,Motor Claims
+649,2849,3,Outpatient,2026-06-08,2026-06-16,2026-07-10,260100.0,182600.0,Settled,14,Provider authorisation,Health Claims
+650,2851,2,Maternity,2026-08-29,2026-09-02,2026-09-10,114000.0,90500.0,Settled,14,None,Health Claims
+651,2852,2,Accident,2026-03-15,2026-03-17,2026-04-05,811000.0,495300.0,Settled,21,None,Motor Claims
+652,2862,2,Maternity,2024-08-25,2024-09-03,2024-09-22,269600.0,181700.0,Settled,14,None,Health Claims
+653,2862,3,Hospitalisation,2025-08-15,2025-08-17,2025-08-25,331800.0,231100.0,Settled,14,None,Health Claims
+654,2864,2,Hospitalisation,2025-05-05,2025-05-15,2025-05-28,381000.0,276200.0,Settled,14,None,Health Claims
+655,2864,3,Hospitalisation,2026-05-13,2026-05-13,2026-05-26,42500.0,41500.0,Settled,14,None,Health Claims
+656,2872,1,Hospitalisation,2025-11-07,2025-11-10,2025-11-14,244700.0,194700.0,Settled,14,None,Health Claims
+657,2875,2,Theft,2026-08-16,2026-08-16,2026-08-30,1230600.0,1200400.0,Settled,21,None,Motor Claims
+658,2883,1,Maternity,2026-03-14,2026-03-21,2026-03-29,244600.0,182000.0,Settled,14,None,Health Claims
+659,2889,1,Outpatient,2024-09-08,2024-09-11,2024-09-26,371100.0,204500.0,Settled,14,None,Health Claims
+660,2893,1,Maternity,2025-05-02,2025-05-09,2025-06-01,208100.0,131400.0,Settled,14,Provider authorisation,Health Claims
+661,2905,1,Hospitalisation,2026-07-25,2026-08-03,2026-08-19,331600.0,235400.0,Settled,14,None,Health Claims
+662,2907,1,Maternity,2025-06-01,2025-06-07,2025-07-02,110300.0,89300.0,Settled,14,Provider authorisation,Health Claims
+663,2909,1,Outpatient,2026-02-09,2026-02-11,,35700.0,0,Open,14,Provider authorisation,Health Claims
+664,2912,2,Flood,2026-05-28,2026-05-30,2026-07-19,162800.0,0,Rejected,30,Loss adjuster,Property Claims
+665,2915,2,Outpatient,2025-01-21,2025-01-24,2025-02-05,276900.0,127300.0,Settled,14,None,Health Claims
+666,2915,3,Outpatient,2026-06-30,2026-07-06,2026-07-25,155700.0,0,Rejected,14,Missing documents,Health Claims
+667,2919,2,Theft,2026-09-27,2026-10-03,,1327900.0,0,Open,21,None,Motor Claims
+668,2923,1,Maternity,2025-10-14,2025-10-20,2025-11-10,133300.0,131100.0,Settled,14,Missing documents,Health Claims
+669,2923,2,Hospitalisation,2026-06-25,2026-07-05,2026-08-02,89500.0,37500.0,Settled,14,Provider authorisation,Health Claims
+670,2930,1,Theft,2025-12-29,2025-12-31,2026-01-20,1321900.0,1139000.0,Settled,21,None,Motor Claims
+671,2932,1,Hospitalisation,2025-04-07,2025-04-13,2025-05-04,306600.0,198800.0,Settled,14,None,Health Claims
+672,2932,2,Hospitalisation,2026-02-23,2026-03-02,2026-03-13,264700.0,214200.0,Settled,14,None,Health Claims
+673,2946,1,Windscreen,2023-07-19,2023-07-23,,1252500.0,0,Open,21,None,Motor Claims
+674,2948,1,Maternity,2025-02-24,2025-02-25,2025-03-07,154200.0,134700.0,Settled,14,None,Health Claims
+675,2948,2,Hospitalisation,2026-01-18,2026-01-27,2026-02-05,214500.0,161600.0,Settled,14,None,Health Claims
+676,2948,3,Hospitalisation,2026-09-02,2026-09-07,2026-09-17,244800.0,195400.0,Settled,14,None,Health Claims
+677,2951,2,Windscreen,2026-01-18,2026-01-18,2026-02-06,1158900.0,483300.0,Settled,21,None,Motor Claims
+678,2959,3,Third-Party Damage,2026-09-22,2026-09-22,,306200.0,0,Open,21,Assessor delay,Motor Claims
+679,2960,2,Accident,2026-03-13,2026-03-16,2026-04-11,424300.0,0,Rejected,21,Missing documents,Motor Claims
+680,2962,2,Maternity,2025-11-16,2025-11-16,2025-11-30,41400.0,35700.0,Settled,14,None,Health Claims
+681,2964,2,Accident,2024-07-28,2024-07-29,2024-08-22,1234900.0,745500.0,Settled,21,None,Motor Claims
+682,2965,1,Maternity,2023-07-01,2023-07-11,2023-08-20,75000.0,0,Rejected,14,Provider authorisation,Health Claims
+683,2969,2,Accident,2026-03-17,2026-03-27,2026-04-25,937100.0,638400.0,Settled,21,None,Motor Claims
+684,2977,1,Third-Party Injury,2026-01-21,2026-01-29,2026-02-18,545100.0,330600.0,Settled,21,None,Motor Claims
+685,2978,2,Outpatient,2025-08-27,2025-08-31,2025-09-18,265500.0,178600.0,Settled,14,Missing documents,Health Claims
+686,2981,3,Windscreen,2026-09-11,2026-09-11,2026-09-26,904100.0,470700.0,Settled,21,None,Motor Claims
+687,2982,1,Windscreen,2025-09-13,2025-09-23,2025-10-27,1431700.0,0,Rejected,21,Assessor delay,Motor Claims
+688,2983,1,Outpatient,2026-06-10,2026-06-19,2026-07-03,121200.0,88400.0,Settled,14,None,Health Claims
+689,2994,1,Windscreen,2025-05-12,2025-05-12,2025-06-05,1040200.0,859000.0,Settled,21,None,Motor Claims
+690,2994,2,Windscreen,2026-08-31,2026-09-08,2026-09-28,191000.0,111000.0,Settled,21,None,Motor Claims
+691,3000,1,Hospitalisation,2024-11-10,2024-11-14,2024-11-28,249300.0,191400.0,Settled,14,None,Health Claims
+692,3000,3,Hospitalisation,2025-12-09,2025-12-16,,257300.0,0,Open,14,None,Health Claims
+693,3002,2,Accident,2026-06-06,2026-06-08,2026-06-28,240500.0,219100.0,Settled,21,None,Motor Claims
+694,3005,3,Theft,2025-03-24,2025-03-29,2025-04-17,1317300.0,1239800.0,Settled,21,None,Motor Claims
+695,3008,1,Maternity,2025-08-11,2025-08-21,2025-09-28,221100.0,127100.0,Settled,14,Provider authorisation,Health Claims
+696,3008,3,Hospitalisation,2026-08-31,2026-09-07,2026-09-23,221500.0,98100.0,Settled,14,Provider authorisation,Health Claims
+697,3009,1,Outpatient,2026-08-22,2026-08-22,2026-08-30,108500.0,89700.0,Settled,14,None,Health Claims
+698,3013,1,Disability,2026-07-03,2026-07-10,2026-08-02,7318200.0,5302700.0,Settled,30,None,Life Claims
+699,3015,2,Theft,2026-02-04,2026-02-10,2026-02-19,1326000.0,888400.0,Settled,21,None,Motor Claims
+700,3032,2,Maternity,2026-04-18,2026-04-28,2026-05-08,234000.0,153600.0,Settled,14,None,Health Claims
+701,3046,1,Outpatient,2026-02-18,2026-02-18,2026-03-13,247700.0,159400.0,Settled,14,Provider authorisation,Health Claims
+702,3055,1,Windscreen,2025-02-20,2025-02-23,2025-03-22,892300.0,428200.0,Settled,21,Missing documents,Motor Claims
+703,3057,2,Theft,2025-04-03,2025-04-09,2025-06-01,1416100.0,1105000.0,Settled,21,Assessor delay,Motor Claims
+704,3059,1,Accident,2025-04-12,2025-04-17,2025-05-19,642700.0,638600.0,Settled,21,Assessor delay,Motor Claims
+705,3061,1,Hospitalisation,2026-07-28,2026-07-28,2026-08-21,109000.0,69000.0,Settled,14,Missing documents,Health Claims
+706,3065,1,Flood,2024-03-03,2024-03-13,2024-05-23,570400.0,522100.0,Settled,30,Loss adjuster,Property Claims
+707,3066,2,Accident,2026-07-30,2026-08-02,2026-09-04,701200.0,612700.0,Settled,21,Assessor delay,Motor Claims
+708,3071,1,Theft,2025-04-19,2025-04-19,2025-05-04,682700.0,328800.0,Settled,21,None,Motor Claims
+709,3080,2,Outpatient,2026-07-04,2026-07-11,2026-07-24,116700.0,54300.0,Settled,14,None,Health Claims
+710,3089,2,Accident,2026-01-17,2026-01-24,2026-02-08,977500.0,653700.0,Settled,21,None,Motor Claims
+711,3089,3,Windscreen,2026-07-26,2026-07-28,2026-08-08,1351600.0,1062800.0,Settled,21,None,Motor Claims
+712,3092,1,Hospitalisation,2026-02-22,2026-02-25,2026-03-12,47500.0,26900.0,Settled,14,None,Health Claims
+713,3101,1,Maternity,2025-08-15,2025-08-20,2025-08-29,274300.0,248400.0,Settled,14,None,Health Claims
+714,3102,1,Maternity,2026-02-14,2026-02-19,2026-02-28,181400.0,160900.0,Settled,14,None,Health Claims
+715,3103,1,Accident,2024-03-20,2024-03-29,2024-04-20,756000.0,312900.0,Settled,21,None,Motor Claims
+716,3103,3,Windscreen,2026-06-12,2026-06-16,,1326500.0,0,Open,21,Assessor delay,Motor Claims
+717,3105,1,Accident,2023-09-06,2023-09-16,2023-10-31,562300.0,0,Rejected,21,Assessor delay,Motor Claims
+718,3107,1,Outpatient,2025-02-17,2025-02-27,2025-03-17,269400.0,156200.0,Settled,14,None,Health Claims
+719,3107,2,Maternity,2025-05-23,2025-05-29,2025-06-13,345200.0,278200.0,Settled,14,None,Health Claims
+720,3109,4,Maternity,2026-08-29,2026-09-04,2026-09-20,88400.0,58600.0,Settled,14,None,Health Claims
+721,3110,1,Theft,2024-12-25,2024-12-29,2025-01-23,121300.0,76000.0,Settled,21,None,Motor Claims
+722,3120,1,Outpatient,2025-02-17,2025-02-17,2025-03-02,373900.0,275600.0,Settled,14,None,Health Claims
+723,3120,3,Maternity,2026-09-15,2026-09-15,2026-09-22,242700.0,0,Rejected,14,None,Health Claims
+724,3132,3,Hospitalisation,2026-02-28,2026-03-05,,113000.0,0,Open,14,None,Health Claims
+725,3135,3,Third-Party Damage,2025-09-01,2025-09-01,2025-09-26,203000.0,177700.0,Settled,21,None,Motor Claims
+726,3146,1,Hospitalisation,2025-07-30,2025-08-08,2025-09-04,258400.0,202000.0,Settled,14,Provider authorisation,Health Claims
+727,3146,2,Hospitalisation,2026-07-18,2026-07-22,2026-08-05,21400.0,0,Rejected,14,None,Health Claims
+728,3152,2,Maternity,2025-12-07,2025-12-15,2025-12-18,334400.0,275000.0,Settled,14,None,Health Claims
+729,3155,2,Third-Party Damage,2026-09-22,2026-09-26,,57300.0,0,Open,21,None,Motor Claims
+730,3161,1,Accident,2026-01-15,2026-01-16,2026-02-04,931400.0,0,Rejected,21,None,Motor Claims
+731,3162,1,Accident,2026-09-08,2026-09-12,,1233000.0,0,Open,21,None,Motor Claims
+732,3163,1,Outpatient,2025-07-18,2025-07-26,2025-08-10,186600.0,94300.0,Settled,14,None,Health Claims
+733,3163,2,Hospitalisation,2025-09-19,2025-09-28,2025-10-07,273400.0,269800.0,Settled,14,None,Health Claims
+734,3177,1,Accident,2025-02-11,2025-02-11,2025-02-24,1429800.0,992800.0,Settled,21,None,Motor Claims
+735,3177,3,Accident,2026-06-27,2026-07-07,2026-08-16,664300.0,378300.0,Settled,21,Missing documents,Motor Claims
+736,3179,1,Theft,2025-07-29,2025-07-29,2025-08-25,587000.0,235600.0,Settled,21,Assessor delay,Motor Claims
+737,3180,1,Maternity,2023-07-11,2023-07-12,2023-08-09,142700.0,123000.0,Settled,14,Missing documents,Health Claims
+738,3180,4,Outpatient,2026-07-23,2026-07-25,2026-08-13,353300.0,193900.0,Settled,14,None,Health Claims
+739,3182,1,Windscreen,2024-09-17,2024-09-25,2024-10-22,1453400.0,1432600.0,Settled,21,None,Motor Claims
+740,3182,3,Windscreen,2026-08-28,2026-09-06,,1170300.0,0,Open,21,None,Motor Claims
+741,3186,1,Hospitalisation,2023-03-26,2023-03-29,2023-04-12,126300.0,53900.0,Settled,14,None,Health Claims
+742,3186,2,Outpatient,2025-02-26,2025-03-03,2025-03-23,166000.0,161800.0,Settled,14,Provider authorisation,Health Claims
+743,3194,1,Hospitalisation,2024-11-07,2024-11-14,2024-11-23,145000.0,79400.0,Settled,14,None,Health Claims
+744,3194,2,Outpatient,2026-05-26,2026-06-01,2026-06-16,398400.0,322400.0,Settled,14,None,Health Claims
+745,3195,1,Outpatient,2026-09-18,2026-09-25,,285700.0,0,Open,14,None,Health Claims
+746,3196,2,Accident,2025-05-07,2025-05-15,2025-05-27,674600.0,509000.0,Settled,21,None,Motor Claims
+747,3210,1,Hospitalisation,2024-05-17,2024-05-27,2024-06-02,225500.0,140200.0,Settled,14,None,Health Claims
+748,3212,2,Windscreen,2026-05-23,2026-05-25,2026-06-08,1438400.0,1074600.0,Settled,21,None,Motor Claims
+749,3218,1,Outpatient,2024-10-30,2024-11-03,2024-11-13,183600.0,101100.0,Settled,14,None,Health Claims
+750,3221,1,Accident,2024-10-04,2024-10-06,2024-10-21,534300.0,428100.0,Settled,21,None,Motor Claims
+751,3225,2,Outpatient,2026-03-10,2026-03-14,2026-03-27,257200.0,116800.0,Settled,14,None,Health Claims
+752,3229,2,Windscreen,2025-11-13,2025-11-20,2025-12-22,799800.0,711500.0,Settled,21,Assessor delay,Motor Claims
+753,3231,2,Third-Party Injury,2025-11-27,2025-11-28,2025-12-06,371500.0,269400.0,Settled,21,None,Motor Claims
+754,3233,1,Maternity,2025-07-17,2025-07-23,2025-08-03,65200.0,48300.0,Settled,14,None,Health Claims
+755,3243,1,Windscreen,2023-12-16,2023-12-24,2024-01-20,1158900.0,602400.0,Settled,21,None,Motor Claims
+756,3247,2,Windscreen,2024-06-14,2024-06-14,2024-07-22,226500.0,131000.0,Settled,21,Assessor delay,Motor Claims
+757,3254,1,Hospitalisation,2026-01-30,2026-02-02,2026-02-27,208800.0,132600.0,Settled,14,Provider authorisation,Health Claims
+758,3257,3,Accident,2026-05-06,2026-05-10,2026-06-15,1190800.0,613700.0,Settled,21,Assessor delay,Motor Claims
+759,3265,3,Outpatient,2025-12-30,2026-01-01,2026-01-13,282200.0,127900.0,Settled,14,None,Health Claims
+760,3269,3,Accident,2025-09-24,2025-09-25,2025-11-13,1197200.0,485300.0,Settled,21,Assessor delay,Motor Claims
+761,3277,1,Maternity,2023-07-08,2023-07-12,2023-07-24,396200.0,340600.0,Settled,14,None,Health Claims
+762,3277,2,Outpatient,2024-11-02,2024-11-12,2024-11-22,92600.0,44900.0,Settled,14,None,Health Claims
+763,3277,4,Maternity,2026-08-05,2026-08-10,2026-09-05,218000.0,130600.0,Settled,14,Provider authorisation,Health Claims
+764,3289,2,Hospitalisation,2026-02-14,2026-02-19,2026-02-27,153000.0,146600.0,Settled,14,None,Health Claims
+765,3296,1,Accident,2026-09-24,2026-10-04,,618900.0,0,Open,21,None,Motor Claims
+766,3299,1,Windscreen,2024-01-19,2024-01-22,2024-02-16,1197400.0,841100.0,Settled,21,None,Motor Claims
+767,3305,1,Windscreen,2025-04-18,2025-04-19,2025-05-10,166700.0,150900.0,Settled,21,None,Motor Claims
+768,3308,1,Third-Party Damage,2024-10-19,2024-10-21,2024-11-06,407700.0,231400.0,Settled,21,None,Motor Claims
+769,3312,1,Fire,2026-05-17,2026-05-26,2026-07-23,1572700.0,1134200.0,Settled,30,Loss adjuster,Property Claims
+770,3316,3,Hospitalisation,2025-06-09,2025-06-18,2025-07-03,218800.0,188000.0,Settled,14,None,Health Claims
+771,3320,1,Accident,2024-09-24,2024-10-03,2024-10-18,188900.0,0,Rejected,21,None,Motor Claims
+772,3323,2,Hospitalisation,2026-08-04,2026-08-12,2026-08-27,317300.0,305400.0,Settled,14,None,Health Claims
+773,3337,1,Accident,2024-05-20,2024-05-25,2024-06-28,1218300.0,1164000.0,Settled,21,Missing documents,Motor Claims
+774,3337,3,Windscreen,2025-07-28,2025-08-04,2025-08-15,286400.0,134700.0,Settled,21,None,Motor Claims
+775,3344,2,Third-Party Injury,2024-07-30,2024-08-02,2024-08-27,530700.0,235800.0,Settled,21,None,Motor Claims
+776,3361,1,Third-Party Damage,2024-08-05,2024-08-09,2024-08-29,577800.0,576800.0,Settled,21,None,Motor Claims
+777,3363,3,Windscreen,2026-07-02,2026-07-03,2026-07-18,1074400.0,578400.0,Settled,21,None,Motor Claims
+778,3374,2,Theft,2025-03-22,2025-03-25,2025-04-22,647700.0,511000.0,Settled,21,None,Motor Claims
+779,3374,4,Windscreen,2026-09-25,2026-10-04,,110400.0,0,Open,21,Assessor delay,Motor Claims
+780,3375,1,Outpatient,2024-11-11,2024-11-12,2024-12-05,241700.0,100900.0,Settled,14,Provider authorisation,Health Claims
+781,3381,4,Outpatient,2026-09-13,2026-09-16,,301500.0,0,Open,14,None,Health Claims
+782,3390,1,Outpatient,2024-09-20,2024-09-29,2024-10-12,221000.0,132000.0,Settled,14,None,Health Claims
+783,3395,2,Windscreen,2024-07-26,2024-07-28,2024-08-04,654800.0,491600.0,Settled,21,None,Motor Claims
+784,3395,3,Accident,2025-10-03,2025-10-07,2025-11-07,780800.0,570100.0,Settled,21,Assessor delay,Motor Claims
+785,3398,1,Hospitalisation,2024-04-15,2024-04-17,2024-04-25,232700.0,0,Rejected,14,None,Health Claims
+786,3398,4,Outpatient,2026-09-28,2026-10-06,,247600.0,0,Open,14,Provider authorisation,Health Claims
+787,3418,1,Hospitalisation,2026-04-28,2026-04-30,2026-05-17,157200.0,147400.0,Settled,14,None,Health Claims
+788,3430,1,Maternity,2024-05-12,2024-05-22,2024-06-06,120000.0,84400.0,Settled,14,Provider authorisation,Health Claims
+789,3430,2,Maternity,2024-10-31,2024-11-06,2024-11-15,258200.0,0,Rejected,14,None,Health Claims
+790,3430,4,Outpatient,2026-08-24,2026-08-28,2026-09-10,315500.0,209900.0,Settled,14,None,Health Claims
+791,3437,1,Accident,2024-08-08,2024-08-08,2024-09-01,89100.0,65900.0,Settled,21,None,Motor Claims
+792,3439,1,Maternity,2025-03-21,2025-03-29,2025-04-11,232300.0,140700.0,Settled,14,None,Health Claims
+793,3454,2,Maternity,2025-03-26,2025-04-01,2025-04-19,205200.0,0,Rejected,14,Provider authorisation,Health Claims
+794,3456,1,Hospitalisation,2025-07-29,2025-08-07,2025-08-28,236600.0,169800.0,Settled,14,Missing documents,Health Claims
+795,3469,1,Hospitalisation,2026-07-06,2026-07-09,2026-07-29,311300.0,136300.0,Settled,14,None,Health Claims
+796,3470,1,Theft,2024-04-22,2024-04-22,2024-05-13,1245300.0,0,Rejected,21,None,Motor Claims
+797,3471,1,Maternity,2025-12-29,2026-01-07,2026-01-31,335400.0,223700.0,Settled,14,Provider authorisation,Health Claims
+798,3474,2,Fire,2025-08-01,2025-08-09,2025-09-04,2106100.0,1069200.0,Settled,30,None,Property Claims
+799,3478,2,Outpatient,2025-02-18,2025-02-25,2025-03-18,229000.0,184800.0,Settled,14,Provider authorisation,Health Claims
+800,3479,2,Maternity,2026-05-16,2026-05-21,2026-06-06,71900.0,68000.0,Settled,14,None,Health Claims
+801,3482,3,Third-Party Damage,2026-09-08,2026-09-14,,333800.0,0,Open,21,None,Motor Claims
+802,3490,3,Accident,2026-07-20,2026-07-25,2026-08-14,1016100.0,804800.0,Settled,21,None,Motor Claims
+803,3497,2,Windscreen,2026-01-05,2026-01-12,2026-02-18,599500.0,274300.0,Settled,21,Missing documents,Motor Claims
+804,3504,2,Windscreen,2025-08-21,2025-08-21,2025-10-13,136100.0,0,Rejected,21,Assessor delay,Motor Claims
+805,3508,2,Theft,2026-06-16,2026-06-24,2026-07-04,583700.0,572500.0,Settled,21,None,Motor Claims
+806,3513,2,Accident,2024-07-12,2024-07-21,2024-08-19,169200.0,0,Rejected,21,Assessor delay,Motor Claims
+807,3518,1,Accident,2025-12-13,2025-12-23,2026-01-05,169900.0,109800.0,Settled,21,None,Motor Claims
+808,3520,1,Third-Party Injury,2024-03-20,2024-03-27,2024-04-01,349500.0,185400.0,Settled,21,None,Motor Claims
+809,3522,3,Hospitalisation,2025-12-23,2026-01-01,2026-01-16,82700.0,70100.0,Settled,14,None,Health Claims
+810,3523,1,Theft,2025-08-27,2025-08-28,2025-10-13,522000.0,355200.0,Settled,21,Assessor delay,Motor Claims
+811,3525,3,Maternity,2026-07-09,2026-07-17,2026-08-13,65700.0,57400.0,Settled,14,Provider authorisation,Health Claims
+812,3526,1,Maternity,2024-07-17,2024-07-19,2024-08-07,300900.0,282800.0,Settled,14,Missing documents,Health Claims
+813,3531,1,Third-Party Injury,2026-04-02,2026-04-07,2026-04-19,545500.0,466600.0,Settled,21,None,Motor Claims
+814,3535,2,Theft,2026-05-17,2026-05-24,2026-06-06,965800.0,391300.0,Settled,21,None,Motor Claims
+815,3537,1,Theft,2024-11-08,2024-11-15,,474300.0,0,Open,21,Assessor delay,Motor Claims
+816,3546,2,Theft,2025-01-15,2025-01-15,2025-01-23,811900.0,754400.0,Settled,21,None,Motor Claims
+817,3550,1,Maternity,2023-09-18,2023-09-26,2023-10-05,256600.0,144000.0,Settled,14,None,Health Claims
+818,3560,1,Theft,2025-08-18,2025-08-24,2025-08-31,218300.0,145700.0,Settled,21,None,Motor Claims
+819,3563,4,Third-Party Injury,2026-08-27,2026-08-31,2026-09-19,138300.0,111600.0,Settled,21,None,Motor Claims
+820,3564,1,Hospitalisation,2025-11-13,2025-11-20,2025-12-01,159200.0,107900.0,Settled,14,None,Health Claims
+821,3569,1,Outpatient,2023-01-26,2023-01-27,2023-02-05,280600.0,0,Rejected,14,None,Health Claims
+822,3580,2,Outpatient,2025-11-19,2025-11-29,2025-12-17,311500.0,184000.0,Settled,14,None,Health Claims
+823,3583,1,Outpatient,2023-08-14,2023-08-20,2023-09-01,137400.0,100300.0,Settled,14,None,Health Claims
+824,3583,4,Maternity,2026-08-15,2026-08-17,2026-09-01,175700.0,175600.0,Settled,14,None,Health Claims
+825,3584,1,Hospitalisation,2025-02-11,2025-02-19,2025-03-11,261700.0,241800.0,Settled,14,Provider authorisation,Health Claims
+826,3587,3,Outpatient,2026-04-18,2026-04-18,2026-05-04,322700.0,211300.0,Settled,14,None,Health Claims
+827,3587,4,Hospitalisation,2026-09-08,2026-09-11,,173000.0,0,Open,14,None,Health Claims
+828,3592,1,Outpatient,2024-10-06,2024-10-15,2024-10-21,92400.0,51500.0,Settled,14,None,Health Claims
+829,3594,3,Fire,2026-07-08,2026-07-14,2026-08-10,1241500.0,772400.0,Settled,30,None,Property Claims
+830,3596,3,Outpatient,2026-07-29,2026-08-02,2026-08-12,188300.0,127800.0,Settled,14,None,Health Claims
+831,3611,2,Third-Party Damage,2026-08-09,2026-08-16,2026-09-15,592200.0,586400.0,Settled,21,Assessor delay,Motor Claims
+832,3617,1,Third-Party Injury,2026-02-06,2026-02-11,2026-03-03,124100.0,122800.0,Settled,21,None,Motor Claims
+833,3622,1,Theft,2025-11-01,2025-11-02,2025-12-10,106300.0,55700.0,Settled,21,Missing documents,Motor Claims
+834,3652,2,Maternity,2026-09-29,2026-09-29,,356500.0,0,Open,14,None,Health Claims
+835,3668,1,Theft,2025-06-18,2025-06-25,2025-07-22,1067600.0,449400.0,Settled,21,None,Motor Claims
+836,3670,2,Accident,2025-02-21,2025-03-02,2025-04-05,133200.0,113000.0,Settled,21,Assessor delay,Motor Claims
+837,3673,2,Outpatient,2026-08-15,2026-08-19,2026-08-30,387000.0,222100.0,Settled,14,None,Health Claims
+838,3676,2,Maternity,2025-12-29,2026-01-04,,284500.0,0,Open,14,None,Health Claims
+839,3681,1,Hospitalisation,2026-09-17,2026-09-18,,185900.0,0,Open,14,None,Health Claims
+840,3687,1,Hospitalisation,2026-04-14,2026-04-15,2026-05-01,216500.0,213100.0,Settled,14,None,Health Claims
+841,3691,2,Hospitalisation,2025-03-06,2025-03-13,2025-03-26,264400.0,123100.0,Settled,14,None,Health Claims
+842,3692,3,Accident,2025-05-07,2025-05-11,2025-05-31,665400.0,284600.0,Settled,21,None,Motor Claims
+843,3695,2,Maternity,2025-10-26,2025-10-31,2025-11-13,219100.0,209400.0,Settled,14,None,Health Claims
+844,3708,4,Outpatient,2026-09-26,2026-10-04,,342000.0,0,Open,14,None,Health Claims
+845,3713,1,Maternity,2024-01-03,2024-01-06,2024-01-16,397900.0,353300.0,Settled,14,None,Health Claims
+846,3720,1,Theft,2025-10-12,2025-10-21,2025-10-29,965700.0,512500.0,Settled,21,None,Motor Claims
+847,3729,1,Theft,2025-08-31,2025-09-03,2025-10-20,340200.0,176700.0,Settled,21,Assessor delay,Motor Claims
+848,3729,2,Theft,2026-09-03,2026-09-09,,914400.0,0,Open,21,Assessor delay,Motor Claims
+849,3734,2,Death Claim,2026-01-19,2026-01-29,2026-02-09,1342500.0,1206100.0,Settled,30,None,Life Claims
+850,3737,3,Theft,2026-08-30,2026-08-31,2026-09-24,1443200.0,1396000.0,Settled,21,None,Motor Claims
+851,3740,3,Windscreen,2025-12-14,2025-12-19,2026-01-15,1296800.0,984400.0,Settled,21,None,Motor Claims
+852,3741,1,Third-Party Damage,2024-01-13,2024-01-16,2024-02-15,243900.0,218000.0,Settled,21,Missing documents,Motor Claims
+853,3743,2,Hospitalisation,2025-09-16,2025-09-16,2025-09-27,312700.0,238700.0,Settled,14,None,Health Claims
+854,3758,2,Third-Party Injury,2026-09-12,2026-09-15,,103300.0,0,Open,21,Assessor delay,Motor Claims
+855,3761,2,Third-Party Injury,2025-04-08,2025-04-13,2025-05-07,471800.0,305300.0,Settled,21,None,Motor Claims
+856,3765,1,Accident,2024-02-06,2024-02-08,2024-02-26,1321600.0,910400.0,Settled,21,None,Motor Claims
+857,3768,1,Third-Party Damage,2026-05-07,2026-05-11,2026-06-11,556400.0,0,Rejected,21,Assessor delay,Motor Claims
+858,3769,1,Maternity,2025-06-19,2025-06-21,2025-06-25,221400.0,104800.0,Settled,14,None,Health Claims
+859,3782,2,Theft,2026-04-13,2026-04-23,2026-05-14,945500.0,385900.0,Settled,21,None,Motor Claims
+860,3798,1,Accident,2025-02-08,2025-02-09,2025-02-20,777900.0,578200.0,Settled,21,None,Motor Claims
+861,3800,2,Maternity,2024-08-18,2024-08-22,2024-08-30,362900.0,146200.0,Settled,14,None,Health Claims
+862,3805,2,Accident,2026-09-16,2026-09-21,,247000.0,0,Open,21,Missing documents,Motor Claims
+863,3815,1,Maternity,2026-03-30,2026-04-01,2026-04-11,194500.0,110600.0,Settled,14,None,Health Claims
+864,3820,1,Maternity,2026-06-08,2026-06-11,,33900.0,0,Open,14,None,Health Claims
+865,3824,1,Theft,2026-09-01,2026-09-02,2026-09-22,528300.0,522800.0,Settled,21,None,Motor Claims
+866,3831,3,Hospitalisation,2025-10-24,2025-10-25,2025-11-06,275900.0,0,Rejected,14,None,Health Claims
+867,3839,2,Maternity,2024-03-31,2024-04-03,2024-04-15,332500.0,217000.0,Settled,14,None,Health Claims
+868,3841,1,Hospitalisation,2026-07-04,2026-07-09,2026-07-25,196300.0,175200.0,Settled,14,None,Health Claims
+869,3842,1,Windscreen,2025-01-03,2025-01-09,2025-01-30,454500.0,356700.0,Settled,21,Missing documents,Motor Claims
+870,3846,1,Accident,2024-09-20,2024-09-20,2024-10-20,205700.0,196300.0,Settled,21,Missing documents,Motor Claims
+871,3851,1,Theft,2023-10-09,2023-10-09,2023-10-30,1103100.0,737600.0,Settled,21,None,Motor Claims
+872,3851,2,Windscreen,2025-03-09,2025-03-17,2025-03-25,101400.0,96200.0,Settled,21,None,Motor Claims
+873,3853,2,Windscreen,2026-08-20,2026-08-23,2026-09-29,171500.0,161200.0,Settled,21,Assessor delay,Motor Claims
+874,3858,3,Burglary,2026-07-23,2026-07-26,2026-08-15,1777100.0,735000.0,Settled,30,None,Property Claims
+875,3860,1,Outpatient,2026-09-02,2026-09-10,,102700.0,0,Open,14,Provider authorisation,Health Claims
+876,3873,1,Theft,2026-06-16,2026-06-17,2026-07-11,934500.0,0,Rejected,21,None,Motor Claims
+877,3875,1,Theft,2026-07-09,2026-07-16,,81300.0,0,Open,21,None,Motor Claims
+878,3889,1,Outpatient,2025-06-22,2025-06-28,2025-07-11,103600.0,94900.0,Settled,14,None,Health Claims
+879,3894,1,Hospitalisation,2023-07-07,2023-07-17,2023-08-14,148800.0,94400.0,Settled,14,Missing documents,Health Claims
+880,3899,1,Outpatient,2024-06-13,2024-06-16,2024-07-04,97000.0,53200.0,Settled,14,None,Health Claims
+881,3899,4,Outpatient,2026-08-14,2026-08-23,2026-09-09,148800.0,0,Rejected,14,None,Health Claims
+882,3902,1,Death Claim,2024-07-21,2024-07-25,2024-09-02,2461800.0,1198900.0,Settled,30,None,Life Claims
+883,3903,1,Theft,2025-01-23,2025-01-30,2025-02-26,762100.0,510800.0,Settled,21,Assessor delay,Motor Claims
+884,3913,1,Hospitalisation,2025-06-14,2025-06-23,2025-07-07,156300.0,67800.0,Settled,14,Missing documents,Health Claims
+885,3915,2,Third-Party Damage,2026-02-07,2026-02-12,2026-02-17,362500.0,0,Rejected,21,None,Motor Claims
+886,3915,3,Third-Party Damage,2026-08-17,2026-08-25,2026-09-19,256000.0,176600.0,Settled,21,None,Motor Claims
+887,3931,1,Outpatient,2025-08-21,2025-08-23,2025-09-05,393900.0,336400.0,Settled,14,None,Health Claims
+888,3939,1,Windscreen,2026-04-29,2026-04-30,2026-05-17,473100.0,396200.0,Settled,21,None,Motor Claims
+889,3940,1,Third-Party Damage,2024-08-14,2024-08-24,2024-09-14,518800.0,352000.0,Settled,21,None,Motor Claims
+890,3944,1,Maternity,2026-06-22,2026-06-24,2026-07-11,213600.0,92000.0,Settled,14,None,Health Claims
+891,3965,1,Hospitalisation,2026-07-24,2026-07-28,2026-08-16,259800.0,206300.0,Settled,14,None,Health Claims
+892,3968,1,Hospitalisation,2025-07-30,2025-08-03,2025-08-18,392700.0,372100.0,Settled,14,None,Health Claims
+893,3971,1,Windscreen,2025-02-25,2025-03-02,2025-03-30,666000.0,657200.0,Settled,21,None,Motor Claims
+894,3973,1,Hospitalisation,2025-02-15,2025-02-22,2025-02-25,215900.0,211700.0,Settled,14,None,Health Claims
+895,3973,3,Outpatient,2026-04-04,2026-04-09,2026-04-18,233600.0,146300.0,Settled,14,None,Health Claims
+896,3976,3,Hospitalisation,2026-05-06,2026-05-13,2026-05-22,73100.0,0,Rejected,14,None,Health Claims
+897,3978,3,Outpatient,2025-12-30,2026-01-04,2026-01-23,104600.0,0,Rejected,14,None,Health Claims
+898,3984,4,Theft,2026-08-28,2026-08-28,2026-09-24,1004500.0,0,Rejected,21,Missing documents,Motor Claims
+899,3989,1,Third-Party Injury,2025-04-16,2025-04-21,2025-05-16,238300.0,162200.0,Settled,21,None,Motor Claims
+900,3990,1,Accident,2023-09-14,2023-09-22,2023-10-08,1129100.0,1106100.0,Settled,21,None,Motor Claims
+901,3990,2,Windscreen,2024-11-08,2024-11-13,2024-12-01,699500.0,307900.0,Settled,21,None,Motor Claims
+902,3991,1,Outpatient,2026-08-21,2026-08-28,2026-09-11,113000.0,51400.0,Settled,14,None,Health Claims
+903,3993,1,Outpatient,2023-09-11,2023-09-13,2023-09-25,226300.0,141800.0,Settled,14,None,Health Claims
+904,3993,2,Maternity,2025-08-24,2025-09-02,2025-09-09,80900.0,60800.0,Settled,14,None,Health Claims
+905,3993,3,Maternity,2026-03-11,2026-03-21,2026-03-30,358900.0,252800.0,Settled,14,None,Health Claims
+906,3996,3,Windscreen,2026-05-23,2026-05-31,2026-06-17,864400.0,637000.0,Settled,21,None,Motor Claims
+907,4000,1,Burglary,2023-10-14,2023-10-15,2023-12-27,1812100.0,1801400.0,Settled,30,Loss adjuster,Property Claims
+908,4010,1,Hospitalisation,2024-11-10,2024-11-11,2024-11-29,306100.0,258000.0,Settled,14,Missing documents,Health Claims
+909,4018,4,Disability,2026-07-20,2026-07-25,2026-08-24,7389400.0,0,Rejected,30,None,Life Claims
+910,4019,2,Maternity,2024-04-09,2024-04-16,2024-04-22,349400.0,191100.0,Settled,14,None,Health Claims
+911,4022,1,Outpatient,2024-10-14,2024-10-19,2024-10-28,53400.0,50000.0,Settled,14,None,Health Claims
+912,4026,1,Hospitalisation,2024-06-08,2024-06-10,2024-07-01,73100.0,58800.0,Settled,14,None,Health Claims
+913,4028,1,Hospitalisation,2026-05-31,2026-06-05,2026-06-19,324400.0,243600.0,Settled,14,None,Health Claims
+914,4031,1,Outpatient,2026-04-07,2026-04-07,2026-04-30,336400.0,258000.0,Settled,14,Provider authorisation,Health Claims
+915,4033,1,Windscreen,2024-07-07,2024-07-15,2024-09-04,1131200.0,901200.0,Settled,21,Assessor delay,Motor Claims
+916,4035,2,Windscreen,2024-11-12,2024-11-16,2024-12-05,501100.0,474300.0,Settled,21,None,Motor Claims
+917,4046,2,Accident,2026-08-29,2026-09-05,,1225600.0,0,Open,21,Assessor delay,Motor Claims
+918,4047,1,Theft,2026-08-10,2026-08-14,2026-08-31,1307100.0,885000.0,Settled,21,None,Motor Claims
+919,4050,4,Outpatient,2026-08-10,2026-08-14,2026-09-02,80700.0,42200.0,Settled,14,None,Health Claims
+920,4056,1,Third-Party Injury,2025-01-30,2025-02-01,2025-02-19,403400.0,356000.0,Settled,21,None,Motor Claims
+921,4057,2,Hospitalisation,2024-11-09,2024-11-09,2024-12-01,203100.0,88600.0,Settled,14,None,Health Claims
+922,4064,1,Hospitalisation,2026-09-03,2026-09-06,2026-09-14,85000.0,72600.0,Settled,14,None,Health Claims
+923,4067,1,Maternity,2025-10-22,2025-10-28,2025-11-12,107300.0,94600.0,Settled,14,Provider authorisation,Health Claims
+924,4070,4,Outpatient,2026-03-19,2026-03-20,2026-03-27,99700.0,50000.0,Settled,14,None,Health Claims
+925,4074,2,Theft,2024-09-29,2024-10-01,2024-11-07,262500.0,0,Rejected,21,Missing documents,Motor Claims
+926,4076,1,Windscreen,2024-05-19,2024-05-27,,1339100.0,0,Open,21,None,Motor Claims
+927,4076,2,Windscreen,2025-07-02,2025-07-07,2025-08-19,379500.0,183400.0,Settled,21,Assessor delay,Motor Claims
+928,4077,1,Windscreen,2024-11-26,2024-12-06,2025-01-27,468200.0,0,Rejected,21,Assessor delay,Motor Claims
+929,4078,1,Theft,2023-11-09,2023-11-09,2023-11-26,1063100.0,940800.0,Settled,21,None,Motor Claims
+930,4092,1,Accident,2023-09-09,2023-09-18,2023-10-11,319800.0,145800.0,Settled,21,None,Motor Claims
+931,4093,1,Outpatient,2026-01-18,2026-01-25,2026-02-02,324100.0,0,Rejected,14,None,Health Claims
+932,4121,2,Outpatient,2026-05-10,2026-05-18,2026-06-04,230300.0,180700.0,Settled,14,None,Health Claims
+933,4123,1,Windscreen,2024-08-16,2024-08-20,2024-09-07,655000.0,443100.0,Settled,21,None,Motor Claims
+934,4134,1,Third-Party Damage,2024-12-28,2025-01-03,2025-01-23,131100.0,0,Rejected,21,None,Motor Claims
+935,4137,1,Hospitalisation,2026-03-22,2026-03-29,2026-04-13,45500.0,28100.0,Settled,14,Provider authorisation,Health Claims
+936,4139,1,Hospitalisation,2026-05-14,2026-05-23,2026-06-01,224000.0,216400.0,Settled,14,None,Health Claims
+937,4142,1,Hospitalisation,2024-08-04,2024-08-06,2024-08-12,298600.0,220700.0,Settled,14,None,Health Claims
+938,4147,1,Outpatient,2025-06-25,2025-06-26,2025-07-08,73800.0,69300.0,Settled,14,None,Health Claims
+939,4149,1,Third-Party Injury,2024-07-23,2024-07-31,2024-08-23,59100.0,32700.0,Settled,21,None,Motor Claims
+940,4151,1,Maternity,2024-04-30,2024-05-10,2024-05-20,184800.0,140100.0,Settled,14,None,Health Claims
+941,4155,1,Maternity,2026-03-29,2026-03-30,2026-04-07,122300.0,76500.0,Settled,14,None,Health Claims
+942,4158,2,Accident,2026-09-09,2026-09-12,2026-09-28,1215900.0,1009300.0,Settled,21,None,Motor Claims
+943,4159,1,Theft,2025-11-29,2025-12-08,2026-01-09,957200.0,693500.0,Settled,21,Missing documents,Motor Claims
+944,4162,1,Outpatient,2026-06-27,2026-07-07,,362800.0,0,Open,14,None,Health Claims
+945,4167,2,Theft,2026-03-27,2026-04-01,2026-04-23,1499900.0,1090200.0,Settled,21,None,Motor Claims
+946,4170,1,Windscreen,2023-10-08,2023-10-15,2023-10-27,707900.0,347400.0,Settled,21,None,Motor Claims
+947,4170,4,Theft,2026-08-03,2026-08-05,2026-08-16,776000.0,714200.0,Settled,21,None,Motor Claims
+948,4172,1,Hospitalisation,2026-02-16,2026-02-16,2026-03-05,329200.0,235600.0,Settled,14,None,Health Claims
+949,4185,1,Hospitalisation,2025-12-24,2025-12-24,2026-01-15,357600.0,346100.0,Settled,14,Missing documents,Health Claims
+950,4189,1,Accident,2025-04-04,2025-04-12,2025-05-06,398700.0,259200.0,Settled,21,Assessor delay,Motor Claims
+951,4201,1,Windscreen,2023-05-24,2023-05-31,2023-07-06,852100.0,585200.0,Settled,21,Assessor delay,Motor Claims
+952,4215,1,Accident,2026-09-11,2026-09-12,,1249000.0,0,Open,21,None,Motor Claims
+953,4225,1,Hospitalisation,2026-09-20,2026-09-26,,252100.0,0,Open,14,None,Health Claims
+954,4232,2,Windscreen,2026-02-08,2026-02-12,2026-03-21,617400.0,435000.0,Settled,21,Assessor delay,Motor Claims
+955,4239,1,Accident,2023-05-28,2023-05-28,,1392300.0,0,Open,21,Assessor delay,Motor Claims
+956,4244,1,Accident,2024-05-12,2024-05-13,2024-05-30,353800.0,179300.0,Settled,21,None,Motor Claims
+957,4244,3,Windscreen,2025-06-18,2025-06-26,2025-07-01,320700.0,194500.0,Settled,21,None,Motor Claims
+958,4245,3,Outpatient,2026-09-09,2026-09-15,2026-09-30,63900.0,46100.0,Settled,14,None,Health Claims
+959,4247,1,Hospitalisation,2024-04-26,2024-05-06,2024-05-14,203400.0,164300.0,Settled,14,None,Health Claims
+960,4247,2,Hospitalisation,2025-04-05,2025-04-07,2025-04-21,215800.0,131600.0,Settled,14,None,Health Claims
+961,4253,2,Hospitalisation,2025-05-25,2025-05-25,2025-06-08,197900.0,98100.0,Settled,14,None,Health Claims
+962,4253,4,Hospitalisation,2026-07-04,2026-07-11,2026-07-18,279100.0,168100.0,Settled,14,None,Health Claims
+963,4260,1,Hospitalisation,2024-12-05,2024-12-13,2024-12-22,367100.0,147000.0,Settled,14,None,Health Claims
+964,4260,3,Outpatient,2026-06-28,2026-06-29,2026-07-16,338400.0,257700.0,Settled,14,Provider authorisation,Health Claims
+965,4273,3,Theft,2026-06-13,2026-06-18,2026-08-04,1240900.0,784200.0,Settled,21,Assessor delay,Motor Claims
+966,4275,3,Outpatient,2025-02-27,2025-03-05,2025-03-13,327200.0,242900.0,Settled,14,None,Health Claims
+967,4275,4,Outpatient,2026-08-09,2026-08-10,,238700.0,0,Open,14,None,Health Claims
+968,4280,1,Theft,2026-06-08,2026-06-08,2026-06-20,539500.0,414600.0,Settled,21,None,Motor Claims
+969,4291,2,Burglary,2026-06-12,2026-06-14,2026-08-08,924000.0,406100.0,Settled,30,Loss adjuster,Property Claims
+970,4306,2,Hospitalisation,2026-05-13,2026-05-23,,59400.0,0,Open,14,Missing documents,Health Claims
+971,4309,1,Maternity,2024-06-15,2024-06-20,2024-07-03,265200.0,213500.0,Settled,14,None,Health Claims
+972,4309,2,Hospitalisation,2025-02-13,2025-02-15,2025-02-24,295800.0,229100.0,Settled,14,None,Health Claims
+973,4309,3,Maternity,2026-01-23,2026-01-25,2026-02-06,208100.0,158300.0,Settled,14,None,Health Claims
+974,4321,3,Windscreen,2025-09-11,2025-09-17,2025-09-25,432700.0,419000.0,Settled,21,None,Motor Claims
+975,4321,4,Theft,2026-08-11,2026-08-12,2026-08-29,1184600.0,543600.0,Settled,21,None,Motor Claims
+976,4322,1,Fire,2026-06-10,2026-06-14,2026-08-06,1642100.0,1118600.0,Settled,30,Loss adjuster,Property Claims
+977,4325,1,Hospitalisation,2026-09-16,2026-09-21,,230200.0,0,Open,14,None,Health Claims
+978,4327,1,Outpatient,2024-06-14,2024-06-17,2024-07-09,149900.0,0,Rejected,14,Provider authorisation,Health Claims
+979,4330,1,Third-Party Injury,2026-04-08,2026-04-13,2026-05-16,250600.0,152700.0,Settled,21,Assessor delay,Motor Claims
+980,4331,2,Maternity,2025-02-20,2025-02-22,2025-03-06,63900.0,53600.0,Settled,14,None,Health Claims
+981,4332,1,Flood,2026-02-28,2026-03-02,2026-03-31,2197100.0,1844400.0,Settled,30,None,Property Claims
+982,4333,1,Hospitalisation,2025-09-18,2025-09-24,2025-10-01,32800.0,29900.0,Settled,14,None,Health Claims
+983,4337,1,Theft,2024-04-29,2024-05-01,2024-05-25,1327600.0,808300.0,Settled,21,None,Motor Claims
+984,4338,3,Third-Party Damage,2026-04-12,2026-04-14,2026-05-05,556500.0,421900.0,Settled,21,None,Motor Claims
+985,4345,1,Maternity,2023-11-13,2023-11-15,2023-12-05,307800.0,0,Rejected,14,None,Health Claims
+986,4349,2,Third-Party Injury,2026-07-03,2026-07-08,2026-07-29,205100.0,0,Rejected,21,None,Motor Claims
+987,4357,1,Accident,2024-06-18,2024-06-24,2024-07-10,1096800.0,521800.0,Settled,21,None,Motor Claims
+988,4358,1,Theft,2024-02-03,2024-02-06,2024-02-25,510100.0,389500.0,Settled,21,None,Motor Claims
+989,4361,1,Outpatient,2026-05-24,2026-05-24,2026-06-17,317900.0,0,Rejected,14,None,Health Claims
+990,4362,1,Maternity,2023-12-28,2024-01-04,2024-01-15,168000.0,114300.0,Settled,14,None,Health Claims
+991,4364,1,Outpatient,2024-06-13,2024-06-19,2024-07-02,210400.0,182800.0,Settled,14,None,Health Claims
+992,4365,1,Maternity,2024-11-29,2024-12-02,2024-12-10,165200.0,132900.0,Settled,14,None,Health Claims
+993,4365,3,Maternity,2026-08-23,2026-08-27,2026-09-13,179600.0,140100.0,Settled,14,None,Health Claims
+994,4371,1,Hospitalisation,2025-07-14,2025-07-22,2025-08-10,362100.0,213400.0,Settled,14,None,Health Claims
+995,4378,1,Windscreen,2024-12-12,2024-12-21,2025-01-28,134000.0,88900.0,Settled,21,Assessor delay,Motor Claims
+996,4378,2,Theft,2025-04-14,2025-04-14,2025-05-08,1478500.0,837200.0,Settled,21,None,Motor Claims
+997,4380,2,Theft,2025-10-03,2025-10-08,2025-10-20,773800.0,575500.0,Settled,21,None,Motor Claims
+998,4391,1,Hospitalisation,2025-02-13,2025-02-17,2025-03-16,297900.0,284600.0,Settled,14,Provider authorisation,Health Claims
+999,4391,2,Hospitalisation,2025-12-26,2026-01-04,,102800.0,0,Open,14,None,Health Claims
+1000,4399,1,Outpatient,2026-06-06,2026-06-07,2026-06-21,250000.0,213500.0,Settled,14,None,Health Claims
+1001,4400,1,Hospitalisation,2026-07-09,2026-07-15,2026-08-10,97900.0,60200.0,Settled,14,Missing documents,Health Claims
+1002,4405,3,Third-Party Damage,2026-07-01,2026-07-08,2026-08-07,153300.0,125800.0,Settled,21,None,Motor Claims
+1003,4411,1,Maternity,2026-03-20,2026-03-20,2026-03-31,98300.0,0,Rejected,14,None,Health Claims
+1004,4415,1,Outpatient,2025-01-27,2025-01-31,2025-02-11,340300.0,276000.0,Settled,14,None,Health Claims
+1005,4415,3,Hospitalisation,2026-09-02,2026-09-09,2026-09-25,164400.0,109800.0,Settled,14,Provider authorisation,Health Claims
+1006,4418,1,Outpatient,2026-03-17,2026-03-23,2026-04-03,165300.0,75300.0,Settled,14,None,Health Claims
+1007,4429,2,Disability,2026-08-20,2026-08-23,,8698300.0,0,Open,30,Investigation,Life Claims
+1008,4436,2,Disability,2026-03-21,2026-03-24,2026-05-10,7443600.0,3512500.0,Settled,30,Investigation,Life Claims
+1009,4437,3,Maternity,2026-06-29,2026-07-09,2026-07-20,398700.0,197000.0,Settled,14,None,Health Claims
+1010,4443,1,Maternity,2024-07-13,2024-07-14,2024-08-09,51200.0,29800.0,Settled,14,Missing documents,Health Claims
+1011,4443,3,Outpatient,2026-03-03,2026-03-04,,334400.0,0,Open,14,None,Health Claims
+1012,4444,4,Theft,2026-09-26,2026-09-28,,461500.0,0,Open,21,Missing documents,Motor Claims
+1013,4449,2,Maternity,2025-04-16,2025-04-16,2025-05-06,300000.0,293100.0,Settled,14,None,Health Claims
+1014,4455,1,Outpatient,2023-05-17,2023-05-22,2023-06-09,121700.0,51700.0,Settled,14,None,Health Claims
+1015,4484,3,Outpatient,2026-09-29,2026-09-30,,355500.0,0,Open,14,None,Health Claims
+1016,4487,1,Theft,2024-01-28,2024-01-31,2024-02-22,1463800.0,1403600.0,Settled,21,None,Motor Claims
+1017,4493,1,Theft,2026-01-29,2026-02-05,2026-02-19,1180300.0,577500.0,Settled,21,None,Motor Claims
+1018,4493,2,Windscreen,2026-08-24,2026-08-29,,1060500.0,0,Open,21,None,Motor Claims
+1019,4494,3,Windscreen,2026-09-03,2026-09-06,,1111300.0,0,Open,21,None,Motor Claims
+1020,4497,2,Hospitalisation,2024-10-01,2024-10-08,2024-10-31,383000.0,308000.0,Settled,14,None,Health Claims
+1021,4497,3,Outpatient,2025-12-29,2026-01-06,2026-01-19,395800.0,169200.0,Settled,14,None,Health Claims
+1022,4497,4,Maternity,2026-07-19,2026-07-24,2026-08-03,32400.0,14100.0,Settled,14,None,Health Claims
+1023,4502,1,Theft,2024-10-23,2024-10-25,,593200.0,0,Open,21,None,Motor Claims
+1024,4502,3,Theft,2026-08-22,2026-08-28,2026-09-14,1447800.0,656400.0,Settled,21,None,Motor Claims
+1025,4506,3,Windscreen,2025-11-05,2025-11-07,2025-11-30,323600.0,251700.0,Settled,21,None,Motor Claims
+1026,4512,1,Windscreen,2025-12-08,2025-12-11,2026-01-08,810200.0,384800.0,Settled,21,None,Motor Claims
+1027,4514,1,Windscreen,2026-04-10,2026-04-14,2026-05-09,393900.0,225000.0,Settled,21,None,Motor Claims
+1028,4514,2,Theft,2026-09-08,2026-09-18,,229100.0,0,Open,21,None,Motor Claims
+1029,4517,2,Windscreen,2024-05-09,2024-05-16,2024-06-08,164700.0,121500.0,Settled,21,None,Motor Claims
+1030,4519,2,Hospitalisation,2025-06-28,2025-06-28,2025-07-13,37400.0,33900.0,Settled,14,None,Health Claims
+1031,4532,1,Maternity,2026-09-01,2026-09-06,2026-09-23,130200.0,81200.0,Settled,14,None,Health Claims
+1032,4534,1,Theft,2026-05-10,2026-05-20,2026-06-26,985700.0,403000.0,Settled,21,Assessor delay,Motor Claims
+1033,4538,3,Hospitalisation,2026-09-04,2026-09-12,,240000.0,0,Open,14,Provider authorisation,Health Claims
+1034,4539,1,Accident,2023-03-21,2023-03-26,2023-04-17,1052700.0,834900.0,Settled,21,None,Motor Claims
+1035,4544,1,Outpatient,2026-06-13,2026-06-19,2026-07-03,325000.0,192500.0,Settled,14,None,Health Claims
+1036,4548,1,Maternity,2024-05-18,2024-05-18,2024-05-26,39000.0,20400.0,Settled,14,None,Health Claims
+1037,4548,2,Outpatient,2025-04-27,2025-05-05,2025-05-13,319500.0,0,Rejected,14,None,Health Claims
+1038,4550,1,Burglary,2025-10-06,2025-10-12,2025-11-10,2759600.0,1615300.0,Settled,30,None,Property Claims
+1039,4552,1,Hospitalisation,2025-06-21,2025-06-22,2025-07-13,308800.0,167800.0,Settled,14,Missing documents,Health Claims
+1040,4557,2,Outpatient,2026-01-25,2026-01-26,2026-02-19,227000.0,183700.0,Settled,14,Provider authorisation,Health Claims
+1041,4558,1,Outpatient,2023-10-13,2023-10-20,2023-10-31,121000.0,82600.0,Settled,14,None,Health Claims
+1042,4566,1,Outpatient,2024-08-22,2024-08-31,2024-09-10,131500.0,100200.0,Settled,14,None,Health Claims
+1043,4566,3,Outpatient,2026-05-14,2026-05-23,2026-06-07,101300.0,88600.0,Settled,14,None,Health Claims
+1044,4570,2,Maternity,2026-05-30,2026-06-08,2026-06-20,361100.0,0,Rejected,14,None,Health Claims
+1045,4576,1,Third-Party Damage,2026-05-29,2026-06-06,2026-07-12,290000.0,166500.0,Settled,21,Assessor delay,Motor Claims
+1046,4579,1,Hospitalisation,2024-10-22,2024-10-28,2024-11-17,214600.0,188000.0,Settled,14,Provider authorisation,Health Claims
+1047,4581,1,Windscreen,2023-08-05,2023-08-06,,1258700.0,0,Open,21,None,Motor Claims
+1048,4586,1,Outpatient,2024-11-12,2024-11-21,2024-11-29,231400.0,0,Rejected,14,None,Health Claims
+1049,4586,2,Outpatient,2025-11-11,2025-11-12,,345900.0,0,Open,14,Missing documents,Health Claims
+1050,4586,3,Maternity,2026-08-09,2026-08-10,2026-08-17,393300.0,284300.0,Settled,14,None,Health Claims
+1051,4588,3,Accident,2026-09-26,2026-09-26,,382700.0,0,Open,21,None,Motor Claims
+1052,4593,1,Accident,2025-11-21,2025-11-27,2025-12-07,566800.0,266400.0,Settled,21,None,Motor Claims
+1053,4597,3,Accident,2026-03-10,2026-03-10,2026-03-29,104700.0,47900.0,Settled,21,None,Motor Claims
+1054,4602,2,Hospitalisation,2026-03-24,2026-03-30,2026-04-11,250300.0,140700.0,Settled,14,None,Health Claims
+1055,4605,3,Disability,2025-07-19,2025-07-24,2025-09-04,9579600.0,8704100.0,Settled,30,Missing documents,Life Claims
+1056,4614,2,Outpatient,2024-12-27,2024-12-30,2025-01-17,187500.0,103300.0,Settled,14,Provider authorisation,Health Claims
+1057,4619,1,Outpatient,2023-12-29,2024-01-02,2024-01-13,352200.0,0,Rejected,14,None,Health Claims
+1058,4619,2,Maternity,2025-06-04,2025-06-13,2025-07-04,235000.0,198800.0,Settled,14,Provider authorisation,Health Claims
+1059,4622,1,Theft,2024-11-07,2024-11-07,2024-11-12,838200.0,346100.0,Settled,21,None,Motor Claims
+1060,4622,2,Windscreen,2026-06-19,2026-06-29,2026-07-14,1270600.0,1169200.0,Settled,21,None,Motor Claims
+1061,4623,3,Theft,2026-08-15,2026-08-18,,292000.0,0,Open,21,Assessor delay,Motor Claims
+1062,4624,1,Maternity,2024-07-19,2024-07-22,2024-08-03,364700.0,214600.0,Settled,14,None,Health Claims
+1063,4626,2,Windscreen,2025-01-09,2025-01-17,2025-03-04,1123500.0,948900.0,Settled,21,Assessor delay,Motor Claims
+1064,4626,3,Accident,2025-12-11,2025-12-17,2026-01-09,1464900.0,0,Rejected,21,Missing documents,Motor Claims
+1065,4628,1,Maternity,2025-06-19,2025-06-23,2025-07-13,288300.0,266700.0,Settled,14,Missing documents,Health Claims
+1066,4628,2,Outpatient,2026-07-11,2026-07-13,2026-07-27,173000.0,0,Rejected,14,None,Health Claims
+1067,4631,1,Outpatient,2025-04-15,2025-04-24,2025-05-05,197800.0,0,Rejected,14,None,Health Claims
+1068,4631,2,Outpatient,2026-03-07,2026-03-17,2026-04-02,82500.0,38900.0,Settled,14,None,Health Claims
+1069,4634,2,Accident,2026-07-08,2026-07-16,2026-08-24,676100.0,452300.0,Settled,21,Assessor delay,Motor Claims
+1070,4636,3,Windscreen,2026-08-27,2026-09-04,,734200.0,0,Open,21,None,Motor Claims
+1071,4645,2,Windscreen,2026-08-08,2026-08-13,2026-08-27,1024700.0,0,Rejected,21,None,Motor Claims
+1072,4647,1,Accident,2024-01-21,2024-01-23,2024-02-05,885400.0,602600.0,Settled,21,None,Motor Claims
+1073,4651,1,Accident,2025-11-13,2025-11-23,2025-12-10,131000.0,61200.0,Settled,21,None,Motor Claims
+1074,4661,1,Maternity,2026-09-21,2026-09-22,,394000.0,0,Open,14,None,Health Claims
+1075,4671,1,Hospitalisation,2024-03-01,2024-03-03,2024-03-13,376400.0,291000.0,Settled,14,None,Health Claims
+1076,4674,1,Accident,2024-05-05,2024-05-12,2024-06-04,810700.0,514100.0,Settled,21,None,Motor Claims
+1077,4683,1,Accident,2024-05-15,2024-05-24,2024-06-12,812300.0,441600.0,Settled,21,None,Motor Claims
+1078,4684,1,Outpatient,2024-05-21,2024-05-21,2024-06-01,57300.0,52200.0,Settled,14,None,Health Claims
+1079,4686,1,Theft,2026-07-29,2026-08-08,2026-09-14,438700.0,0,Rejected,21,Assessor delay,Motor Claims
+1080,4687,1,Hospitalisation,2023-09-05,2023-09-09,2023-10-01,109000.0,44600.0,Settled,14,Missing documents,Health Claims
+1081,4687,4,Maternity,2026-04-26,2026-04-28,2026-05-25,122500.0,114600.0,Settled,14,Provider authorisation,Health Claims
+1082,4688,2,Outpatient,2026-07-02,2026-07-02,2026-07-25,274500.0,229100.0,Settled,14,Provider authorisation,Health Claims
+1083,4690,2,Accident,2025-12-27,2025-12-30,2026-02-01,1471900.0,949100.0,Settled,21,None,Motor Claims
+1084,4696,2,Hospitalisation,2025-01-12,2025-01-18,2025-01-28,231300.0,148000.0,Settled,14,None,Health Claims
+1085,4696,3,Maternity,2026-02-03,2026-02-11,2026-02-19,99000.0,65800.0,Settled,14,None,Health Claims
+1086,4700,2,Death Claim,2024-07-08,2024-07-11,2024-08-01,7485000.0,3507200.0,Settled,30,None,Life Claims
+1087,4702,2,Theft,2025-08-09,2025-08-18,2025-09-13,1492600.0,1152900.0,Settled,21,None,Motor Claims
+1088,4709,1,Windscreen,2026-08-30,2026-09-01,2026-09-10,655800.0,422000.0,Settled,21,None,Motor Claims
+1089,4712,1,Outpatient,2024-11-30,2024-12-05,2024-12-16,389600.0,203800.0,Settled,14,None,Health Claims
+1090,4712,3,Outpatient,2026-09-11,2026-09-12,2026-09-27,182000.0,76800.0,Settled,14,None,Health Claims
+1091,4715,1,Third-Party Injury,2026-01-28,2026-01-29,2026-03-19,412600.0,168500.0,Settled,21,Assessor delay,Motor Claims
+1092,4717,3,Windscreen,2025-10-03,2025-10-03,2025-11-04,1417300.0,1176200.0,Settled,21,Assessor delay,Motor Claims
+1093,4717,4,Theft,2026-08-19,2026-08-22,2026-08-28,671400.0,379400.0,Settled,21,None,Motor Claims
+1094,4722,2,Windscreen,2024-12-28,2025-01-07,2025-02-01,1092000.0,739400.0,Settled,21,None,Motor Claims
+1095,4731,2,Windscreen,2026-05-28,2026-05-30,2026-06-14,130700.0,130100.0,Settled,21,None,Motor Claims
+1096,4739,4,Outpatient,2026-09-05,2026-09-11,2026-09-26,343900.0,176300.0,Settled,14,None,Health Claims
+1097,4744,1,Hospitalisation,2025-09-19,2025-09-28,2025-10-14,168700.0,77300.0,Settled,14,None,Health Claims
+1098,4756,2,Disability,2026-09-06,2026-09-10,,3257900.0,0,Open,30,Investigation,Life Claims
+1099,4758,1,Theft,2026-04-07,2026-04-07,,789500.0,0,Open,21,None,Motor Claims
+1100,4759,1,Outpatient,2023-05-27,2023-06-02,2023-06-24,378500.0,197300.0,Settled,14,Missing documents,Health Claims
+1101,4760,1,Hospitalisation,2026-09-02,2026-09-02,2026-09-10,256100.0,0,Rejected,14,None,Health Claims
+1102,4775,1,Windscreen,2026-08-10,2026-08-12,2026-09-05,701700.0,295700.0,Settled,21,None,Motor Claims
+1103,4776,3,Maternity,2026-06-11,2026-06-14,2026-07-01,366900.0,188100.0,Settled,14,Provider authorisation,Health Claims
+1104,4786,2,Outpatient,2026-05-28,2026-06-03,2026-06-08,135300.0,86500.0,Settled,14,None,Health Claims
+1105,4787,1,Burglary,2024-04-20,2024-04-23,2024-06-29,522500.0,0,Rejected,30,Loss adjuster,Property Claims
+1106,4790,2,Hospitalisation,2026-09-03,2026-09-07,,184500.0,0,Open,14,Provider authorisation,Health Claims
+1107,4791,2,Windscreen,2025-01-29,2025-02-04,2025-02-17,553800.0,265100.0,Settled,21,None,Motor Claims
+1108,4791,3,Accident,2026-02-11,2026-02-16,2026-03-02,168700.0,146100.0,Settled,21,None,Motor Claims
+1109,4795,2,Accident,2025-04-12,2025-04-21,2025-05-27,763200.0,462400.0,Settled,21,Assessor delay,Motor Claims
+1110,4805,1,Third-Party Injury,2025-09-23,2025-09-23,,186800.0,0,Open,21,None,Motor Claims
+1111,4806,1,Accident,2025-11-07,2025-11-17,2025-11-26,659200.0,421500.0,Settled,21,None,Motor Claims
+1112,4806,2,Windscreen,2026-09-14,2026-09-23,,949800.0,0,Open,21,None,Motor Claims
+1113,4807,1,Third-Party Injury,2024-03-07,2024-03-08,2024-04-28,232300.0,0,Rejected,21,Assessor delay,Motor Claims
+1114,4807,2,Third-Party Injury,2025-04-08,2025-04-17,2025-05-27,121000.0,100900.0,Settled,21,Assessor delay,Motor Claims
+1115,4819,4,Outpatient,2026-05-24,2026-05-28,2026-06-05,38600.0,26500.0,Settled,14,None,Health Claims
+1116,4827,1,Windscreen,2023-06-17,2023-06-22,2023-07-25,397100.0,342500.0,Settled,21,Assessor delay,Motor Claims
+1117,4827,3,Windscreen,2025-10-07,2025-10-14,2025-11-04,85200.0,60100.0,Settled,21,None,Motor Claims
+1118,4840,2,Outpatient,2025-02-06,2025-02-06,2025-02-10,55500.0,46900.0,Settled,14,None,Health Claims
+1119,4841,1,Maternity,2024-03-28,2024-04-06,2024-04-28,336500.0,243100.0,Settled,14,None,Health Claims
+1120,4844,1,Accident,2025-06-05,2025-06-05,2025-06-28,1265900.0,678800.0,Settled,21,None,Motor Claims
+1121,4847,1,Hospitalisation,2025-03-27,2025-03-28,2025-04-07,312800.0,224200.0,Settled,14,None,Health Claims
+1122,4847,2,Hospitalisation,2026-01-04,2026-01-10,2026-01-21,287700.0,118400.0,Settled,14,None,Health Claims
+1123,4847,3,Hospitalisation,2026-09-17,2026-09-26,,122100.0,0,Open,14,Provider authorisation,Health Claims
+1124,4859,2,Hospitalisation,2026-05-18,2026-05-22,2026-06-12,108400.0,49900.0,Settled,14,Provider authorisation,Health Claims
+1125,4867,1,Hospitalisation,2026-06-29,2026-07-03,2026-07-15,229200.0,195700.0,Settled,14,None,Health Claims
+1126,4873,2,Windscreen,2025-05-19,2025-05-20,2025-06-01,1249600.0,1164200.0,Settled,21,None,Motor Claims
+1127,4878,2,Windscreen,2025-09-15,2025-09-24,2025-10-09,1003700.0,748100.0,Settled,21,None,Motor Claims
+1128,4887,1,Theft,2026-06-22,2026-06-26,2026-07-14,470600.0,192600.0,Settled,21,None,Motor Claims
+1129,4898,1,Accident,2023-02-18,2023-02-26,2023-03-17,314900.0,132300.0,Settled,21,None,Motor Claims
+1130,4900,1,Third-Party Injury,2024-01-20,2024-01-21,,414900.0,0,Open,21,None,Motor Claims
+1131,4903,4,Burglary,2026-08-26,2026-09-05,,1173000.0,0,Open,30,None,Property Claims
+1132,4908,1,Hospitalisation,2024-05-11,2024-05-17,2024-05-28,169300.0,82400.0,Settled,14,None,Health Claims
+1133,4908,3,Outpatient,2026-08-09,2026-08-10,2026-08-30,325400.0,265000.0,Settled,14,Provider authorisation,Health Claims
+1134,4912,1,Hospitalisation,2024-10-06,2024-10-15,2024-11-06,229400.0,130400.0,Settled,14,Missing documents,Health Claims
+1135,4912,2,Maternity,2026-05-24,2026-05-30,2026-06-20,292600.0,117400.0,Settled,14,Missing documents,Health Claims
+1136,4915,1,Windscreen,2024-10-11,2024-10-16,2024-11-10,311100.0,241900.0,Settled,21,None,Motor Claims
+1137,4916,1,Theft,2023-11-27,2023-12-02,2023-12-16,1423800.0,684900.0,Settled,21,None,Motor Claims
+1138,4920,1,Hospitalisation,2026-01-04,2026-01-08,2026-01-25,257800.0,188300.0,Settled,14,None,Health Claims
+1139,4920,2,Outpatient,2026-09-21,2026-09-22,,220100.0,0,Open,14,None,Health Claims
+1140,4921,1,Accident,2025-05-11,2025-05-14,2025-06-13,883000.0,800800.0,Settled,21,None,Motor Claims
+1141,4930,2,Theft,2025-01-13,2025-01-17,2025-02-04,599500.0,409500.0,Settled,21,None,Motor Claims
+1142,4930,3,Accident,2025-11-02,2025-11-10,2025-11-26,1472100.0,1203000.0,Settled,21,None,Motor Claims
+1143,4932,1,Windscreen,2026-04-04,2026-04-09,2026-05-27,1263800.0,1124900.0,Settled,21,Assessor delay,Motor Claims
+1144,4936,1,Maternity,2025-05-20,2025-05-27,2025-06-15,142800.0,118500.0,Settled,14,Provider authorisation,Health Claims
+1145,4948,3,Third-Party Injury,2026-03-24,2026-03-24,2026-04-20,214200.0,171300.0,Settled,21,None,Motor Claims
+1146,4949,1,Accident,2026-02-17,2026-02-21,2026-03-09,511900.0,357300.0,Settled,21,None,Motor Claims
+1147,4960,1,Theft,2023-12-09,2023-12-13,2023-12-31,1322800.0,611300.0,Settled,21,None,Motor Claims
+1148,4965,1,Accident,2024-02-26,2024-03-07,2024-04-07,1423400.0,1117700.0,Settled,21,Missing documents,Motor Claims
+1149,4973,1,Flood,2024-11-09,2024-11-09,2024-12-16,2529600.0,2000700.0,Settled,30,None,Property Claims
+1150,4977,1,Outpatient,2025-09-30,2025-10-04,2025-10-13,151600.0,73800.0,Settled,14,None,Health Claims
+1151,4980,1,Outpatient,2025-02-25,2025-03-04,2025-03-17,125900.0,0,Rejected,14,None,Health Claims
+1152,4991,3,Maternity,2025-09-20,2025-09-26,2025-10-09,167300.0,122100.0,Settled,14,None,Health Claims
+1153,5014,2,Windscreen,2024-07-30,2024-08-06,2024-08-30,217100.0,196500.0,Settled,21,Missing documents,Motor Claims
+1154,5017,1,Flood,2024-07-01,2024-07-04,2024-08-19,578500.0,267700.0,Settled,30,None,Property Claims
+1155,5021,3,Outpatient,2025-11-22,2025-11-29,2025-12-19,126500.0,56400.0,Settled,14,None,Health Claims
+1156,5022,1,Hospitalisation,2024-11-09,2024-11-19,2024-11-29,275900.0,218200.0,Settled,14,None,Health Claims
+1157,5022,2,Hospitalisation,2025-09-06,2025-09-14,2025-09-21,244000.0,174400.0,Settled,14,None,Health Claims
+1158,5023,2,Hospitalisation,2025-06-04,2025-06-07,2025-06-30,150400.0,140200.0,Settled,14,Provider authorisation,Health Claims
+1159,5023,3,Maternity,2026-08-13,2026-08-21,2026-08-29,330500.0,247500.0,Settled,14,None,Health Claims
+1160,5031,2,Hospitalisation,2025-03-01,2025-03-02,2025-03-13,152300.0,80200.0,Settled,14,None,Health Claims
+1161,5032,1,Accident,2024-10-02,2024-10-11,2024-10-24,1149200.0,571900.0,Settled,21,None,Motor Claims
+1162,5035,2,Flood,2025-07-30,2025-07-31,2025-09-09,2266900.0,0,Rejected,30,None,Property Claims
+1163,5042,1,Outpatient,2026-04-17,2026-04-26,2026-05-10,58800.0,29300.0,Settled,14,None,Health Claims
+1164,5043,1,Hospitalisation,2023-11-04,2023-11-14,2023-11-24,190500.0,77300.0,Settled,14,None,Health Claims
+1165,5046,1,Maternity,2026-06-18,2026-06-18,2026-06-28,197100.0,169000.0,Settled,14,None,Health Claims
+1166,5053,4,Flood,2026-07-02,2026-07-12,2026-08-12,361900.0,349500.0,Settled,30,None,Property Claims
+1167,5061,4,Windscreen,2026-09-22,2026-09-30,,1182200.0,0,Open,21,Missing documents,Motor Claims
+1168,5068,3,Third-Party Damage,2026-08-30,2026-09-08,,346100.0,0,Open,21,Assessor delay,Motor Claims
+1169,5097,2,Accident,2026-09-07,2026-09-13,,1067300.0,0,Open,21,None,Motor Claims
+1170,5099,1,Theft,2026-01-09,2026-01-11,2026-01-29,422900.0,352100.0,Settled,21,None,Motor Claims
+1171,5100,2,Outpatient,2024-09-09,2024-09-16,2024-09-29,184700.0,151000.0,Settled,14,None,Health Claims
+1172,5100,3,Maternity,2025-09-22,2025-09-27,2025-10-10,235200.0,130200.0,Settled,14,None,Health Claims
+1173,5100,4,Outpatient,2026-07-07,2026-07-16,2026-07-31,98300.0,86000.0,Settled,14,None,Health Claims
+1174,5103,1,Windscreen,2026-09-16,2026-09-23,,438700.0,0,Open,21,None,Motor Claims
+1175,5105,1,Third-Party Damage,2023-09-16,2023-09-17,2023-10-27,238500.0,136600.0,Settled,21,Assessor delay,Motor Claims
+1176,5114,1,Theft,2023-06-05,2023-06-08,,1197500.0,0,Open,21,Assessor delay,Motor Claims
+1177,5124,1,Hospitalisation,2024-02-02,2024-02-02,2024-02-08,150200.0,79400.0,Settled,14,None,Health Claims
+1178,5130,1,Outpatient,2024-05-25,2024-05-27,2024-06-05,102900.0,83200.0,Settled,14,None,Health Claims
+1179,5130,2,Outpatient,2025-07-27,2025-08-04,2025-08-18,50000.0,31100.0,Settled,14,Provider authorisation,Health Claims
+1180,5131,1,Outpatient,2024-10-19,2024-10-29,2024-11-19,59100.0,40800.0,Settled,14,Missing documents,Health Claims
+1181,5134,2,Accident,2024-09-09,2024-09-18,2024-10-22,548100.0,230700.0,Settled,21,Missing documents,Motor Claims
+1182,5135,1,Maternity,2023-03-25,2023-04-02,2023-04-14,392700.0,388400.0,Settled,14,None,Health Claims
+1183,5148,1,Theft,2023-08-24,2023-08-25,2023-09-13,284100.0,182000.0,Settled,21,None,Motor Claims
+1184,5151,1,Outpatient,2023-10-31,2023-11-03,2023-11-23,394800.0,390600.0,Settled,14,Provider authorisation,Health Claims
+1185,5154,1,Third-Party Damage,2025-08-17,2025-08-26,2025-09-18,590700.0,506000.0,Settled,21,None,Motor Claims
+1186,5156,1,Hospitalisation,2025-07-15,2025-07-15,2025-07-30,338500.0,219500.0,Settled,14,None,Health Claims
+1187,5157,1,Third-Party Injury,2024-09-30,2024-10-03,2024-11-14,298200.0,148100.0,Settled,21,Missing documents,Motor Claims
+1188,5157,2,Third-Party Damage,2025-08-04,2025-08-08,2025-08-30,327600.0,252000.0,Settled,21,None,Motor Claims
+1189,5164,3,Accident,2026-08-11,2026-08-15,2026-09-22,482600.0,478400.0,Settled,21,Assessor delay,Motor Claims
+1190,5168,1,Third-Party Damage,2025-01-06,2025-01-13,2025-02-11,477100.0,241000.0,Settled,21,None,Motor Claims
+1191,5170,3,Accident,2026-06-29,2026-07-09,2026-08-26,1293500.0,1167100.0,Settled,21,Assessor delay,Motor Claims
+1192,5179,1,Theft,2026-01-28,2026-01-29,2026-02-23,1227900.0,613800.0,Settled,21,None,Motor Claims
+1193,5183,1,Theft,2026-08-23,2026-08-26,2026-09-14,885200.0,387800.0,Settled,21,None,Motor Claims
+1194,5185,1,Outpatient,2025-08-25,2025-08-30,2025-09-27,151700.0,78400.0,Settled,14,Missing documents,Health Claims
+1195,5192,1,Burglary,2024-09-17,2024-09-21,2024-10-10,1471000.0,1057500.0,Settled,30,None,Property Claims
+1196,5202,1,Windscreen,2024-02-03,2024-02-13,2024-03-29,827700.0,417100.0,Settled,21,Assessor delay,Motor Claims
+1197,5202,4,Accident,2026-06-21,2026-06-22,,1143600.0,0,Open,21,None,Motor Claims
+1198,5204,2,Windscreen,2026-05-27,2026-05-30,2026-06-23,1125800.0,575400.0,Settled,21,Assessor delay,Motor Claims
+1199,5205,1,Maternity,2026-08-26,2026-09-05,2026-09-17,164200.0,76100.0,Settled,14,None,Health Claims
+1200,5208,2,Outpatient,2026-07-10,2026-07-17,2026-08-06,361800.0,302000.0,Settled,14,Missing documents,Health Claims
+1201,5209,3,Windscreen,2026-07-05,2026-07-07,2026-08-24,839200.0,506700.0,Settled,21,Assessor delay,Motor Claims
+1202,5210,2,Hospitalisation,2024-11-20,2024-11-28,2024-12-30,205400.0,140800.0,Settled,14,Provider authorisation,Health Claims
+1203,5220,2,Maternity,2024-05-05,2024-05-09,2024-05-26,281500.0,171200.0,Settled,14,None,Health Claims
+1204,5221,1,Windscreen,2025-08-11,2025-08-16,2025-08-28,1426700.0,788400.0,Settled,21,None,Motor Claims
+1205,5226,1,Maternity,2025-10-21,2025-10-29,2025-11-10,177400.0,147700.0,Settled,14,None,Health Claims
+1206,5238,3,Outpatient,2026-03-13,2026-03-22,2026-04-03,243800.0,166800.0,Settled,14,None,Health Claims
+1207,5244,1,Hospitalisation,2025-11-26,2025-11-26,2025-12-08,310800.0,258700.0,Settled,14,None,Health Claims
+1208,5246,1,Maternity,2024-12-27,2024-12-28,2025-01-14,363300.0,226600.0,Settled,14,None,Health Claims
+1209,5247,1,Death Claim,2025-11-07,2025-11-16,2026-01-03,2615400.0,1879100.0,Settled,30,Investigation,Life Claims
+1210,5254,1,Windscreen,2025-05-17,2025-05-22,2025-06-20,1332200.0,621900.0,Settled,21,Assessor delay,Motor Claims
+1211,5257,2,Theft,2026-01-27,2026-01-30,2026-02-26,1283100.0,843800.0,Settled,21,None,Motor Claims
+1212,5259,1,Maternity,2024-06-15,2024-06-15,2024-07-01,134600.0,63500.0,Settled,14,None,Health Claims
+1213,5265,2,Windscreen,2025-10-14,2025-10-21,2025-11-09,1457700.0,0,Rejected,21,None,Motor Claims
+1214,5266,1,Maternity,2026-03-26,2026-03-31,2026-04-11,384500.0,254900.0,Settled,14,None,Health Claims
+1215,5268,1,Outpatient,2023-12-07,2023-12-09,2024-01-01,173800.0,100500.0,Settled,14,Provider authorisation,Health Claims
+1216,5268,4,Outpatient,2026-09-25,2026-10-01,,255000.0,0,Open,14,None,Health Claims
+1217,5274,3,Hospitalisation,2026-04-26,2026-04-28,2026-05-09,134700.0,0,Rejected,14,None,Health Claims
+1218,5277,1,Maternity,2024-10-08,2024-10-17,2024-11-10,355000.0,203300.0,Settled,14,Provider authorisation,Health Claims
+1219,5277,3,Outpatient,2026-02-05,2026-02-10,2026-02-23,269600.0,174700.0,Settled,14,None,Health Claims
+1220,5284,3,Accident,2026-02-24,2026-03-03,2026-03-19,293400.0,131600.0,Settled,21,None,Motor Claims
+1221,5296,2,Theft,2025-06-18,2025-06-20,2025-07-22,873000.0,591700.0,Settled,21,Missing documents,Motor Claims
+1222,5302,1,Outpatient,2023-04-09,2023-04-15,2023-04-25,379200.0,231200.0,Settled,14,None,Health Claims
+1223,5304,1,Accident,2024-04-30,2024-05-09,2024-05-25,787200.0,348800.0,Settled,21,None,Motor Claims
+1224,5304,2,Theft,2026-03-24,2026-03-26,2026-05-01,132800.0,0,Rejected,21,Assessor delay,Motor Claims
+1225,5305,1,Hospitalisation,2026-06-01,2026-06-06,2026-06-17,321300.0,187300.0,Settled,14,None,Health Claims
+1226,5308,2,Third-Party Injury,2025-02-26,2025-03-05,2025-03-15,275100.0,267900.0,Settled,21,None,Motor Claims
+1227,5309,1,Theft,2026-05-01,2026-05-11,2026-05-29,655200.0,0,Rejected,21,None,Motor Claims
+1228,5315,2,Hospitalisation,2024-11-06,2024-11-10,2024-11-27,100800.0,93900.0,Settled,14,None,Health Claims
+1229,5323,1,Maternity,2024-11-16,2024-11-19,2024-12-06,388000.0,340900.0,Settled,14,Provider authorisation,Health Claims
+1230,5323,2,Hospitalisation,2026-01-11,2026-01-12,2026-02-02,333600.0,273100.0,Settled,14,Provider authorisation,Health Claims
+1231,5324,4,Outpatient,2026-08-23,2026-09-02,2026-09-27,345400.0,140700.0,Settled,14,Provider authorisation,Health Claims
+1232,5331,2,Accident,2025-04-07,2025-04-16,2025-05-11,480700.0,269400.0,Settled,21,None,Motor Claims
+1233,5331,3,Accident,2026-05-16,2026-05-16,2026-06-14,958000.0,522100.0,Settled,21,None,Motor Claims
+1234,5332,1,Maternity,2024-05-06,2024-05-13,2024-05-21,49700.0,21500.0,Settled,14,None,Health Claims
+1235,5332,2,Outpatient,2025-05-04,2025-05-05,2025-06-03,124400.0,113600.0,Settled,14,Provider authorisation,Health Claims
+1236,5332,3,Outpatient,2026-03-31,2026-04-03,2026-04-20,306600.0,218900.0,Settled,14,None,Health Claims
+1237,5332,4,Maternity,2026-07-02,2026-07-05,2026-07-16,115900.0,94200.0,Settled,14,None,Health Claims
+1238,5342,2,Maternity,2026-03-20,2026-03-23,2026-04-06,100400.0,82100.0,Settled,14,None,Health Claims
+1239,5342,3,Outpatient,2026-08-17,2026-08-27,2026-09-09,289300.0,181700.0,Settled,14,None,Health Claims
+1240,5345,1,Hospitalisation,2025-06-25,2025-06-26,2025-07-13,135700.0,126800.0,Settled,14,None,Health Claims
+1241,5349,1,Death Claim,2023-08-19,2023-08-23,,7935100.0,0,Open,30,None,Life Claims
+1242,5350,2,Windscreen,2026-01-06,2026-01-10,2026-01-25,372900.0,242500.0,Settled,21,None,Motor Claims
+1243,5354,1,Outpatient,2024-02-14,2024-02-14,2024-02-25,326400.0,212100.0,Settled,14,None,Health Claims
+1244,5359,1,Theft,2024-01-12,2024-01-19,2024-01-29,591000.0,286500.0,Settled,21,None,Motor Claims
+1245,5366,2,Theft,2025-10-29,2025-11-05,2025-11-17,678300.0,644400.0,Settled,21,None,Motor Claims
+1246,5369,1,Third-Party Injury,2025-10-26,2025-10-31,,114700.0,0,Open,21,None,Motor Claims
+1247,5376,2,Maternity,2024-09-28,2024-10-04,2024-10-13,266300.0,116700.0,Settled,14,None,Health Claims
+1248,5377,3,Third-Party Damage,2025-10-18,2025-10-20,2025-11-06,185900.0,112100.0,Settled,21,None,Motor Claims
+1249,5381,3,Outpatient,2025-06-20,2025-06-20,2025-07-04,302600.0,259700.0,Settled,14,None,Health Claims
+1250,5385,4,Windscreen,2026-04-13,2026-04-21,2026-05-07,323000.0,198000.0,Settled,21,None,Motor Claims
+1251,5390,1,Hospitalisation,2026-08-20,2026-08-21,2026-09-05,132400.0,87600.0,Settled,14,Missing documents,Health Claims
+1252,5401,3,Theft,2026-07-10,2026-07-20,2026-08-06,1418300.0,760500.0,Settled,21,None,Motor Claims
+1253,5403,1,Third-Party Injury,2026-04-21,2026-04-26,2026-05-08,357800.0,262400.0,Settled,21,None,Motor Claims
+1254,5405,2,Theft,2026-08-19,2026-08-27,2026-09-10,694800.0,414700.0,Settled,21,None,Motor Claims
+1255,5413,2,Maternity,2026-01-21,2026-01-25,2026-02-09,135400.0,71100.0,Settled,14,None,Health Claims
+1256,5415,1,Theft,2025-12-27,2026-01-05,2026-02-04,926500.0,498600.0,Settled,21,None,Motor Claims
+1257,5417,3,Third-Party Damage,2025-12-31,2026-01-09,2026-01-27,85700.0,66100.0,Settled,21,None,Motor Claims
+1258,5419,2,Hospitalisation,2026-09-07,2026-09-08,2026-09-21,236600.0,209100.0,Settled,14,None,Health Claims
+1259,5421,1,Windscreen,2024-07-29,2024-08-08,2024-09-13,561300.0,480900.0,Settled,21,Assessor delay,Motor Claims
+1260,5423,2,Theft,2025-06-05,2025-06-08,2025-06-23,592900.0,406500.0,Settled,21,None,Motor Claims
+1261,5427,1,Outpatient,2026-07-22,2026-07-30,2026-08-22,102200.0,64500.0,Settled,14,Provider authorisation,Health Claims
+1262,5431,1,Outpatient,2024-07-27,2024-08-03,2024-08-16,207300.0,109300.0,Settled,14,None,Health Claims
+1263,5431,2,Hospitalisation,2024-09-30,2024-09-30,2024-10-08,228200.0,198800.0,Settled,14,None,Health Claims
+1264,5440,3,Hospitalisation,2026-05-23,2026-05-25,2026-06-09,292700.0,173700.0,Settled,14,None,Health Claims
+1265,5441,3,Theft,2026-09-04,2026-09-10,2026-09-23,427200.0,176100.0,Settled,21,None,Motor Claims
+1266,5442,1,Theft,2024-09-21,2024-09-23,2024-10-10,1225500.0,777100.0,Settled,21,None,Motor Claims
+1267,5444,1,Hospitalisation,2025-08-07,2025-08-12,2025-08-29,94700.0,41100.0,Settled,14,None,Health Claims
+1268,5445,1,Hospitalisation,2023-09-01,2023-09-07,2023-09-14,244200.0,175100.0,Settled,14,None,Health Claims
+1269,5445,2,Hospitalisation,2024-06-08,2024-06-13,2024-07-07,208300.0,123800.0,Settled,14,Provider authorisation,Health Claims
+1270,5445,3,Outpatient,2025-10-22,2025-10-22,2025-11-12,205500.0,130100.0,Settled,14,Provider authorisation,Health Claims
+1271,5451,2,Third-Party Injury,2026-06-21,2026-06-22,2026-07-13,380000.0,287900.0,Settled,21,None,Motor Claims
+1272,5455,1,Maternity,2025-12-08,2025-12-14,2025-12-25,236300.0,163900.0,Settled,14,None,Health Claims
+1273,5457,1,Hospitalisation,2025-07-29,2025-08-04,2025-08-09,21400.0,11300.0,Settled,14,None,Health Claims
+1274,5463,1,Theft,2025-02-11,2025-02-11,2025-02-27,1241900.0,967400.0,Settled,21,None,Motor Claims
+1275,5468,2,Theft,2026-07-22,2026-07-31,2026-08-16,495400.0,274900.0,Settled,21,None,Motor Claims
+1276,5472,1,Windscreen,2024-10-04,2024-10-08,2024-11-06,871000.0,528500.0,Settled,21,Missing documents,Motor Claims
+1277,5472,2,Accident,2025-07-29,2025-08-02,2025-09-18,942200.0,651800.0,Settled,21,Assessor delay,Motor Claims
+1278,5472,3,Theft,2026-07-27,2026-08-02,2026-08-15,392500.0,180900.0,Settled,21,None,Motor Claims
+1279,5476,1,Windscreen,2023-06-23,2023-07-03,,703900.0,0,Open,21,None,Motor Claims
+1280,5506,1,Hospitalisation,2026-09-20,2026-09-30,,25500.0,0,Open,14,None,Health Claims
+1281,5514,4,Accident,2026-08-31,2026-09-08,,1386300.0,0,Open,21,Assessor delay,Motor Claims
+1282,5515,1,Maternity,2023-04-10,2023-04-11,2023-05-07,333000.0,203000.0,Settled,14,Provider authorisation,Health Claims
+1283,5515,2,Hospitalisation,2024-06-13,2024-06-23,2024-07-07,265900.0,0,Rejected,14,None,Health Claims
+1284,5517,1,Outpatient,2025-11-10,2025-11-19,2025-12-15,157500.0,117300.0,Settled,14,Provider authorisation,Health Claims
+1285,5529,1,Maternity,2024-12-02,2024-12-08,2024-12-19,62800.0,34600.0,Settled,14,None,Health Claims
+1286,5532,4,Disability,2026-07-20,2026-07-26,2026-09-18,7129200.0,6949900.0,Settled,30,Missing documents,Life Claims
+1287,5542,2,Hospitalisation,2025-04-23,2025-05-01,2025-05-11,146800.0,0,Rejected,14,None,Health Claims
+1288,5545,1,Outpatient,2026-05-01,2026-05-09,2026-05-29,313600.0,255900.0,Settled,14,Missing documents,Health Claims
+1289,5545,2,Outpatient,2026-07-11,2026-07-21,,388800.0,0,Open,14,Missing documents,Health Claims
+1290,5547,1,Maternity,2026-03-07,2026-03-08,2026-03-28,311000.0,136300.0,Settled,14,Missing documents,Health Claims
+1291,5550,1,Windscreen,2024-03-27,2024-03-30,2024-04-17,173800.0,156100.0,Settled,21,None,Motor Claims
+1292,5550,3,Theft,2026-05-22,2026-06-01,2026-07-01,180200.0,0,Rejected,21,None,Motor Claims
+1293,5551,2,Windscreen,2025-03-10,2025-03-17,2025-04-29,1413700.0,1070300.0,Settled,21,Assessor delay,Motor Claims
+1294,5551,3,Accident,2026-01-22,2026-02-01,2026-03-15,1303200.0,1252100.0,Settled,21,Missing documents,Motor Claims
+1295,5555,4,Hospitalisation,2026-08-10,2026-08-13,2026-08-26,370100.0,0,Rejected,14,None,Health Claims
+1296,5556,2,Maternity,2025-04-24,2025-05-01,2025-05-17,68000.0,32700.0,Settled,14,None,Health Claims
+1297,5564,1,Hospitalisation,2025-12-13,2025-12-15,2025-12-26,376800.0,317400.0,Settled,14,None,Health Claims
+1298,5568,2,Accident,2026-09-26,2026-10-05,,1453700.0,0,Open,21,None,Motor Claims
+1299,5573,1,Windscreen,2023-11-27,2023-12-03,,915300.0,0,Open,21,None,Motor Claims
+1300,5573,2,Windscreen,2025-02-20,2025-02-22,2025-03-05,834400.0,725100.0,Settled,21,None,Motor Claims
+1301,5573,3,Windscreen,2025-12-12,2025-12-15,2026-01-08,1348500.0,1300800.0,Settled,21,None,Motor Claims
+1302,5575,1,Death Claim,2024-07-09,2024-07-10,2024-09-02,2007000.0,1761100.0,Settled,30,Missing documents,Life Claims
+1303,5582,1,Accident,2024-04-09,2024-04-10,2024-04-21,378100.0,309400.0,Settled,21,None,Motor Claims
+1304,5582,3,Theft,2026-05-12,2026-05-21,2026-06-19,1038900.0,575200.0,Settled,21,Assessor delay,Motor Claims
+1305,5585,1,Accident,2024-11-13,2024-11-13,2024-12-24,83700.0,76200.0,Settled,21,Assessor delay,Motor Claims
+1306,5586,1,Third-Party Injury,2025-02-26,2025-03-05,2025-03-24,536300.0,355800.0,Settled,21,None,Motor Claims
+1307,5587,1,Maternity,2026-02-09,2026-02-11,2026-02-18,47000.0,30100.0,Settled,14,None,Health Claims
+1308,5588,1,Third-Party Injury,2024-10-03,2024-10-06,2024-10-23,66800.0,58800.0,Settled,21,None,Motor Claims
+1309,5589,2,Maternity,2025-03-08,2025-03-16,2025-03-27,357600.0,330200.0,Settled,14,None,Health Claims
+1310,5589,3,Outpatient,2025-12-14,2025-12-20,2025-12-25,198800.0,196400.0,Settled,14,None,Health Claims
+1311,5594,1,Hospitalisation,2024-11-21,2024-11-30,2024-12-15,254200.0,224900.0,Settled,14,None,Health Claims
+1312,5598,1,Windscreen,2024-12-17,2024-12-24,2025-01-12,394700.0,315800.0,Settled,21,None,Motor Claims
+1313,5598,2,Theft,2026-03-24,2026-04-01,2026-04-18,931800.0,440600.0,Settled,21,None,Motor Claims
+1314,5610,2,Third-Party Damage,2025-05-26,2025-06-02,2025-06-29,525000.0,424200.0,Settled,21,Missing documents,Motor Claims
+1315,5613,1,Windscreen,2024-05-07,2024-05-13,2024-05-29,1473000.0,744100.0,Settled,21,None,Motor Claims
+1316,5613,2,Theft,2025-08-11,2025-08-20,2025-09-10,762000.0,0,Rejected,21,None,Motor Claims
+1317,5617,1,Outpatient,2025-05-29,2025-06-08,2025-06-17,61100.0,35500.0,Settled,14,None,Health Claims
+1318,5617,2,Maternity,2026-03-16,2026-03-21,2026-04-04,288000.0,269900.0,Settled,14,None,Health Claims
+1319,5621,2,Windscreen,2026-08-03,2026-08-13,2026-09-20,1467400.0,0,Rejected,21,Assessor delay,Motor Claims
+1320,5631,3,Maternity,2025-07-20,2025-07-26,2025-08-10,116800.0,87700.0,Settled,14,None,Health Claims
+1321,5631,4,Outpatient,2026-09-16,2026-09-21,,320000.0,0,Open,14,Missing documents,Health Claims
+1322,5632,2,Windscreen,2026-08-19,2026-08-27,2026-09-09,294800.0,245300.0,Settled,21,None,Motor Claims
+1323,5640,3,Accident,2025-09-07,2025-09-10,2025-09-24,1041500.0,929500.0,Settled,21,None,Motor Claims
+1324,5641,2,Accident,2026-03-30,2026-04-06,2026-05-04,1439000.0,863200.0,Settled,21,None,Motor Claims
+1325,5643,1,Outpatient,2025-02-23,2025-02-24,2025-03-11,175800.0,92000.0,Settled,14,None,Health Claims
+1326,5646,3,Outpatient,2026-04-22,2026-04-24,2026-05-05,379000.0,334100.0,Settled,14,None,Health Claims
+1327,5653,2,Hospitalisation,2026-08-15,2026-08-18,2026-08-31,20600.0,16600.0,Settled,14,None,Health Claims
+1328,5691,1,Accident,2026-03-15,2026-03-18,2026-04-09,548300.0,0,Rejected,21,None,Motor Claims
+1329,5704,1,Theft,2024-08-01,2024-08-04,2024-08-28,91600.0,54500.0,Settled,21,None,Motor Claims
+1330,5704,2,Theft,2025-11-09,2025-11-10,2025-11-22,841600.0,414700.0,Settled,21,None,Motor Claims
+1331,5705,1,Outpatient,2024-05-15,2024-05-16,,355900.0,0,Open,14,Provider authorisation,Health Claims
+1332,5706,3,Windscreen,2025-07-22,2025-07-24,2025-09-05,787100.0,442000.0,Settled,21,Assessor delay,Motor Claims
+1333,5711,3,Accident,2026-08-31,2026-09-06,,1260400.0,0,Open,21,Assessor delay,Motor Claims
+1334,5712,1,Third-Party Damage,2026-04-13,2026-04-15,2026-05-02,330200.0,247500.0,Settled,21,None,Motor Claims
+1335,5734,2,Theft,2026-09-21,2026-09-30,,923500.0,0,Open,21,Assessor delay,Motor Claims
+1336,5739,3,Windscreen,2026-05-03,2026-05-03,2026-05-19,585200.0,463900.0,Settled,21,None,Motor Claims
+1337,5753,1,Burglary,2024-04-15,2024-04-18,2024-05-19,2081400.0,1469000.0,Settled,30,None,Property Claims
+1338,5760,1,Accident,2026-08-22,2026-08-26,,1422400.0,0,Open,21,Assessor delay,Motor Claims
+1339,5763,1,Outpatient,2026-03-18,2026-03-20,2026-04-10,85500.0,83400.0,Settled,14,Provider authorisation,Health Claims
+1340,5764,2,Hospitalisation,2025-05-29,2025-06-06,2025-06-25,254700.0,122500.0,Settled,14,None,Health Claims
+1341,5768,1,Third-Party Injury,2023-12-27,2024-01-01,2024-01-09,569300.0,471800.0,Settled,21,None,Motor Claims
+1342,5771,2,Theft,2026-05-15,2026-05-16,2026-07-03,956600.0,472300.0,Settled,21,Assessor delay,Motor Claims
+1343,5772,1,Accident,2024-03-28,2024-04-03,2024-04-22,644000.0,313200.0,Settled,21,None,Motor Claims
+1344,5772,2,Accident,2024-08-09,2024-08-14,2024-08-30,680600.0,674400.0,Settled,21,None,Motor Claims
+1345,5773,2,Windscreen,2026-05-27,2026-05-29,2026-06-18,1482400.0,1193500.0,Settled,21,None,Motor Claims
+1346,5787,1,Windscreen,2026-05-27,2026-05-31,,881000.0,0,Open,21,None,Motor Claims
+1347,5790,1,Windscreen,2023-09-05,2023-09-08,2023-09-24,625600.0,0,Rejected,21,None,Motor Claims
+1348,5790,2,Theft,2024-06-26,2024-06-27,2024-07-11,732600.0,0,Rejected,21,None,Motor Claims
+1349,5791,1,Maternity,2024-12-16,2024-12-19,2025-01-01,102500.0,81500.0,Settled,14,None,Health Claims
+1350,5793,1,Outpatient,2026-09-15,2026-09-21,,342800.0,0,Open,14,Provider authorisation,Health Claims
+1351,5799,2,Third-Party Damage,2025-11-01,2025-11-02,2025-11-25,292200.0,214800.0,Settled,21,Assessor delay,Motor Claims
+1352,5804,1,Hospitalisation,2024-09-18,2024-09-23,2024-10-03,70900.0,62900.0,Settled,14,None,Health Claims
+1353,5804,2,Outpatient,2026-08-19,2026-08-22,2026-09-22,389800.0,326200.0,Settled,14,Provider authorisation,Health Claims
+1354,5810,2,Windscreen,2026-07-19,2026-07-22,2026-08-18,183000.0,99200.0,Settled,21,Assessor delay,Motor Claims
+1355,5820,1,Accident,2025-09-09,2025-09-17,2025-10-14,1476400.0,1168500.0,Settled,21,None,Motor Claims
+1356,5822,1,Theft,2026-02-20,2026-02-25,2026-03-14,898600.0,803400.0,Settled,21,None,Motor Claims
+1357,5831,2,Outpatient,2026-07-20,2026-07-24,2026-08-04,346100.0,285700.0,Settled,14,None,Health Claims
+1358,5833,1,Third-Party Injury,2025-10-12,2025-10-22,2025-11-30,166400.0,93300.0,Settled,21,Missing documents,Motor Claims
+1359,5834,4,Death Claim,2026-09-09,2026-09-15,,9474000.0,0,Open,30,None,Life Claims
+1360,5836,2,Hospitalisation,2025-06-10,2025-06-20,2025-06-29,215000.0,126700.0,Settled,14,None,Health Claims
+1361,5841,1,Outpatient,2024-02-26,2024-02-26,2024-03-08,52800.0,22900.0,Settled,14,None,Health Claims
+1362,5841,2,Outpatient,2025-04-17,2025-04-22,2025-05-02,44600.0,33000.0,Settled,14,None,Health Claims
+1363,5845,1,Outpatient,2026-05-18,2026-05-19,2026-06-12,335200.0,289600.0,Settled,14,Provider authorisation,Health Claims
+1364,5850,2,Accident,2026-03-11,2026-03-15,2026-04-22,385400.0,271400.0,Settled,21,Assessor delay,Motor Claims
+1365,5857,1,Hospitalisation,2024-05-13,2024-05-23,2024-06-01,160900.0,87300.0,Settled,14,None,Health Claims
+1366,5859,1,Hospitalisation,2023-12-24,2023-12-29,2024-01-09,201100.0,80900.0,Settled,14,None,Health Claims
+1367,5861,1,Outpatient,2023-07-17,2023-07-24,2023-08-06,47200.0,41300.0,Settled,14,None,Health Claims
+1368,5861,3,Hospitalisation,2025-08-17,2025-08-22,,218400.0,0,Open,14,None,Health Claims
+1369,5861,4,Hospitalisation,2026-06-22,2026-06-26,2026-07-21,390200.0,189200.0,Settled,14,Provider authorisation,Health Claims
+1370,5864,2,Theft,2026-03-13,2026-03-13,2026-03-25,1380900.0,747700.0,Settled,21,None,Motor Claims
+1371,5865,1,Windscreen,2025-07-13,2025-07-19,2025-08-16,564400.0,0,Rejected,21,None,Motor Claims
+1372,5867,2,Maternity,2025-07-31,2025-08-10,2025-08-22,336700.0,144900.0,Settled,14,None,Health Claims
+1373,5873,1,Theft,2026-02-04,2026-02-13,2026-03-07,1401100.0,995900.0,Settled,21,None,Motor Claims
+1374,5876,1,Hospitalisation,2023-08-21,2023-08-29,2023-09-13,385300.0,374500.0,Settled,14,None,Health Claims
+1375,5877,2,Theft,2026-05-02,2026-05-09,2026-06-02,1010800.0,732600.0,Settled,21,None,Motor Claims
+1376,5879,2,Hospitalisation,2026-08-05,2026-08-10,2026-08-30,374700.0,162700.0,Settled,14,Missing documents,Health Claims
+1377,5883,1,Windscreen,2025-11-20,2025-11-29,2026-01-08,618400.0,604800.0,Settled,21,Assessor delay,Motor Claims
+1378,5893,1,Maternity,2023-12-02,2023-12-05,2024-01-05,258300.0,184200.0,Settled,14,Provider authorisation,Health Claims
+1379,5893,3,Outpatient,2026-01-02,2026-01-04,2026-01-23,76800.0,61000.0,Settled,14,None,Health Claims
+1380,5897,1,Hospitalisation,2026-09-05,2026-09-13,2026-09-23,334600.0,208200.0,Settled,14,None,Health Claims
+1381,5899,2,Maternity,2026-02-18,2026-02-18,2026-03-02,304300.0,210000.0,Settled,14,None,Health Claims
+1382,5900,2,Accident,2026-04-18,2026-04-23,2026-05-07,1411300.0,790500.0,Settled,21,None,Motor Claims
+1383,5904,3,Third-Party Damage,2026-05-11,2026-05-14,2026-06-04,149400.0,104800.0,Settled,21,None,Motor Claims
+1384,5905,1,Maternity,2026-06-08,2026-06-17,2026-07-05,100100.0,45200.0,Settled,14,None,Health Claims
+1385,5914,1,Outpatient,2026-08-11,2026-08-13,2026-08-30,59400.0,44100.0,Settled,14,Missing documents,Health Claims
+1386,5919,1,Accident,2024-09-24,2024-09-28,2024-10-14,359900.0,0,Rejected,21,None,Motor Claims
+1387,5922,1,Outpatient,2024-12-07,2024-12-15,2024-12-24,112100.0,68300.0,Settled,14,None,Health Claims
+1388,5926,2,Theft,2026-03-17,2026-03-22,2026-04-04,722900.0,0,Rejected,21,None,Motor Claims
+1389,5928,1,Outpatient,2025-08-31,2025-09-03,2025-09-20,332300.0,180500.0,Settled,14,None,Health Claims
+1390,5932,2,Hospitalisation,2025-07-05,2025-07-05,2025-07-27,120200.0,101100.0,Settled,14,Missing documents,Health Claims
+1391,5933,3,Theft,2026-06-21,2026-06-30,2026-07-28,183800.0,156100.0,Settled,21,Assessor delay,Motor Claims
+1392,5941,1,Outpatient,2026-08-05,2026-08-11,2026-09-02,215100.0,101900.0,Settled,14,Provider authorisation,Health Claims
+1393,5946,1,Outpatient,2026-07-03,2026-07-12,2026-08-04,224400.0,107900.0,Settled,14,Provider authorisation,Health Claims
+1394,5956,1,Accident,2025-12-17,2025-12-26,2026-01-27,779700.0,526600.0,Settled,21,Assessor delay,Motor Claims
+1395,5971,1,Accident,2024-08-10,2024-08-16,2024-10-01,215800.0,127200.0,Settled,21,Assessor delay,Motor Claims
+1396,5971,2,Windscreen,2025-12-20,2025-12-24,2026-02-05,83600.0,44200.0,Settled,21,Assessor delay,Motor Claims
+1397,5972,1,Hospitalisation,2023-11-24,2023-12-03,2023-12-18,226100.0,0,Rejected,14,None,Health Claims
+1398,5977,3,Third-Party Damage,2026-08-25,2026-08-27,2026-09-15,495100.0,201700.0,Settled,21,None,Motor Claims
+1399,5982,1,Windscreen,2025-07-18,2025-07-21,2025-08-12,1405300.0,1342900.0,Settled,21,None,Motor Claims
+1400,5988,1,Accident,2026-06-30,2026-07-02,2026-08-04,928400.0,435500.0,Settled,21,Assessor delay,Motor Claims
+1401,5993,1,Theft,2026-08-27,2026-08-29,2026-09-17,1248000.0,566800.0,Settled,21,None,Motor Claims
+1402,5997,3,Accident,2026-07-31,2026-08-01,2026-08-20,201500.0,168800.0,Settled,21,None,Motor Claims
+1403,5999,3,Accident,2026-08-10,2026-08-18,2026-09-13,1437800.0,1004800.0,Settled,21,None,Motor Claims
+1404,6003,2,Third-Party Injury,2024-09-28,2024-10-08,2024-11-09,182100.0,157800.0,Settled,21,Assessor delay,Motor Claims
+1405,6003,4,Third-Party Damage,2026-09-03,2026-09-13,2026-09-30,343100.0,298500.0,Settled,21,None,Motor Claims
+1406,6010,2,Burglary,2024-07-19,2024-07-20,2024-08-12,1850600.0,1505800.0,Settled,30,None,Property Claims
+1407,6015,2,Accident,2025-07-29,2025-08-08,2025-09-03,1303300.0,0,Rejected,21,Missing documents,Motor Claims
+1408,6016,2,Fire,2025-11-16,2025-11-21,2025-12-04,258200.0,136500.0,Settled,30,None,Property Claims
+1409,6019,1,Hospitalisation,2024-10-15,2024-10-18,2024-10-31,397100.0,356900.0,Settled,14,None,Health Claims
+1410,6025,1,Outpatient,2024-04-18,2024-04-22,2024-05-15,51400.0,0,Rejected,14,Provider authorisation,Health Claims
+1411,6025,2,Hospitalisation,2025-12-26,2026-01-05,2026-01-22,271900.0,213100.0,Settled,14,None,Health Claims
+1412,6031,1,Outpatient,2025-12-31,2026-01-09,2026-01-22,126100.0,111800.0,Settled,14,None,Health Claims
+1413,6035,1,Theft,2024-01-10,2024-01-16,2024-02-21,1418600.0,589200.0,Settled,21,Assessor delay,Motor Claims
+1414,6041,1,Outpatient,2025-10-21,2025-10-27,2025-11-08,371100.0,302600.0,Settled,14,None,Health Claims
+1415,6041,2,Hospitalisation,2026-06-30,2026-07-04,2026-08-02,392700.0,215000.0,Settled,14,Provider authorisation,Health Claims
+1416,6047,3,Third-Party Damage,2026-05-04,2026-05-05,2026-05-25,545500.0,393000.0,Settled,21,None,Motor Claims
+1417,6050,2,Outpatient,2026-08-07,2026-08-08,2026-08-26,207100.0,0,Rejected,14,None,Health Claims
+1418,6054,2,Windscreen,2025-01-08,2025-01-18,2025-02-14,906500.0,684400.0,Settled,21,Assessor delay,Motor Claims
+1419,6054,4,Accident,2026-04-11,2026-04-20,2026-06-12,1293800.0,580900.0,Settled,21,Assessor delay,Motor Claims
+1420,6056,1,Theft,2026-06-24,2026-06-28,2026-07-14,271800.0,232900.0,Settled,21,None,Motor Claims
+1421,6072,1,Hospitalisation,2025-02-01,2025-02-05,2025-02-18,30400.0,16500.0,Settled,14,None,Health Claims
+1422,6074,1,Hospitalisation,2024-01-20,2024-01-21,2024-01-30,157800.0,129700.0,Settled,14,None,Health Claims
+1423,6074,2,Outpatient,2025-03-05,2025-03-11,2025-04-07,220900.0,193000.0,Settled,14,Provider authorisation,Health Claims
+1424,6074,4,Outpatient,2026-08-21,2026-08-25,2026-08-28,273600.0,255000.0,Settled,14,None,Health Claims
+1425,6075,2,Windscreen,2026-07-23,2026-07-26,2026-08-21,999900.0,675000.0,Settled,21,Missing documents,Motor Claims
+1426,6081,1,Third-Party Damage,2026-02-15,2026-02-25,2026-03-16,323400.0,137700.0,Settled,21,None,Motor Claims
+1427,6083,1,Hospitalisation,2024-06-07,2024-06-11,2024-06-22,200100.0,0,Rejected,14,None,Health Claims
+1428,6083,2,Maternity,2025-01-19,2025-01-20,2025-02-01,182000.0,109400.0,Settled,14,None,Health Claims
+1429,6083,3,Maternity,2026-05-14,2026-05-19,2026-06-16,172200.0,136000.0,Settled,14,Provider authorisation,Health Claims
+1430,6085,1,Accident,2024-09-21,2024-09-21,2024-10-17,1218300.0,793900.0,Settled,21,None,Motor Claims
+1431,6089,2,Maternity,2026-05-17,2026-05-19,2026-06-14,328700.0,0,Rejected,14,Provider authorisation,Health Claims
+1432,6096,1,Maternity,2025-08-12,2025-08-21,2025-09-23,169600.0,89800.0,Settled,14,Provider authorisation,Health Claims
+1433,6105,2,Maternity,2026-09-29,2026-10-03,,182600.0,0,Open,14,None,Health Claims
+1434,6107,1,Outpatient,2026-05-31,2026-06-06,2026-06-20,263500.0,259200.0,Settled,14,None,Health Claims
+1435,6111,1,Outpatient,2025-02-03,2025-02-10,2025-02-28,103700.0,78900.0,Settled,14,None,Health Claims
+1436,6111,2,Maternity,2025-12-28,2026-01-03,2026-01-19,277700.0,159100.0,Settled,14,None,Health Claims
+1437,6120,1,Hospitalisation,2026-02-06,2026-02-15,,359500.0,0,Open,14,None,Health Claims
+1438,6122,2,Hospitalisation,2025-12-13,2025-12-18,2026-01-05,281000.0,281000.0,Settled,14,None,Health Claims
+1439,6130,1,Windscreen,2026-03-30,2026-04-08,2026-05-24,371900.0,320700.0,Settled,21,Assessor delay,Motor Claims
+1440,6137,3,Windscreen,2026-09-16,2026-09-18,,380600.0,0,Open,21,None,Motor Claims
+1441,6140,1,Maternity,2024-10-24,2024-11-03,2024-11-10,391000.0,285400.0,Settled,14,None,Health Claims
+1442,6140,2,Hospitalisation,2025-05-21,2025-05-29,2025-06-12,394100.0,259100.0,Settled,14,Provider authorisation,Health Claims
+1443,6141,1,Accident,2026-09-13,2026-09-13,,189900.0,0,Open,21,None,Motor Claims
+1444,6142,1,Windscreen,2024-09-22,2024-09-26,2024-10-20,635900.0,276400.0,Settled,21,None,Motor Claims
+1445,6144,1,Maternity,2026-01-12,2026-01-17,2026-02-02,124400.0,97400.0,Settled,14,Missing documents,Health Claims
+1446,6147,1,Theft,2025-10-21,2025-10-25,2025-11-12,644300.0,617800.0,Settled,21,None,Motor Claims
+1447,6152,1,Windscreen,2023-11-02,2023-11-03,2023-11-17,921100.0,708700.0,Settled,21,None,Motor Claims
+1448,6152,2,Theft,2025-02-01,2025-02-02,2025-02-12,502400.0,463800.0,Settled,21,None,Motor Claims
+1449,6154,1,Burglary,2024-10-23,2024-10-31,2024-11-29,2646600.0,1926900.0,Settled,30,None,Property Claims
+1450,6158,1,Theft,2024-02-11,2024-02-18,2024-03-15,1489200.0,886900.0,Settled,21,Assessor delay,Motor Claims
+1451,6160,2,Third-Party Damage,2024-10-27,2024-11-04,2024-12-04,143000.0,76200.0,Settled,21,Assessor delay,Motor Claims
+1452,6161,1,Outpatient,2026-07-19,2026-07-22,2026-08-09,22900.0,15100.0,Settled,14,Provider authorisation,Health Claims
+1453,6163,3,Windscreen,2026-05-28,2026-06-03,2026-06-15,297500.0,171300.0,Settled,21,None,Motor Claims
+1454,6166,2,Accident,2026-09-25,2026-09-25,,1209200.0,0,Open,21,None,Motor Claims
+1455,6175,3,Windscreen,2026-03-15,2026-03-24,,328300.0,0,Open,21,Assessor delay,Motor Claims
+1456,6179,2,Burglary,2025-09-07,2025-09-10,2025-10-14,2255300.0,1223800.0,Settled,30,None,Property Claims
+1457,6182,1,Flood,2026-02-01,2026-02-03,2026-02-23,2516900.0,1705900.0,Settled,30,None,Property Claims
+1458,6186,1,Hospitalisation,2026-01-21,2026-01-23,2026-02-20,271800.0,201700.0,Settled,14,Provider authorisation,Health Claims
+1459,6195,1,Maternity,2026-04-10,2026-04-19,2026-05-06,389500.0,304100.0,Settled,14,None,Health Claims
+1460,6199,1,Hospitalisation,2023-10-04,2023-10-07,2023-10-21,369500.0,346700.0,Settled,14,None,Health Claims
+1461,6199,2,Outpatient,2024-10-02,2024-10-11,2024-10-19,38700.0,28500.0,Settled,14,None,Health Claims
+1462,6209,1,Hospitalisation,2026-06-18,2026-06-20,2026-07-19,182700.0,111500.0,Settled,14,Provider authorisation,Health Claims
+1463,6210,1,Maternity,2025-08-20,2025-08-22,2025-09-01,335400.0,298100.0,Settled,14,None,Health Claims
+1464,6211,1,Hospitalisation,2024-12-09,2024-12-09,2024-12-23,161100.0,95700.0,Settled,14,None,Health Claims
+1465,6211,2,Outpatient,2026-05-26,2026-06-03,2026-06-12,133500.0,111700.0,Settled,14,None,Health Claims
+1466,6217,1,Theft,2023-07-12,2023-07-12,2023-08-03,271600.0,211500.0,Settled,21,None,Motor Claims
+1467,6227,2,Accident,2024-11-02,2024-11-02,2024-11-16,491700.0,0,Rejected,21,None,Motor Claims
+1468,6231,3,Maternity,2025-10-18,2025-10-20,2025-10-30,250900.0,102500.0,Settled,14,None,Health Claims
+1469,6238,3,Disability,2026-06-18,2026-06-24,2026-08-02,9998500.0,7193700.0,Settled,30,None,Life Claims
+1470,6247,3,Outpatient,2026-09-27,2026-10-05,,122100.0,0,Open,14,None,Health Claims
+1471,6248,2,Theft,2026-02-05,2026-02-14,2026-03-01,308400.0,127200.0,Settled,21,None,Motor Claims
+1472,6249,2,Outpatient,2026-02-23,2026-02-26,2026-03-10,101900.0,77700.0,Settled,14,Provider authorisation,Health Claims
+1473,6258,1,Burglary,2025-06-04,2025-06-14,2025-07-11,2362700.0,1952200.0,Settled,30,None,Property Claims
+1474,6260,3,Maternity,2026-04-28,2026-05-02,2026-06-03,357800.0,311700.0,Settled,14,Provider authorisation,Health Claims
+1475,6265,2,Theft,2026-02-14,2026-02-21,2026-03-31,727500.0,353100.0,Settled,21,Assessor delay,Motor Claims
+1476,6271,1,Outpatient,2024-05-08,2024-05-14,2024-05-28,60400.0,28900.0,Settled,14,None,Health Claims
+1477,6272,3,Maternity,2026-09-16,2026-09-21,,312400.0,0,Open,14,None,Health Claims
+1478,6274,3,Windscreen,2026-04-12,2026-04-21,2026-05-05,229100.0,202700.0,Settled,21,None,Motor Claims
+1479,6278,1,Benefit Payout,2025-12-13,2025-12-21,2026-01-07,688200.0,505700.0,Settled,30,None,Life Claims
+1480,6279,1,Third-Party Damage,2025-09-04,2025-09-12,2025-10-25,254600.0,118500.0,Settled,21,Assessor delay,Motor Claims
+1481,6280,1,Hospitalisation,2025-08-21,2025-08-22,2025-09-12,152200.0,73200.0,Settled,14,None,Health Claims
+1482,6283,1,Hospitalisation,2024-01-16,2024-01-16,2024-02-07,237200.0,105300.0,Settled,14,Provider authorisation,Health Claims
+1483,6288,1,Maternity,2026-04-22,2026-04-26,2026-05-11,133900.0,0,Rejected,14,None,Health Claims
+1484,6294,1,Outpatient,2025-12-22,2025-12-22,2026-01-12,21600.0,21300.0,Settled,14,None,Health Claims
+1485,6295,2,Maternity,2026-06-17,2026-06-22,2026-07-06,76100.0,44500.0,Settled,14,None,Health Claims
+1486,6298,3,Accident,2026-08-19,2026-08-20,2026-09-28,1331100.0,756300.0,Settled,21,Missing documents,Motor Claims
+1487,6300,1,Maternity,2025-02-25,2025-03-04,2025-03-23,252400.0,251400.0,Settled,14,Provider authorisation,Health Claims
+1488,6305,1,Outpatient,2025-06-13,2025-06-15,2025-06-27,216200.0,120000.0,Settled,14,None,Health Claims
+1489,6314,1,Accident,2025-06-04,2025-06-10,2025-07-13,259700.0,166200.0,Settled,21,Missing documents,Motor Claims
+1490,6317,1,Accident,2025-05-26,2025-06-05,2025-07-07,1251200.0,592900.0,Settled,21,Assessor delay,Motor Claims
+1491,6319,1,Hospitalisation,2026-01-14,2026-01-15,2026-02-10,257600.0,161500.0,Settled,14,Provider authorisation,Health Claims
+1492,6319,2,Hospitalisation,2026-08-20,2026-08-29,2026-09-19,269300.0,228100.0,Settled,14,None,Health Claims
+1493,6322,1,Accident,2026-05-18,2026-05-19,2026-06-18,1325500.0,993100.0,Settled,21,Missing documents,Motor Claims
+1494,6326,2,Outpatient,2026-04-24,2026-04-30,2026-05-23,55400.0,28100.0,Settled,14,Provider authorisation,Health Claims
+1495,6338,1,Hospitalisation,2026-05-12,2026-05-19,2026-05-27,56900.0,55300.0,Settled,14,Provider authorisation,Health Claims
+1496,6345,1,Outpatient,2025-11-03,2025-11-08,2025-11-28,98600.0,63800.0,Settled,14,Provider authorisation,Health Claims
+1497,6359,2,Maternity,2026-09-03,2026-09-06,2026-09-15,302600.0,245200.0,Settled,14,None,Health Claims
+1498,6360,3,Accident,2026-08-10,2026-08-14,2026-09-17,1337300.0,1205800.0,Settled,21,Missing documents,Motor Claims
+1499,6368,1,Maternity,2024-03-05,2024-03-10,2024-03-25,71000.0,42000.0,Settled,14,None,Health Claims
+1500,6368,2,Maternity,2025-08-28,2025-08-29,2025-09-11,123000.0,63700.0,Settled,14,None,Health Claims
+1501,6371,1,Windscreen,2026-09-12,2026-09-15,,1108200.0,0,Open,21,Assessor delay,Motor Claims
+1502,6373,2,Hospitalisation,2025-04-20,2025-04-20,2025-05-09,365700.0,278000.0,Settled,14,None,Health Claims
+1503,6373,3,Outpatient,2026-02-08,2026-02-15,2026-03-01,354700.0,253600.0,Settled,14,None,Health Claims
+1504,6379,3,Theft,2025-08-21,2025-08-24,2025-09-15,499100.0,281500.0,Settled,21,None,Motor Claims
+1505,6379,4,Accident,2026-06-16,2026-06-24,2026-07-06,418100.0,196100.0,Settled,21,None,Motor Claims
+1506,6387,2,Outpatient,2025-03-19,2025-03-20,2025-03-31,188600.0,135500.0,Settled,14,None,Health Claims
+1507,6388,1,Theft,2026-09-03,2026-09-08,2026-09-20,240300.0,234000.0,Settled,21,None,Motor Claims
+1508,6394,2,Outpatient,2026-09-16,2026-09-25,,302000.0,0,Open,14,None,Health Claims
+1509,6397,3,Theft,2026-03-20,2026-03-23,2026-04-11,871500.0,784100.0,Settled,21,None,Motor Claims
+1510,6397,4,Windscreen,2026-06-11,2026-06-13,2026-06-23,1009500.0,809400.0,Settled,21,None,Motor Claims
+1511,6402,3,Accident,2026-07-13,2026-07-19,2026-08-27,165800.0,158300.0,Settled,21,Assessor delay,Motor Claims
+1512,6412,1,Hospitalisation,2023-09-18,2023-09-25,2023-10-12,106800.0,0,Rejected,14,None,Health Claims
+1513,6412,2,Outpatient,2024-11-22,2024-11-26,2024-12-02,80800.0,72100.0,Settled,14,None,Health Claims
+1514,6412,4,Maternity,2026-09-09,2026-09-18,,381600.0,0,Open,14,None,Health Claims
+1515,6416,4,Theft,2026-03-28,2026-03-31,2026-05-10,1391400.0,604300.0,Settled,21,Assessor delay,Motor Claims
+1516,6423,2,Outpatient,2026-08-20,2026-08-29,2026-09-26,108600.0,89000.0,Settled,14,Provider authorisation,Health Claims
+1517,6425,1,Accident,2024-07-29,2024-08-08,2024-09-11,654600.0,399300.0,Settled,21,Assessor delay,Motor Claims
+1518,6427,2,Outpatient,2025-04-15,2025-04-20,2025-05-11,191000.0,174500.0,Settled,14,Missing documents,Health Claims
+1519,6427,3,Maternity,2025-10-31,2025-11-09,2025-11-21,389900.0,236000.0,Settled,14,None,Health Claims
+1520,6427,4,Maternity,2026-06-19,2026-06-23,2026-07-07,279500.0,200400.0,Settled,14,None,Health Claims
+1521,6434,1,Windscreen,2026-04-22,2026-04-23,2026-05-11,212600.0,162000.0,Settled,21,None,Motor Claims
+1522,6436,1,Hospitalisation,2023-12-22,2024-01-01,2024-01-18,83200.0,40200.0,Settled,14,None,Health Claims
+1523,6437,1,Outpatient,2023-12-26,2024-01-04,2024-01-29,28100.0,12000.0,Settled,14,Provider authorisation,Health Claims
+1524,6437,2,Outpatient,2025-01-18,2025-01-25,2025-02-04,345600.0,149900.0,Settled,14,None,Health Claims
+1525,6441,1,Third-Party Damage,2023-11-11,2023-11-12,2023-11-28,115600.0,97600.0,Settled,21,None,Motor Claims
+1526,6445,1,Theft,2025-06-26,2025-07-01,2025-07-26,902000.0,799600.0,Settled,21,None,Motor Claims
+1527,6448,2,Third-Party Damage,2024-11-24,2024-12-04,2024-12-21,210400.0,0,Rejected,21,None,Motor Claims
+1528,6454,2,Windscreen,2025-10-26,2025-10-26,2025-11-21,360600.0,289100.0,Settled,21,Assessor delay,Motor Claims
+1529,6459,1,Windscreen,2024-10-16,2024-10-16,2024-11-15,1160600.0,1120800.0,Settled,21,Assessor delay,Motor Claims
+1530,6461,1,Windscreen,2024-04-17,2024-04-17,2024-05-10,572100.0,272100.0,Settled,21,None,Motor Claims
+1531,6464,3,Disability,2026-04-12,2026-04-16,2026-05-22,8911200.0,7886100.0,Settled,30,None,Life Claims
+1532,6465,1,Outpatient,2026-07-19,2026-07-20,2026-07-29,354300.0,157400.0,Settled,14,None,Health Claims
+1533,6470,2,Theft,2025-09-09,2025-09-09,2025-09-23,258400.0,178600.0,Settled,21,None,Motor Claims
+1534,6471,3,Maternity,2026-09-02,2026-09-08,2026-09-17,379600.0,233400.0,Settled,14,None,Health Claims
+1535,6472,2,Windscreen,2026-08-30,2026-09-09,,763900.0,0,Open,21,Assessor delay,Motor Claims
+1536,6473,1,Accident,2024-06-04,2024-06-14,2024-07-20,970300.0,722600.0,Settled,21,Assessor delay,Motor Claims
+1537,6477,4,Third-Party Damage,2026-06-04,2026-06-13,2026-07-01,518900.0,455900.0,Settled,21,None,Motor Claims
+1538,6481,2,Windscreen,2025-12-06,2025-12-07,2025-12-30,129700.0,122000.0,Settled,21,None,Motor Claims
+1539,6489,1,Hospitalisation,2024-11-01,2024-11-11,2024-11-27,380100.0,273800.0,Settled,14,Missing documents,Health Claims
+1540,6494,2,Windscreen,2026-06-14,2026-06-21,2026-07-27,157000.0,115200.0,Settled,21,Assessor delay,Motor Claims
+1541,6496,1,Third-Party Injury,2026-05-17,2026-05-17,2026-05-26,255200.0,120000.0,Settled,21,None,Motor Claims
+1542,6500,1,Accident,2024-03-07,2024-03-16,2024-04-21,1116900.0,639900.0,Settled,21,Assessor delay,Motor Claims

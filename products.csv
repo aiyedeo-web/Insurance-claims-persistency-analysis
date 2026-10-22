@@ -1,0 +1,7 @@
+product_id,product_name,product_line,claims_unit,sla_days
+1,Term Life Protect,Life,Life Claims,30
+2,Savings Plan,Life,Life Claims,30
+3,Motor Comprehensive,General,Motor Claims,21
+4,Motor Third Party,General,Motor Claims,21
+5,Health Cover,Health,Health Claims,14
+6,Home & Property,General,Property Claims,30

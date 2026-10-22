@@ -1,0 +1,1233 @@
+feedback_id,policy_id,customer_id,claim_id,feedback_date,source,rating,comment
+1,12,12,4,2025-05-05,Call centre,3,Nobody gave me updates on my claim
+2,15,15,5,2026-05-11,Email,3,Customer service was polite and helpful
+3,17,17,,2026-09-30,Email,4,I was not told the policy terms clearly
+4,25,25,7,2024-04-15,Call centre,4,"Hard to reach customer service, long wait on the phone"
+5,28,28,8,2024-03-08,App,5,Customer service was polite and helpful
+6,28,28,9,2025-02-06,Email,4,My claim took too long and I had to submit documents again
+7,30,30,10,2024-12-27,Call centre,2,My claim was rejected and the reason was not explained clearly
+8,33,33,,2025-10-05,Call centre,3,Payment on the app failed twice
+9,38,38,13,2025-12-11,Branch,5,Claim was settled quickly and the agent kept me updated
+10,62,62,,2025-08-28,Email,3,I was not told the policy terms clearly
+11,72,72,,2026-09-30,Email,3,Payment on the app failed twice
+12,77,77,17,2025-04-04,App,3,My claim took too long and I had to submit documents again
+13,78,78,18,2026-09-18,App,4,Customer service was polite and helpful
+14,80,80,20,2023-03-26,Email,4,Claim was settled quickly and the agent kept me updated
+15,84,84,,2026-04-15,App,4,Premium is too high compared to what I get
+16,85,85,,2026-09-30,Branch,4,Good value for the premium I pay
+17,88,88,21,2025-11-28,Email,5,Claim was settled quickly and the agent kept me updated
+18,89,89,22,2023-06-15,App,1,My claim was rejected and the reason was not explained clearly
+19,90,90,23,2024-09-11,Email,4,Customer service was polite and helpful
+20,90,90,24,2025-09-24,Branch,5,Claim was settled quickly and the agent kept me updated
+21,91,91,25,2026-08-22,Email,5,Claim was settled quickly and the agent kept me updated
+22,100,100,,2026-09-30,Email,4,Renewal reminder came late but service was fine
+23,102,102,27,2025-08-06,Call centre,1,"Hard to reach customer service, long wait on the phone"
+24,102,102,28,2025-12-20,Call centre,1,Nobody gave me updates on my claim
+25,107,107,29,2026-09-30,Email,5,Claim was settled quickly and the agent kept me updated
+26,108,108,30,2026-06-11,Call centre,5,Process was okay but I had to follow up a few times
+27,108,108,,2025-04-21,Email,4,I was not told the policy terms clearly
+28,110,110,,2025-05-31,App,5,Payment on the app failed twice
+29,112,112,32,2026-07-14,Call centre,5,Claim was settled quickly and the agent kept me updated
+30,122,122,,2026-04-23,Email,1,Good value for the premium I pay
+31,126,126,33,2025-10-31,Call centre,3,Process was okay but I had to follow up a few times
+32,130,130,37,2026-05-06,Email,2,Nobody gave me updates on my claim
+33,134,134,39,2026-08-26,App,4,Process was okay but I had to follow up a few times
+34,144,144,,2024-10-17,App,4,Very easy to renew my policy on the app
+35,154,154,,2026-09-30,Call centre,2,Payment on the app failed twice
+36,156,156,40,2026-09-30,Branch,2,My claim was rejected and the reason was not explained clearly
+37,163,163,42,2024-03-15,Call centre,2,My claim was rejected and the reason was not explained clearly
+38,163,163,43,2025-12-18,Call centre,5,Customer service was polite and helpful
+39,167,167,,2025-02-13,App,3,Renewal reminder came late but service was fine
+40,171,171,44,2026-09-30,Call centre,4,Claim was settled quickly and the agent kept me updated
+41,183,183,,2024-02-11,Branch,3,Good value for the premium I pay
+42,199,199,48,2026-09-30,Branch,1,My claim was rejected and the reason was not explained clearly
+43,203,203,51,2024-05-19,App,3,My claim was rejected and the reason was not explained clearly
+44,205,205,52,2026-03-30,App,2,My claim was rejected and the reason was not explained clearly
+45,205,205,53,2026-09-30,Email,5,Claim was settled quickly and the agent kept me updated
+46,208,208,54,2024-10-18,App,2,Nobody gave me updates on my claim
+47,208,208,,2025-05-15,Branch,1,Renewal reminder came late but service was fine
+48,213,213,,2025-04-10,Email,3,Premium is too high compared to what I get
+49,216,216,,2024-07-31,App,4,I was not told the policy terms clearly
+50,225,225,56,2026-05-28,Email,1,My claim took too long and I had to submit documents again
+51,226,226,57,2025-10-19,App,1,My claim took too long and I had to submit documents again
+52,226,226,58,2026-09-30,App,4,"Hard to reach customer service, long wait on the phone"
+53,228,228,,2024-10-06,Branch,1,Premium is too high compared to what I get
+54,230,230,59,2026-06-14,App,2,My claim was rejected and the reason was not explained clearly
+55,239,239,61,2024-09-23,Email,3,Process was okay but I had to follow up a few times
+56,239,239,62,2026-03-28,App,1,My claim took too long and I had to submit documents again
+57,241,241,,2025-05-16,App,1,Payment on the app failed twice
+58,245,245,63,2025-12-02,Email,5,Claim was settled quickly and the agent kept me updated
+59,247,247,66,2026-02-23,App,4,Process was okay but I had to follow up a few times
+60,250,250,68,2024-12-11,App,5,Process was okay but I had to follow up a few times
+61,251,251,,2025-12-07,Call centre,2,Premium is too high compared to what I get
+62,254,254,,2026-09-30,Branch,3,Premium is too high compared to what I get
+63,256,256,,2025-05-23,Branch,1,Very easy to renew my policy on the app
+64,265,265,71,2026-09-30,Call centre,1,My claim was rejected and the reason was not explained clearly
+65,267,267,72,2026-06-28,App,1,My claim took too long and I had to submit documents again
+66,267,267,,2026-09-30,Call centre,3,Good value for the premium I pay
+67,268,268,73,2026-09-30,App,2,"Hard to reach customer service, long wait on the phone"
+68,270,270,,2026-09-30,Email,3,Renewal reminder came late but service was fine
+69,277,277,,2026-09-30,Branch,1,I was not told the policy terms clearly
+70,281,281,74,2026-05-17,Branch,5,Process was okay but I had to follow up a few times
+71,284,284,76,2025-10-01,App,2,My claim was rejected and the reason was not explained clearly
+72,288,288,,2026-09-30,Email,4,Very easy to renew my policy on the app
+73,297,297,,2023-04-29,Call centre,2,Payment on the app failed twice
+74,299,299,,2025-10-15,App,5,I was not told the policy terms clearly
+75,303,303,,2023-05-21,Branch,2,Premium is too high compared to what I get
+76,304,304,82,2025-03-04,Email,1,My claim was rejected and the reason was not explained clearly
+77,307,307,,2024-05-17,Call centre,5,Renewal reminder came late but service was fine
+78,322,322,85,2025-08-15,Call centre,1,My claim was rejected and the reason was not explained clearly
+79,324,324,87,2025-10-03,Call centre,2,My claim was rejected and the reason was not explained clearly
+80,330,330,,2025-11-12,Call centre,5,Good value for the premium I pay
+81,334,334,88,2026-05-31,Email,1,"Hard to reach customer service, long wait on the phone"
+82,335,335,89,2026-08-06,App,4,Claim was settled quickly and the agent kept me updated
+83,335,335,,2024-10-19,App,5,Very easy to renew my policy on the app
+84,337,337,90,2025-07-06,Email,5,Process was okay but I had to follow up a few times
+85,346,346,,2026-09-30,App,4,Good value for the premium I pay
+86,350,350,,2026-09-30,Email,1,I was not told the policy terms clearly
+87,359,359,93,2025-02-10,Call centre,1,"Hard to reach customer service, long wait on the phone"
+88,360,360,94,2024-09-28,Branch,1,My claim was rejected and the reason was not explained clearly
+89,360,360,95,2026-04-21,Email,3,My claim took too long and I had to submit documents again
+90,362,362,96,2026-08-08,Email,4,Customer service was polite and helpful
+91,364,364,97,2024-01-09,Call centre,5,Process was okay but I had to follow up a few times
+92,368,368,98,2026-03-29,Call centre,4,Process was okay but I had to follow up a few times
+93,371,371,100,2026-03-11,Call centre,2,Nobody gave me updates on my claim
+94,376,376,101,2026-09-30,Branch,1,My claim took too long and I had to submit documents again
+95,382,382,,2024-11-17,App,5,Premium is too high compared to what I get
+96,394,394,107,2025-06-11,Branch,2,My claim was rejected and the reason was not explained clearly
+97,415,415,111,2026-05-01,Branch,2,My claim was rejected and the reason was not explained clearly
+98,424,424,112,2026-09-30,Call centre,1,"Hard to reach customer service, long wait on the phone"
+99,426,426,113,2026-07-15,App,1,Nobody gave me updates on my claim
+100,428,428,114,2024-02-08,Branch,3,My claim was rejected and the reason was not explained clearly
+101,428,428,115,2024-11-09,Branch,4,My claim was rejected and the reason was not explained clearly
+102,428,428,116,2025-07-17,App,3,"Hard to reach customer service, long wait on the phone"
+103,434,434,118,2026-09-30,App,4,Process was okay but I had to follow up a few times
+104,437,437,119,2025-12-17,App,5,Process was okay but I had to follow up a few times
+105,442,442,121,2025-09-05,Branch,1,My claim was rejected and the reason was not explained clearly
+106,443,443,,2025-10-31,Call centre,3,Good value for the premium I pay
+107,444,444,,2025-05-27,App,4,Premium is too high compared to what I get
+108,452,452,122,2025-02-26,App,1,My claim took too long and I had to submit documents again
+109,468,468,124,2026-09-30,App,4,Claim was settled quickly and the agent kept me updated
+110,468,468,,2023-11-08,App,5,I was not told the policy terms clearly
+111,473,473,126,2024-10-13,Branch,4,Process was okay but I had to follow up a few times
+112,480,480,,2024-10-21,App,4,Payment on the app failed twice
+113,491,491,128,2026-09-30,Call centre,3,"Hard to reach customer service, long wait on the phone"
+114,500,500,131,2025-01-25,Email,3,Process was okay but I had to follow up a few times
+115,500,500,132,2025-07-18,App,4,"Hard to reach customer service, long wait on the phone"
+116,501,501,,2025-12-01,App,2,Renewal reminder came late but service was fine
+117,511,511,,2024-08-10,Branch,4,Good value for the premium I pay
+118,516,516,,2025-12-09,Call centre,5,Payment on the app failed twice
+119,520,520,,2024-03-26,Call centre,3,Good value for the premium I pay
+120,524,524,136,2025-01-18,Call centre,5,Claim was settled quickly and the agent kept me updated
+121,526,526,137,2026-09-30,Call centre,4,Process was okay but I had to follow up a few times
+122,526,526,,2025-09-24,App,4,Very easy to renew my policy on the app
+123,530,530,138,2026-05-04,App,4,Customer service was polite and helpful
+124,531,531,,2025-05-16,Branch,3,Premium is too high compared to what I get
+125,534,534,139,2024-03-20,Call centre,4,Customer service was polite and helpful
+126,552,552,140,2025-03-10,Branch,3,My claim was rejected and the reason was not explained clearly
+127,568,568,144,2026-07-02,Call centre,4,"Hard to reach customer service, long wait on the phone"
+128,570,570,,2025-12-15,Email,4,Very easy to renew my policy on the app
+129,575,575,,2025-06-19,App,3,Very easy to renew my policy on the app
+130,588,588,146,2025-01-21,Email,1,My claim was rejected and the reason was not explained clearly
+131,591,591,147,2025-05-04,Call centre,4,Claim was settled quickly and the agent kept me updated
+132,597,597,148,2025-10-10,Call centre,5,Claim was settled quickly and the agent kept me updated
+133,623,623,154,2024-03-20,Branch,4,My claim took too long and I had to submit documents again
+134,650,650,,2024-12-22,Branch,2,Payment on the app failed twice
+135,674,674,163,2025-10-22,Email,3,Process was okay but I had to follow up a few times
+136,677,677,164,2025-09-17,Call centre,5,Claim was settled quickly and the agent kept me updated
+137,683,683,165,2024-10-02,Call centre,3,My claim took too long and I had to submit documents again
+138,685,685,166,2026-01-03,Call centre,2,My claim was rejected and the reason was not explained clearly
+139,689,689,167,2025-12-30,Call centre,4,Process was okay but I had to follow up a few times
+140,711,711,,2024-07-30,App,1,Payment on the app failed twice
+141,716,716,173,2026-03-28,Email,1,Nobody gave me updates on my claim
+142,716,716,,2024-03-27,Email,3,Renewal reminder came late but service was fine
+143,721,721,174,2025-12-07,Call centre,3,"Hard to reach customer service, long wait on the phone"
+144,748,748,176,2025-10-04,Branch,1,Nobody gave me updates on my claim
+145,752,752,178,2025-12-23,Call centre,3,"Hard to reach customer service, long wait on the phone"
+146,758,758,180,2025-12-09,Email,2,Nobody gave me updates on my claim
+147,770,770,,2024-03-19,Call centre,4,Premium is too high compared to what I get
+148,792,792,182,2025-07-29,Branch,2,"Hard to reach customer service, long wait on the phone"
+149,793,793,183,2026-07-10,Call centre,2,My claim was rejected and the reason was not explained clearly
+150,807,807,,2025-05-09,Email,5,Good value for the premium I pay
+151,809,809,184,2024-05-13,Email,3,"Hard to reach customer service, long wait on the phone"
+152,819,819,185,2026-09-14,Branch,4,My claim took too long and I had to submit documents again
+153,820,820,186,2025-06-03,Call centre,3,My claim took too long and I had to submit documents again
+154,823,823,,2025-02-27,App,3,Premium is too high compared to what I get
+155,824,824,187,2026-03-19,Call centre,3,Claim was settled quickly and the agent kept me updated
+156,825,825,188,2024-09-29,Branch,2,My claim was rejected and the reason was not explained clearly
+157,825,825,189,2026-09-30,Call centre,5,Claim was settled quickly and the agent kept me updated
+158,826,826,,2024-06-02,App,1,Renewal reminder came late but service was fine
+159,829,829,,2026-09-30,Email,3,Premium is too high compared to what I get
+160,835,835,,2026-09-30,Email,1,I was not told the policy terms clearly
+161,840,840,191,2026-04-14,Email,2,My claim was rejected and the reason was not explained clearly
+162,841,841,,2025-01-02,Email,5,Very easy to renew my policy on the app
+163,843,843,,2025-06-19,Call centre,3,Good value for the premium I pay
+164,844,844,192,2026-01-13,Branch,4,Process was okay but I had to follow up a few times
+165,854,854,194,2024-12-24,Email,5,Process was okay but I had to follow up a few times
+166,878,878,196,2026-05-09,Email,4,Nobody gave me updates on my claim
+167,886,886,197,2023-11-18,Branch,5,Customer service was polite and helpful
+168,886,886,198,2025-02-26,App,3,My claim was rejected and the reason was not explained clearly
+169,890,890,200,2026-05-18,App,4,My claim took too long and I had to submit documents again
+170,893,893,201,2025-01-28,Branch,2,"Hard to reach customer service, long wait on the phone"
+171,893,893,202,2026-09-30,Call centre,5,Process was okay but I had to follow up a few times
+172,899,899,,2026-09-30,Email,4,I was not told the policy terms clearly
+173,911,911,,2025-12-18,Email,2,Payment on the app failed twice
+174,914,914,,2026-09-30,Email,4,I was not told the policy terms clearly
+175,923,923,207,2026-08-12,Call centre,2,My claim was rejected and the reason was not explained clearly
+176,924,924,208,2024-04-10,Call centre,4,"Hard to reach customer service, long wait on the phone"
+177,926,926,211,2026-09-30,Email,2,"Hard to reach customer service, long wait on the phone"
+178,935,935,214,2024-11-04,Branch,1,My claim took too long and I had to submit documents again
+179,937,937,217,2026-09-17,Email,4,My claim was rejected and the reason was not explained clearly
+180,948,948,220,2025-12-02,Call centre,4,Claim was settled quickly and the agent kept me updated
+181,949,949,,2026-09-30,App,5,I was not told the policy terms clearly
+182,958,958,,2025-07-06,App,4,Premium is too high compared to what I get
+183,961,961,222,2026-07-09,App,4,Process was okay but I had to follow up a few times
+184,967,967,,2026-09-30,App,3,Good value for the premium I pay
+185,977,977,223,2025-03-28,Email,1,My claim was rejected and the reason was not explained clearly
+186,981,981,224,2025-11-15,App,5,Customer service was polite and helpful
+187,982,982,225,2026-09-30,App,4,My claim took too long and I had to submit documents again
+188,985,985,227,2026-04-21,Call centre,5,Process was okay but I had to follow up a few times
+189,988,988,,2024-03-10,App,3,Premium is too high compared to what I get
+190,993,993,228,2024-11-03,App,5,Process was okay but I had to follow up a few times
+191,997,997,230,2025-03-19,Call centre,1,Nobody gave me updates on my claim
+192,999,999,231,2026-06-11,Call centre,2,Nobody gave me updates on my claim
+193,999,999,232,2026-08-12,Call centre,5,Customer service was polite and helpful
+194,1000,1000,233,2024-06-02,Call centre,1,My claim took too long and I had to submit documents again
+195,1008,1008,237,2026-02-19,App,4,Process was okay but I had to follow up a few times
+196,1009,1009,,2026-09-30,Email,5,Payment on the app failed twice
+197,1015,1015,239,2025-12-26,App,3,Nobody gave me updates on my claim
+198,1032,1032,,2024-08-16,Email,2,Renewal reminder came late but service was fine
+199,1033,1033,242,2025-01-01,Call centre,3,My claim was rejected and the reason was not explained clearly
+200,1035,1035,243,2025-03-23,App,4,Customer service was polite and helpful
+201,1038,1038,244,2026-09-30,Call centre,3,Claim was settled quickly and the agent kept me updated
+202,1042,1042,,2024-03-23,App,2,Payment on the app failed twice
+203,1051,1051,248,2024-12-19,Call centre,4,Process was okay but I had to follow up a few times
+204,1069,1069,249,2025-03-03,Branch,1,"Hard to reach customer service, long wait on the phone"
+205,1069,1069,,2025-04-29,Call centre,2,Payment on the app failed twice
+206,1079,1079,,2025-06-30,Call centre,5,I was not told the policy terms clearly
+207,1081,1081,251,2023-12-18,Branch,4,Customer service was polite and helpful
+208,1082,1082,,2025-04-21,Branch,4,Premium is too high compared to what I get
+209,1099,1099,253,2025-03-21,Call centre,3,"Hard to reach customer service, long wait on the phone"
+210,1101,1101,,2023-04-06,App,4,Premium is too high compared to what I get
+211,1105,1105,,2024-09-20,Email,5,Very easy to renew my policy on the app
+212,1116,1116,256,2026-09-02,App,4,Claim was settled quickly and the agent kept me updated
+213,1117,1117,257,2025-01-06,Branch,3,Nobody gave me updates on my claim
+214,1123,1123,258,2024-07-02,App,1,Nobody gave me updates on my claim
+215,1124,1124,,2026-02-09,Branch,4,Good value for the premium I pay
+216,1126,1126,260,2025-09-20,App,1,My claim took too long and I had to submit documents again
+217,1129,1129,261,2026-07-13,Email,4,Customer service was polite and helpful
+218,1144,1144,,2026-09-30,Email,4,Good value for the premium I pay
+219,1151,1151,264,2024-08-08,Call centre,1,Nobody gave me updates on my claim
+220,1153,1153,265,2026-06-28,App,5,Process was okay but I had to follow up a few times
+221,1155,1155,266,2025-11-27,App,4,Claim was settled quickly and the agent kept me updated
+222,1160,1160,,2025-10-19,Call centre,4,Very easy to renew my policy on the app
+223,1163,1163,,2026-09-30,Email,3,Renewal reminder came late but service was fine
+224,1175,1175,,2025-01-03,App,2,I was not told the policy terms clearly
+225,1178,1178,269,2025-05-06,Call centre,1,Nobody gave me updates on my claim
+226,1196,1196,,2025-03-29,Email,3,Premium is too high compared to what I get
+227,1202,1202,274,2026-06-11,Branch,2,Nobody gave me updates on my claim
+228,1207,1207,275,2025-12-11,Call centre,4,Claim was settled quickly and the agent kept me updated
+229,1207,1207,276,2026-06-21,App,4,Customer service was polite and helpful
+230,1207,1207,,2025-06-11,App,1,Premium is too high compared to what I get
+231,1219,1219,277,2025-12-19,Call centre,5,Claim was settled quickly and the agent kept me updated
+232,1223,1223,278,2026-09-30,App,4,Claim was settled quickly and the agent kept me updated
+233,1225,1225,280,2026-06-16,App,3,"Hard to reach customer service, long wait on the phone"
+234,1226,1226,281,2025-12-19,Branch,5,Customer service was polite and helpful
+235,1230,1230,282,2023-12-30,Call centre,1,My claim took too long and I had to submit documents again
+236,1231,1231,,2024-03-26,Email,2,Good value for the premium I pay
+237,1239,1239,,2025-09-27,Call centre,1,Premium is too high compared to what I get
+238,1242,1242,285,2025-09-08,Branch,2,My claim was rejected and the reason was not explained clearly
+239,1257,1257,286,2025-02-12,App,1,Nobody gave me updates on my claim
+240,1263,1263,287,2024-07-02,Email,1,My claim was rejected and the reason was not explained clearly
+241,1274,1274,288,2026-07-27,Call centre,5,Customer service was polite and helpful
+242,1276,1276,289,2025-02-19,Branch,3,Process was okay but I had to follow up a few times
+243,1281,1281,,2024-06-11,Email,1,Renewal reminder came late but service was fine
+244,1283,1283,,2025-09-15,App,4,Payment on the app failed twice
+245,1289,1289,,2026-09-30,Call centre,4,Very easy to renew my policy on the app
+246,1292,1292,291,2026-09-30,App,4,Customer service was polite and helpful
+247,1296,1296,,2025-03-17,Branch,3,Renewal reminder came late but service was fine
+248,1298,1298,292,2025-04-19,App,4,Claim was settled quickly and the agent kept me updated
+249,1315,1315,294,2026-09-30,Branch,2,My claim took too long and I had to submit documents again
+250,1319,1319,297,2025-11-08,App,4,Customer service was polite and helpful
+251,1321,1321,,2024-02-13,Branch,4,Renewal reminder came late but service was fine
+252,1324,1324,,2026-09-30,Email,5,Very easy to renew my policy on the app
+253,1327,1327,298,2026-08-20,App,5,Customer service was polite and helpful
+254,1329,1329,,2023-09-19,App,5,Renewal reminder came late but service was fine
+255,1335,1335,299,2024-01-29,Branch,3,Claim was settled quickly and the agent kept me updated
+256,1335,1335,,2024-01-25,Branch,4,Payment on the app failed twice
+257,1345,1345,301,2024-10-27,Email,3,My claim took too long and I had to submit documents again
+258,1349,1349,303,2026-09-30,Branch,3,"Hard to reach customer service, long wait on the phone"
+259,1354,1354,304,2024-08-22,App,1,My claim was rejected and the reason was not explained clearly
+260,1367,1367,307,2026-04-18,Branch,2,"Hard to reach customer service, long wait on the phone"
+261,1369,1369,309,2024-09-12,Call centre,4,Customer service was polite and helpful
+262,1374,1374,310,2025-10-27,App,4,Customer service was polite and helpful
+263,1380,1380,312,2025-08-10,Email,5,Customer service was polite and helpful
+264,1385,1385,313,2026-09-30,Email,2,My claim was rejected and the reason was not explained clearly
+265,1396,1396,314,2025-11-05,App,2,My claim was rejected and the reason was not explained clearly
+266,1398,1398,315,2025-05-31,Email,4,Claim was settled quickly and the agent kept me updated
+267,1403,1403,,2023-12-05,Call centre,4,Good value for the premium I pay
+268,1404,1404,,2024-09-15,Call centre,2,Good value for the premium I pay
+269,1407,1407,318,2026-09-30,App,4,Customer service was polite and helpful
+270,1415,1415,320,2026-09-30,Email,1,My claim was rejected and the reason was not explained clearly
+271,1425,1425,321,2026-05-20,Call centre,1,My claim took too long and I had to submit documents again
+272,1425,1425,,2026-09-30,Branch,4,I was not told the policy terms clearly
+273,1427,1427,323,2023-10-28,Email,3,Nobody gave me updates on my claim
+274,1428,1428,324,2026-09-30,App,5,Customer service was polite and helpful
+275,1431,1431,326,2024-08-25,Email,5,Claim was settled quickly and the agent kept me updated
+276,1432,1432,327,2026-07-05,Email,3,My claim was rejected and the reason was not explained clearly
+277,1438,1438,329,2025-12-30,Email,4,Customer service was polite and helpful
+278,1438,1438,330,2026-09-30,Email,4,Claim was settled quickly and the agent kept me updated
+279,1452,1452,333,2026-08-13,Call centre,5,Claim was settled quickly and the agent kept me updated
+280,1453,1453,334,2026-09-30,App,1,"Hard to reach customer service, long wait on the phone"
+281,1454,1454,335,2024-08-04,Email,3,Claim was settled quickly and the agent kept me updated
+282,1458,1458,,2026-09-30,Branch,5,Payment on the app failed twice
+283,1464,1464,336,2026-06-24,App,4,Customer service was polite and helpful
+284,1476,1476,339,2026-09-30,Branch,2,My claim was rejected and the reason was not explained clearly
+285,1476,1476,,2026-09-30,App,1,I was not told the policy terms clearly
+286,1477,1477,341,2025-04-13,Branch,2,Nobody gave me updates on my claim
+287,1477,1477,,2024-06-04,Branch,5,Very easy to renew my policy on the app
+288,1489,1489,344,2026-09-30,App,5,Process was okay but I had to follow up a few times
+289,1506,1506,,2025-08-22,App,5,Good value for the premium I pay
+290,1510,1510,,2026-09-30,Branch,5,I was not told the policy terms clearly
+291,1516,1516,347,2025-07-04,Email,3,My claim took too long and I had to submit documents again
+292,1533,1533,351,2026-04-08,Call centre,2,My claim was rejected and the reason was not explained clearly
+293,1547,1547,357,2026-08-10,Email,2,Nobody gave me updates on my claim
+294,1547,1547,358,2026-09-30,Call centre,5,Customer service was polite and helpful
+295,1553,1553,360,2026-07-18,App,4,Process was okay but I had to follow up a few times
+296,1554,1554,,2025-07-16,Branch,1,Good value for the premium I pay
+297,1555,1555,,2025-09-09,Call centre,2,Good value for the premium I pay
+298,1558,1558,,2025-04-21,Call centre,2,I was not told the policy terms clearly
+299,1560,1560,,2024-10-25,Email,3,Good value for the premium I pay
+300,1561,1561,,2024-09-28,Branch,5,Payment on the app failed twice
+301,1566,1566,361,2025-01-02,Call centre,3,Claim was settled quickly and the agent kept me updated
+302,1567,1567,,2025-03-09,Email,5,Very easy to renew my policy on the app
+303,1590,1590,,2026-02-26,Branch,5,Payment on the app failed twice
+304,1591,1591,362,2026-03-16,Branch,3,Customer service was polite and helpful
+305,1592,1592,,2024-08-01,Call centre,2,I was not told the policy terms clearly
+306,1598,1598,363,2025-08-07,Call centre,4,Process was okay but I had to follow up a few times
+307,1605,1605,364,2026-09-30,Call centre,2,My claim was rejected and the reason was not explained clearly
+308,1611,1611,,2024-03-24,Call centre,5,Very easy to renew my policy on the app
+309,1614,1614,365,2025-05-11,App,3,Process was okay but I had to follow up a few times
+310,1617,1617,366,2026-02-04,Call centre,5,Claim was settled quickly and the agent kept me updated
+311,1621,1621,370,2026-09-30,App,4,My claim was rejected and the reason was not explained clearly
+312,1622,1622,372,2024-11-12,Email,4,Process was okay but I had to follow up a few times
+313,1624,1624,373,2024-12-31,App,3,Nobody gave me updates on my claim
+314,1632,1632,374,2024-05-20,Branch,2,My claim took too long and I had to submit documents again
+315,1634,1634,376,2026-07-24,Email,2,"Hard to reach customer service, long wait on the phone"
+316,1643,1643,378,2025-07-19,Email,3,My claim took too long and I had to submit documents again
+317,1643,1643,379,2026-08-24,Branch,1,My claim took too long and I had to submit documents again
+318,1645,1645,380,2026-07-20,App,5,Customer service was polite and helpful
+319,1654,1654,,2026-09-30,App,4,Premium is too high compared to what I get
+320,1660,1660,,2024-11-03,Email,2,Renewal reminder came late but service was fine
+321,1661,1661,,2023-05-28,Email,3,Payment on the app failed twice
+322,1662,1662,381,2025-06-14,Branch,2,Nobody gave me updates on my claim
+323,1662,1662,382,2026-07-24,Email,1,Nobody gave me updates on my claim
+324,1664,1664,383,2025-06-11,App,3,Nobody gave me updates on my claim
+325,1676,1676,,2025-05-26,Email,5,Premium is too high compared to what I get
+326,1678,1678,384,2025-12-28,App,2,My claim was rejected and the reason was not explained clearly
+327,1686,1686,,2026-09-30,App,4,I was not told the policy terms clearly
+328,1698,1698,389,2026-09-30,Branch,1,Nobody gave me updates on my claim
+329,1700,1700,,2025-09-13,App,4,Premium is too high compared to what I get
+330,1706,1706,,2023-03-08,Branch,4,Payment on the app failed twice
+331,1717,1717,392,2024-04-15,Branch,4,Customer service was polite and helpful
+332,1721,1721,395,2024-11-01,Call centre,2,"Hard to reach customer service, long wait on the phone"
+333,1727,1727,396,2024-03-14,App,4,Process was okay but I had to follow up a few times
+334,1749,1749,401,2026-09-30,Call centre,1,Nobody gave me updates on my claim
+335,1757,1757,,2024-05-17,App,4,Very easy to renew my policy on the app
+336,1758,1758,,2026-03-01,Branch,4,I was not told the policy terms clearly
+337,1762,1762,402,2024-10-01,Call centre,4,Nobody gave me updates on my claim
+338,1764,1764,403,2026-04-09,Email,3,My claim was rejected and the reason was not explained clearly
+339,1766,1766,404,2026-09-30,Email,4,Customer service was polite and helpful
+340,1777,1777,407,2025-10-30,Branch,5,Customer service was polite and helpful
+341,1778,1778,409,2025-10-22,Call centre,3,"Hard to reach customer service, long wait on the phone"
+342,1792,1792,,2025-02-25,App,2,Premium is too high compared to what I get
+343,1804,1804,,2025-08-09,Call centre,4,Premium is too high compared to what I get
+344,1833,1833,413,2026-09-30,Branch,2,My claim took too long and I had to submit documents again
+345,1844,1844,414,2023-07-31,Call centre,2,My claim was rejected and the reason was not explained clearly
+346,1860,1860,416,2024-04-05,Email,4,Process was okay but I had to follow up a few times
+347,1860,1860,417,2026-05-01,Email,1,My claim took too long and I had to submit documents again
+348,1863,1863,418,2025-04-29,Email,3,Process was okay but I had to follow up a few times
+349,1863,1863,,2025-02-02,Call centre,4,Renewal reminder came late but service was fine
+350,1867,1867,419,2025-06-20,Call centre,4,Process was okay but I had to follow up a few times
+351,1868,1868,420,2026-09-30,Call centre,1,My claim was rejected and the reason was not explained clearly
+352,1869,1869,,2024-02-08,Email,2,Very easy to renew my policy on the app
+353,1875,1875,422,2025-11-30,App,1,"Hard to reach customer service, long wait on the phone"
+354,1882,1882,424,2026-04-02,Email,2,Nobody gave me updates on my claim
+355,1883,1883,425,2026-07-11,Call centre,4,My claim was rejected and the reason was not explained clearly
+356,1884,1884,426,2024-11-12,Branch,2,My claim was rejected and the reason was not explained clearly
+357,1885,1885,427,2026-09-04,Call centre,4,Process was okay but I had to follow up a few times
+358,1892,1892,,2024-02-15,Email,3,Very easy to renew my policy on the app
+359,1895,1895,430,2026-09-30,Branch,3,Claim was settled quickly and the agent kept me updated
+360,1898,1898,431,2026-09-13,Branch,3,Claim was settled quickly and the agent kept me updated
+361,1905,1905,432,2026-07-09,Call centre,5,Customer service was polite and helpful
+362,1908,1908,433,2023-05-30,App,2,Nobody gave me updates on my claim
+363,1911,1911,,2025-07-09,Branch,4,Renewal reminder came late but service was fine
+364,1913,1913,436,2025-08-22,Call centre,1,Nobody gave me updates on my claim
+365,1915,1915,437,2024-11-25,Call centre,1,My claim took too long and I had to submit documents again
+366,1919,1919,440,2026-09-30,Call centre,1,My claim was rejected and the reason was not explained clearly
+367,1927,1927,442,2026-04-29,Email,5,Process was okay but I had to follow up a few times
+368,1933,1933,,2024-12-20,Email,4,Premium is too high compared to what I get
+369,1938,1938,,2024-09-17,Call centre,4,Very easy to renew my policy on the app
+370,1941,1941,444,2025-05-13,Branch,5,Process was okay but I had to follow up a few times
+371,1943,1943,445,2026-08-14,App,4,Claim was settled quickly and the agent kept me updated
+372,1945,1945,,2024-09-17,Branch,4,Premium is too high compared to what I get
+373,1963,1963,448,2026-04-05,Call centre,2,My claim was rejected and the reason was not explained clearly
+374,1963,1963,,2026-09-30,Call centre,4,Very easy to renew my policy on the app
+375,1964,1964,449,2024-12-01,Call centre,4,Claim was settled quickly and the agent kept me updated
+376,1965,1965,450,2026-06-22,App,3,My claim was rejected and the reason was not explained clearly
+377,1970,1970,451,2023-04-28,Email,2,"Hard to reach customer service, long wait on the phone"
+378,1970,1970,452,2024-11-15,Branch,4,Customer service was polite and helpful
+379,1970,1970,453,2025-04-14,Email,3,"Hard to reach customer service, long wait on the phone"
+380,1979,1979,454,2026-01-21,Branch,3,My claim took too long and I had to submit documents again
+381,1990,1990,457,2024-07-13,App,4,Process was okay but I had to follow up a few times
+382,1990,1990,458,2025-09-10,App,2,Nobody gave me updates on my claim
+383,1999,1999,,2025-04-22,Call centre,2,Premium is too high compared to what I get
+384,2001,2001,459,2025-11-30,Branch,1,"Hard to reach customer service, long wait on the phone"
+385,2003,2003,460,2023-05-22,Call centre,5,Process was okay but I had to follow up a few times
+386,2014,2014,,2023-12-29,Call centre,4,Renewal reminder came late but service was fine
+387,2022,2022,465,2025-05-21,Branch,2,"Hard to reach customer service, long wait on the phone"
+388,2045,2045,470,2025-08-26,Branch,5,Customer service was polite and helpful
+389,2051,2051,471,2025-04-28,Call centre,5,Process was okay but I had to follow up a few times
+390,2059,2059,473,2025-04-07,Branch,3,My claim took too long and I had to submit documents again
+391,2062,2062,474,2023-10-15,Call centre,3,"Hard to reach customer service, long wait on the phone"
+392,2067,2067,475,2025-04-20,Email,4,Nobody gave me updates on my claim
+393,2071,2071,476,2024-01-02,Call centre,4,Customer service was polite and helpful
+394,2085,2085,479,2026-09-30,Call centre,5,Process was okay but I had to follow up a few times
+395,2086,2086,,2025-10-31,App,4,Renewal reminder came late but service was fine
+396,2087,2087,480,2026-09-30,App,4,Claim was settled quickly and the agent kept me updated
+397,2092,2092,481,2026-09-01,App,1,"Hard to reach customer service, long wait on the phone"
+398,2099,2099,482,2025-05-18,Email,5,Process was okay but I had to follow up a few times
+399,2120,2120,484,2026-07-01,Email,4,Claim was settled quickly and the agent kept me updated
+400,2124,2124,485,2025-12-24,App,5,Customer service was polite and helpful
+401,2125,2125,,2026-09-30,Call centre,4,Renewal reminder came late but service was fine
+402,2126,2126,486,2026-09-30,App,5,Customer service was polite and helpful
+403,2136,2136,489,2025-02-15,Branch,2,Nobody gave me updates on my claim
+404,2153,2153,494,2023-07-26,Call centre,4,"Hard to reach customer service, long wait on the phone"
+405,2153,2153,495,2025-06-05,Branch,3,"Hard to reach customer service, long wait on the phone"
+406,2164,2164,498,2025-12-02,App,5,Claim was settled quickly and the agent kept me updated
+407,2167,2167,,2023-09-27,App,4,Premium is too high compared to what I get
+408,2168,2168,499,2024-10-06,Branch,3,Nobody gave me updates on my claim
+409,2169,2169,502,2024-06-14,Email,4,My claim took too long and I had to submit documents again
+410,2173,2173,503,2026-03-21,Branch,5,Process was okay but I had to follow up a few times
+411,2186,2186,505,2025-09-16,App,3,My claim was rejected and the reason was not explained clearly
+412,2204,2204,,2026-05-19,Branch,2,Good value for the premium I pay
+413,2208,2208,,2025-09-30,Branch,4,Premium is too high compared to what I get
+414,2210,2210,506,2025-05-17,App,5,Claim was settled quickly and the agent kept me updated
+415,2212,2212,507,2026-09-30,Call centre,3,My claim was rejected and the reason was not explained clearly
+416,2216,2216,508,2024-04-25,Email,2,Nobody gave me updates on my claim
+417,2219,2219,,2026-09-30,Branch,3,Premium is too high compared to what I get
+418,2225,2225,509,2024-07-05,App,3,Customer service was polite and helpful
+419,2226,2226,,2026-09-30,Branch,3,Premium is too high compared to what I get
+420,2227,2227,510,2024-08-02,Email,2,My claim was rejected and the reason was not explained clearly
+421,2234,2234,511,2026-05-02,App,2,"Hard to reach customer service, long wait on the phone"
+422,2243,2243,,2024-08-12,Call centre,4,Renewal reminder came late but service was fine
+423,2245,2245,,2026-03-19,Call centre,5,Premium is too high compared to what I get
+424,2250,2250,512,2026-07-06,Branch,3,"Hard to reach customer service, long wait on the phone"
+425,2254,2254,,2024-10-30,Call centre,4,Very easy to renew my policy on the app
+426,2268,2268,513,2026-04-19,Email,1,My claim was rejected and the reason was not explained clearly
+427,2271,2271,514,2026-09-30,Branch,2,My claim was rejected and the reason was not explained clearly
+428,2276,2276,515,2026-07-23,Email,4,Process was okay but I had to follow up a few times
+429,2276,2276,,2025-02-18,Email,5,Very easy to renew my policy on the app
+430,2278,2278,516,2026-06-24,Email,1,"Hard to reach customer service, long wait on the phone"
+431,2289,2289,,2026-09-30,App,5,Good value for the premium I pay
+432,2299,2299,,2024-10-12,App,5,Very easy to renew my policy on the app
+433,2300,2300,520,2023-06-04,Branch,4,Nobody gave me updates on my claim
+434,2308,2308,521,2026-03-01,Branch,2,My claim took too long and I had to submit documents again
+435,2308,2308,522,2026-09-24,App,4,Process was okay but I had to follow up a few times
+436,2309,2309,523,2024-03-11,Call centre,4,Process was okay but I had to follow up a few times
+437,2321,2321,528,2026-09-30,Branch,1,My claim took too long and I had to submit documents again
+438,2321,2321,,2025-05-08,Email,2,I was not told the policy terms clearly
+439,2329,2329,529,2025-08-02,Email,4,Customer service was polite and helpful
+440,2347,2347,,2024-06-01,Call centre,3,Premium is too high compared to what I get
+441,2355,2355,533,2025-10-07,Email,3,"Hard to reach customer service, long wait on the phone"
+442,2359,2359,,2025-11-04,App,5,Very easy to renew my policy on the app
+443,2369,2369,535,2026-07-29,App,1,My claim was rejected and the reason was not explained clearly
+444,2369,2369,536,2026-09-30,App,4,My claim was rejected and the reason was not explained clearly
+445,2375,2375,537,2024-12-31,Branch,5,Claim was settled quickly and the agent kept me updated
+446,2377,2377,539,2024-08-22,Email,3,Claim was settled quickly and the agent kept me updated
+447,2383,2383,,2023-08-03,Email,5,Premium is too high compared to what I get
+448,2384,2384,543,2026-03-18,App,5,Claim was settled quickly and the agent kept me updated
+449,2387,2387,544,2026-01-29,Branch,4,Claim was settled quickly and the agent kept me updated
+450,2395,2395,547,2025-04-28,App,4,Nobody gave me updates on my claim
+451,2397,2397,548,2024-12-19,Email,4,"Hard to reach customer service, long wait on the phone"
+452,2406,2406,549,2024-06-13,Email,5,Process was okay but I had to follow up a few times
+453,2415,2415,551,2025-06-22,App,3,Claim was settled quickly and the agent kept me updated
+454,2419,2419,553,2025-03-04,Branch,4,Customer service was polite and helpful
+455,2422,2422,554,2024-10-23,Email,5,Customer service was polite and helpful
+456,2428,2428,,2026-04-12,Call centre,5,Good value for the premium I pay
+457,2446,2446,,2023-07-14,App,4,Premium is too high compared to what I get
+458,2447,2447,557,2026-09-30,Call centre,1,"Hard to reach customer service, long wait on the phone"
+459,2453,2453,558,2026-09-30,App,3,Customer service was polite and helpful
+460,2454,2454,559,2024-10-23,App,2,My claim took too long and I had to submit documents again
+461,2455,2455,560,2025-02-03,Email,5,Customer service was polite and helpful
+462,2461,2461,562,2024-01-09,App,2,Nobody gave me updates on my claim
+463,2461,2461,,2024-05-30,App,2,Premium is too high compared to what I get
+464,2470,2470,563,2024-07-13,Branch,4,Customer service was polite and helpful
+465,2478,2478,564,2026-07-27,App,5,Claim was settled quickly and the agent kept me updated
+466,2481,2481,565,2026-03-28,Branch,3,"Hard to reach customer service, long wait on the phone"
+467,2482,2482,566,2026-07-14,Call centre,5,Process was okay but I had to follow up a few times
+468,2485,2485,,2025-02-17,App,5,Premium is too high compared to what I get
+469,2486,2486,567,2024-08-03,Email,3,Nobody gave me updates on my claim
+470,2490,2490,568,2024-06-22,Call centre,3,"Hard to reach customer service, long wait on the phone"
+471,2495,2495,569,2026-08-16,App,2,My claim was rejected and the reason was not explained clearly
+472,2505,2505,571,2023-09-18,Branch,2,"Hard to reach customer service, long wait on the phone"
+473,2518,2518,575,2025-05-23,App,2,My claim was rejected and the reason was not explained clearly
+474,2521,2521,,2025-02-27,Email,1,Payment on the app failed twice
+475,2524,2524,578,2026-02-17,Branch,4,Claim was settled quickly and the agent kept me updated
+476,2528,2528,579,2024-12-09,Call centre,1,"Hard to reach customer service, long wait on the phone"
+477,2531,2531,,2023-04-09,App,3,Payment on the app failed twice
+478,2542,2542,585,2025-11-08,App,4,Process was okay but I had to follow up a few times
+479,2546,2546,586,2026-08-21,Branch,3,Nobody gave me updates on my claim
+480,2560,2560,,2025-01-15,Branch,2,Renewal reminder came late but service was fine
+481,2564,2564,,2024-08-17,Branch,5,Payment on the app failed twice
+482,2568,2568,588,2023-11-22,Email,2,My claim was rejected and the reason was not explained clearly
+483,2569,2569,,2026-09-30,Branch,4,Payment on the app failed twice
+484,2570,2570,589,2024-03-21,Email,5,Customer service was polite and helpful
+485,2577,2577,590,2025-07-26,Call centre,4,Claim was settled quickly and the agent kept me updated
+486,2584,2584,,2026-09-30,Email,4,Renewal reminder came late but service was fine
+487,2589,2589,,2025-03-07,App,3,Renewal reminder came late but service was fine
+488,2601,2601,,2024-02-04,Call centre,3,Payment on the app failed twice
+489,2606,2606,598,2026-08-19,Call centre,5,Claim was settled quickly and the agent kept me updated
+490,2614,2614,,2025-01-28,Email,2,Payment on the app failed twice
+491,2621,2621,600,2025-04-07,App,5,Process was okay but I had to follow up a few times
+492,2627,2627,601,2025-06-23,App,5,Customer service was polite and helpful
+493,2631,2631,,2025-10-01,Email,5,Payment on the app failed twice
+494,2645,2645,603,2024-11-07,Branch,1,"Hard to reach customer service, long wait on the phone"
+495,2646,2646,604,2026-06-15,App,2,"Hard to reach customer service, long wait on the phone"
+496,2656,2656,605,2025-02-16,Email,1,Nobody gave me updates on my claim
+497,2656,2656,606,2026-07-13,Email,5,Process was okay but I had to follow up a few times
+498,2663,2663,607,2024-06-30,App,3,Nobody gave me updates on my claim
+499,2663,2663,,2023-08-09,App,1,Good value for the premium I pay
+500,2668,2668,608,2023-09-12,Email,3,"Hard to reach customer service, long wait on the phone"
+501,2675,2675,611,2025-09-27,Call centre,2,My claim took too long and I had to submit documents again
+502,2677,2677,,2023-07-07,Call centre,3,Premium is too high compared to what I get
+503,2693,2693,,2025-09-12,App,5,Renewal reminder came late but service was fine
+504,2697,2697,,2026-04-30,Email,4,I was not told the policy terms clearly
+505,2705,2705,615,2026-09-30,Call centre,1,My claim was rejected and the reason was not explained clearly
+506,2711,2711,617,2025-10-22,Call centre,3,Customer service was polite and helpful
+507,2712,2712,619,2026-09-30,Email,1,Nobody gave me updates on my claim
+508,2717,2717,620,2026-03-03,Call centre,3,Nobody gave me updates on my claim
+509,2721,2721,,2023-06-02,Email,3,Good value for the premium I pay
+510,2725,2725,622,2023-12-06,Email,1,"Hard to reach customer service, long wait on the phone"
+511,2734,2734,624,2024-08-02,Email,1,My claim took too long and I had to submit documents again
+512,2734,2734,625,2026-08-13,App,3,Nobody gave me updates on my claim
+513,2751,2751,628,2026-06-17,Branch,4,Customer service was polite and helpful
+514,2754,2754,629,2025-09-22,Call centre,1,My claim was rejected and the reason was not explained clearly
+515,2758,2758,631,2025-09-27,App,2,My claim took too long and I had to submit documents again
+516,2761,2761,632,2023-12-20,Call centre,4,Claim was settled quickly and the agent kept me updated
+517,2771,2771,635,2025-01-16,Branch,2,My claim was rejected and the reason was not explained clearly
+518,2790,2790,637,2025-09-20,Call centre,2,My claim was rejected and the reason was not explained clearly
+519,2791,2791,638,2024-08-22,Branch,4,Process was okay but I had to follow up a few times
+520,2796,2796,639,2026-07-23,Branch,5,Customer service was polite and helpful
+521,2800,2800,641,2025-07-23,Call centre,4,Claim was settled quickly and the agent kept me updated
+522,2806,2806,642,2025-07-30,Branch,5,Claim was settled quickly and the agent kept me updated
+523,2806,2806,643,2026-07-19,App,5,Process was okay but I had to follow up a few times
+524,2807,2807,644,2025-11-20,Call centre,1,My claim took too long and I had to submit documents again
+525,2809,2809,645,2024-11-23,App,1,My claim was rejected and the reason was not explained clearly
+526,2813,2813,646,2026-07-15,App,1,My claim took too long and I had to submit documents again
+527,2828,2828,648,2024-05-22,App,5,Process was okay but I had to follow up a few times
+528,2842,2842,,2026-09-30,App,5,Very easy to renew my policy on the app
+529,2843,2843,,2025-07-08,Call centre,5,Good value for the premium I pay
+530,2851,2851,650,2026-09-30,App,5,Claim was settled quickly and the agent kept me updated
+531,2852,2852,651,2026-04-18,Branch,4,Customer service was polite and helpful
+532,2862,2862,653,2025-10-05,Call centre,5,Claim was settled quickly and the agent kept me updated
+533,2864,2864,654,2025-06-05,Email,4,Customer service was polite and helpful
+534,2864,2864,655,2026-06-10,Branch,5,Customer service was polite and helpful
+535,2872,2872,656,2026-01-09,Call centre,5,Claim was settled quickly and the agent kept me updated
+536,2875,2875,657,2026-09-30,Email,5,Customer service was polite and helpful
+537,2893,2893,,2025-04-09,Email,3,Renewal reminder came late but service was fine
+538,2897,2897,,2025-02-06,Call centre,2,Renewal reminder came late but service was fine
+539,2905,2905,661,2026-09-30,App,1,Nobody gave me updates on my claim
+540,2907,2907,662,2025-07-19,App,1,"Hard to reach customer service, long wait on the phone"
+541,2907,2907,,2025-09-07,Call centre,4,Payment on the app failed twice
+542,2909,2909,663,2026-02-27,Call centre,1,My claim was rejected and the reason was not explained clearly
+543,2912,2912,664,2026-06-23,App,2,"Hard to reach customer service, long wait on the phone"
+544,2915,2915,665,2025-02-24,Email,5,Customer service was polite and helpful
+545,2915,2915,666,2026-08-03,Email,2,Nobody gave me updates on my claim
+546,2919,2919,667,2026-09-30,App,5,Process was okay but I had to follow up a few times
+547,2923,2923,668,2025-12-16,Email,3,My claim was rejected and the reason was not explained clearly
+548,2940,2940,,2025-06-17,Call centre,4,Very easy to renew my policy on the app
+549,2946,2946,673,2023-09-16,Email,3,My claim took too long and I had to submit documents again
+550,2960,2960,679,2026-04-27,Call centre,2,My claim took too long and I had to submit documents again
+551,2962,2962,680,2025-12-08,Email,5,Process was okay but I had to follow up a few times
+552,2964,2964,681,2024-09-08,App,2,My claim took too long and I had to submit documents again
+553,2965,2965,682,2023-08-03,Branch,1,Nobody gave me updates on my claim
+554,2969,2969,683,2026-04-20,Call centre,2,Nobody gave me updates on my claim
+555,2973,2973,,2024-07-15,Email,5,Very easy to renew my policy on the app
+556,2977,2977,684,2026-03-06,Branch,4,Claim was settled quickly and the agent kept me updated
+557,2978,2978,685,2025-09-11,App,1,Nobody gave me updates on my claim
+558,2981,2981,686,2026-09-30,App,5,Claim was settled quickly and the agent kept me updated
+559,2982,2982,687,2025-10-13,Call centre,2,"Hard to reach customer service, long wait on the phone"
+560,2983,2983,688,2026-07-05,Email,5,Claim was settled quickly and the agent kept me updated
+561,2983,2983,,2026-09-30,Call centre,1,Renewal reminder came late but service was fine
+562,2988,2988,,2026-09-30,Call centre,4,Renewal reminder came late but service was fine
+563,3000,3000,691,2025-01-08,Email,5,Customer service was polite and helpful
+564,3002,3002,693,2026-07-09,Branch,3,Claim was settled quickly and the agent kept me updated
+565,3008,3008,696,2026-09-30,Call centre,3,My claim was rejected and the reason was not explained clearly
+566,3015,3015,699,2026-03-01,Call centre,5,Claim was settled quickly and the agent kept me updated
+567,3024,3024,,2023-12-26,Call centre,5,I was not told the policy terms clearly
+568,3032,3032,700,2026-06-09,Email,3,Process was okay but I had to follow up a few times
+569,3046,3046,701,2026-03-09,App,1,"Hard to reach customer service, long wait on the phone"
+570,3061,3061,,2026-09-30,App,3,Good value for the premium I pay
+571,3063,3063,,2026-09-30,Email,3,Premium is too high compared to what I get
+572,3065,3065,706,2024-04-29,Call centre,2,"Hard to reach customer service, long wait on the phone"
+573,3071,3071,708,2025-05-08,Email,5,Process was okay but I had to follow up a few times
+574,3080,3080,709,2026-09-01,Branch,4,Claim was settled quickly and the agent kept me updated
+575,3101,3101,713,2025-10-10,Email,4,Claim was settled quickly and the agent kept me updated
+576,3105,3105,717,2023-10-13,Email,1,My claim was rejected and the reason was not explained clearly
+577,3107,3107,718,2025-04-01,App,4,"Hard to reach customer service, long wait on the phone"
+578,3107,3107,,2025-03-03,Branch,1,Good value for the premium I pay
+579,3108,3108,,2024-05-01,Call centre,5,Very easy to renew my policy on the app
+580,3109,3109,720,2026-09-30,Branch,4,Nobody gave me updates on my claim
+581,3111,3111,,2024-05-03,App,5,Premium is too high compared to what I get
+582,3120,3120,723,2026-09-30,Email,1,My claim took too long and I had to submit documents again
+583,3121,3121,,2023-10-31,Branch,4,Very easy to renew my policy on the app
+584,3130,3130,,2023-04-20,Branch,4,Premium is too high compared to what I get
+585,3135,3135,725,2025-10-11,App,2,"Hard to reach customer service, long wait on the phone"
+586,3139,3139,,2024-10-12,Email,4,Renewal reminder came late but service was fine
+587,3146,3146,726,2025-09-06,App,3,My claim was rejected and the reason was not explained clearly
+588,3146,3146,727,2026-08-09,App,3,My claim took too long and I had to submit documents again
+589,3159,3159,,2024-01-18,Call centre,4,I was not told the policy terms clearly
+590,3161,3161,730,2026-02-20,Email,2,My claim took too long and I had to submit documents again
+591,3163,3163,733,2025-11-20,Call centre,5,Customer service was polite and helpful
+592,3165,3165,,2026-09-30,Call centre,4,Premium is too high compared to what I get
+593,3174,3174,,2026-09-30,Branch,4,Renewal reminder came late but service was fine
+594,3175,3175,,2023-07-10,Branch,4,Renewal reminder came late but service was fine
+595,3177,3177,734,2025-02-22,Branch,4,Process was okay but I had to follow up a few times
+596,3177,3177,735,2026-08-20,App,1,My claim was rejected and the reason was not explained clearly
+597,3178,3178,,2024-07-12,App,4,Good value for the premium I pay
+598,3180,3180,738,2026-08-05,App,2,My claim took too long and I had to submit documents again
+599,3186,3186,742,2025-04-15,Call centre,2,"Hard to reach customer service, long wait on the phone"
+600,3194,3194,743,2024-12-04,Email,4,Claim was settled quickly and the agent kept me updated
+601,3195,3195,745,2026-09-30,App,3,Process was okay but I had to follow up a few times
+602,3196,3196,746,2025-06-23,Branch,5,Customer service was polite and helpful
+603,3199,3199,,2025-03-06,Branch,4,Payment on the app failed twice
+604,3210,3210,747,2024-07-14,Branch,5,Customer service was polite and helpful
+605,3212,3212,748,2026-06-17,Branch,4,Process was okay but I had to follow up a few times
+606,3215,3215,,2024-07-21,Call centre,4,Very easy to renew my policy on the app
+607,3218,3218,749,2024-11-30,App,5,Claim was settled quickly and the agent kept me updated
+608,3218,3218,,2025-03-03,Email,5,Very easy to renew my policy on the app
+609,3221,3221,750,2024-11-05,Call centre,4,Process was okay but I had to follow up a few times
+610,3225,3225,751,2026-04-08,Branch,4,Process was okay but I had to follow up a few times
+611,3225,3225,,2024-12-13,Email,4,Renewal reminder came late but service was fine
+612,3229,3229,752,2025-12-10,Branch,2,My claim took too long and I had to submit documents again
+613,3231,3231,753,2025-12-16,Call centre,4,Customer service was polite and helpful
+614,3233,3233,754,2025-09-04,App,5,Customer service was polite and helpful
+615,3243,3243,,2023-09-30,Branch,3,Renewal reminder came late but service was fine
+616,3247,3247,756,2024-08-03,Branch,4,My claim was rejected and the reason was not explained clearly
+617,3247,3247,,2024-01-05,Email,5,Payment on the app failed twice
+618,3250,3250,,2026-09-30,App,5,I was not told the policy terms clearly
+619,3254,3254,757,2026-03-31,App,2,My claim was rejected and the reason was not explained clearly
+620,3256,3256,,2024-09-20,Email,4,I was not told the policy terms clearly
+621,3257,3257,758,2026-06-14,Email,1,Nobody gave me updates on my claim
+622,3264,3264,,2026-09-30,Call centre,4,Premium is too high compared to what I get
+623,3266,3266,,2024-10-11,App,5,Payment on the app failed twice
+624,3267,3267,,2025-03-16,Branch,3,Very easy to renew my policy on the app
+625,3277,3277,761,2023-08-09,Call centre,5,Process was okay but I had to follow up a few times
+626,3277,3277,762,2025-01-11,App,3,Customer service was polite and helpful
+627,3289,3289,764,2026-03-28,App,3,Customer service was polite and helpful
+628,3296,3296,765,2026-09-30,App,5,Process was okay but I had to follow up a few times
+629,3299,3299,766,2024-03-09,Branch,2,"Hard to reach customer service, long wait on the phone"
+630,3305,3305,767,2025-06-12,Email,4,Customer service was polite and helpful
+631,3310,3310,,2024-10-15,Email,2,Payment on the app failed twice
+632,3312,3312,769,2026-06-16,Email,3,My claim took too long and I had to submit documents again
+633,3320,3320,771,2024-11-01,Branch,2,Nobody gave me updates on my claim
+634,3323,3323,772,2026-09-30,Branch,3,Nobody gave me updates on my claim
+635,3337,3337,773,2024-06-21,Call centre,4,My claim took too long and I had to submit documents again
+636,3344,3344,775,2024-09-22,Branch,2,My claim was rejected and the reason was not explained clearly
+637,3361,3361,776,2024-09-30,Email,3,Customer service was polite and helpful
+638,3363,3363,777,2026-08-08,App,4,Customer service was polite and helpful
+639,3374,3374,778,2025-04-26,Branch,1,"Hard to reach customer service, long wait on the phone"
+640,3374,3374,779,2026-09-30,App,3,My claim took too long and I had to submit documents again
+641,3381,3381,781,2026-09-30,Call centre,2,My claim took too long and I had to submit documents again
+642,3395,3395,783,2024-08-12,Branch,5,Claim was settled quickly and the agent kept me updated
+643,3398,3398,785,2024-05-25,Email,1,"Hard to reach customer service, long wait on the phone"
+644,3418,3418,787,2026-05-21,App,3,My claim took too long and I had to submit documents again
+645,3421,3421,,2025-07-19,Email,3,Very easy to renew my policy on the app
+646,3430,3430,788,2024-07-01,Branch,3,My claim was rejected and the reason was not explained clearly
+647,3430,3430,790,2026-09-30,App,4,Claim was settled quickly and the agent kept me updated
+648,3437,3437,791,2024-09-19,Call centre,1,My claim took too long and I had to submit documents again
+649,3441,3441,,2026-09-30,App,5,Good value for the premium I pay
+650,3447,3447,,2026-09-30,App,4,Premium is too high compared to what I get
+651,3454,3454,793,2025-04-29,App,2,"Hard to reach customer service, long wait on the phone"
+652,3456,3456,794,2025-09-13,App,1,My claim took too long and I had to submit documents again
+653,3474,3474,798,2025-10-03,Call centre,5,Claim was settled quickly and the agent kept me updated
+654,3479,3479,800,2026-06-22,Call centre,1,My claim was rejected and the reason was not explained clearly
+655,3482,3482,801,2026-09-30,Call centre,1,My claim was rejected and the reason was not explained clearly
+656,3490,3490,802,2026-08-04,Branch,5,Claim was settled quickly and the agent kept me updated
+657,3499,3499,,2025-10-11,Call centre,5,Very easy to renew my policy on the app
+658,3500,3500,,2026-01-21,Email,4,Renewal reminder came late but service was fine
+659,3508,3508,,2026-02-15,Branch,4,Payment on the app failed twice
+660,3513,3513,806,2024-08-21,Email,1,My claim was rejected and the reason was not explained clearly
+661,3518,3518,807,2026-02-19,App,5,Process was okay but I had to follow up a few times
+662,3520,3520,808,2024-04-26,App,4,Claim was settled quickly and the agent kept me updated
+663,3523,3523,810,2025-10-15,Call centre,3,Nobody gave me updates on my claim
+664,3525,3525,811,2026-08-04,Call centre,1,"Hard to reach customer service, long wait on the phone"
+665,3526,3526,812,2024-08-10,Email,3,Nobody gave me updates on my claim
+666,3528,3528,,2026-09-22,Branch,1,Premium is too high compared to what I get
+667,3531,3531,,2026-09-30,Branch,5,Good value for the premium I pay
+668,3545,3545,,2025-10-10,Email,2,I was not told the policy terms clearly
+669,3546,3546,816,2025-03-09,Branch,4,Customer service was polite and helpful
+670,3547,3547,,2025-11-01,Branch,5,Premium is too high compared to what I get
+671,3560,3560,818,2025-10-17,Call centre,5,Customer service was polite and helpful
+672,3564,3564,820,2025-12-24,Branch,4,Customer service was polite and helpful
+673,3576,3576,,2023-11-11,Branch,5,Renewal reminder came late but service was fine
+674,3594,3594,829,2026-08-06,Call centre,5,Customer service was polite and helpful
+675,3594,3594,,2025-02-15,App,4,Payment on the app failed twice
+676,3596,3596,830,2026-09-30,Branch,5,Claim was settled quickly and the agent kept me updated
+677,3606,3606,,2026-09-30,Branch,4,Payment on the app failed twice
+678,3608,3608,,2025-04-02,Email,5,Very easy to renew my policy on the app
+679,3615,3615,,2023-12-28,App,5,Premium is too high compared to what I get
+680,3618,3618,,2025-07-25,Branch,4,Payment on the app failed twice
+681,3622,3622,833,2025-11-28,Call centre,3,"Hard to reach customer service, long wait on the phone"
+682,3623,3623,,2024-11-07,Email,4,I was not told the policy terms clearly
+683,3633,3633,,2026-01-25,Branch,3,Very easy to renew my policy on the app
+684,3670,3670,836,2025-03-16,App,1,My claim took too long and I had to submit documents again
+685,3679,3679,,2026-09-30,Branch,4,I was not told the policy terms clearly
+686,3681,3681,839,2026-09-30,Call centre,2,"Hard to reach customer service, long wait on the phone"
+687,3687,3687,840,2026-06-10,App,2,My claim took too long and I had to submit documents again
+688,3691,3691,841,2025-04-07,Branch,4,Customer service was polite and helpful
+689,3708,3708,844,2026-09-30,Branch,4,Customer service was polite and helpful
+690,3713,3713,845,2024-01-18,Call centre,5,Claim was settled quickly and the agent kept me updated
+691,3717,3717,,2026-07-30,Email,5,Very easy to renew my policy on the app
+692,3720,3720,846,2025-12-18,Call centre,3,Claim was settled quickly and the agent kept me updated
+693,3729,3729,848,2026-09-30,App,1,Nobody gave me updates on my claim
+694,3737,3737,850,2026-09-30,Call centre,2,My claim was rejected and the reason was not explained clearly
+695,3741,3741,852,2024-03-16,App,3,Nobody gave me updates on my claim
+696,3752,3752,,2026-09-30,Call centre,4,Premium is too high compared to what I get
+697,3756,3756,,2025-09-02,Call centre,5,Payment on the app failed twice
+698,3765,3765,856,2024-03-28,Email,4,Claim was settled quickly and the agent kept me updated
+699,3768,3768,857,2026-07-01,App,3,Nobody gave me updates on my claim
+700,3769,3769,858,2025-08-14,Branch,4,Process was okay but I had to follow up a few times
+701,3777,3777,,2024-05-04,Branch,5,I was not told the policy terms clearly
+702,3782,3782,859,2026-05-24,Branch,5,Customer service was polite and helpful
+703,3782,3782,,2024-10-13,Branch,1,Payment on the app failed twice
+704,3798,3798,860,2025-03-14,App,5,Process was okay but I had to follow up a few times
+705,3805,3805,862,2026-09-30,Email,2,Nobody gave me updates on my claim
+706,3815,3815,863,2026-05-12,App,4,Claim was settled quickly and the agent kept me updated
+707,3822,3822,,2026-09-30,Branch,2,Payment on the app failed twice
+708,3825,3825,,2025-09-26,Branch,5,Renewal reminder came late but service was fine
+709,3828,3828,,2026-09-30,App,3,I was not told the policy terms clearly
+710,3839,3839,867,2024-05-16,Email,4,Claim was settled quickly and the agent kept me updated
+711,3840,3840,,2025-10-09,App,4,I was not told the policy terms clearly
+712,3841,3841,868,2026-07-28,Call centre,2,"Hard to reach customer service, long wait on the phone"
+713,3858,3858,874,2026-08-20,Branch,4,Claim was settled quickly and the agent kept me updated
+714,3873,3873,876,2026-07-28,Email,2,"Hard to reach customer service, long wait on the phone"
+715,3882,3882,,2024-06-17,Email,4,Payment on the app failed twice
+716,3890,3890,,2025-01-18,App,4,Good value for the premium I pay
+717,3894,3894,879,2023-09-06,Call centre,3,My claim was rejected and the reason was not explained clearly
+718,3899,3899,881,2026-09-30,Call centre,2,Nobody gave me updates on my claim
+719,3902,3902,882,2024-09-16,Email,3,My claim was rejected and the reason was not explained clearly
+720,3903,3903,883,2025-03-30,Call centre,3,My claim took too long and I had to submit documents again
+721,3905,3905,,2026-09-30,Branch,1,Very easy to renew my policy on the app
+722,3913,3913,884,2025-07-18,Call centre,4,Claim was settled quickly and the agent kept me updated
+723,3913,3913,,2024-12-21,Email,3,I was not told the policy terms clearly
+724,3915,3915,885,2026-02-25,Email,2,"Hard to reach customer service, long wait on the phone"
+725,3915,3915,886,2026-09-30,Branch,1,Nobody gave me updates on my claim
+726,3928,3928,,2026-09-30,App,5,Good value for the premium I pay
+727,3940,3940,889,2024-10-04,Email,3,Customer service was polite and helpful
+728,3940,3940,,2024-07-30,Email,1,Good value for the premium I pay
+729,3965,3965,891,2026-08-31,Branch,4,My claim was rejected and the reason was not explained clearly
+730,3971,3971,893,2025-03-19,Branch,2,My claim was rejected and the reason was not explained clearly
+731,3973,3973,894,2025-03-29,App,4,Claim was settled quickly and the agent kept me updated
+732,3973,3973,895,2026-05-06,App,4,Customer service was polite and helpful
+733,3975,3975,,2026-04-20,App,4,Good value for the premium I pay
+734,3976,3976,896,2026-06-25,Email,3,My claim was rejected and the reason was not explained clearly
+735,3990,3990,900,2023-10-17,Call centre,3,Customer service was polite and helpful
+736,3990,3990,901,2025-01-02,Branch,3,Claim was settled quickly and the agent kept me updated
+737,3991,3991,902,2026-09-30,Email,5,Process was okay but I had to follow up a few times
+738,3993,3993,903,2023-10-22,Branch,5,Process was okay but I had to follow up a few times
+739,3993,3993,904,2025-10-06,Call centre,3,Claim was settled quickly and the agent kept me updated
+740,3993,3993,905,2026-04-25,Branch,4,Customer service was polite and helpful
+741,3996,3996,906,2026-06-16,Branch,5,Claim was settled quickly and the agent kept me updated
+742,4000,4000,907,2023-12-11,Branch,1,Nobody gave me updates on my claim
+743,4010,4010,908,2024-12-13,App,3,My claim was rejected and the reason was not explained clearly
+744,4019,4019,,2023-04-01,App,5,Premium is too high compared to what I get
+745,4021,4021,,2026-09-30,App,5,Very easy to renew my policy on the app
+746,4044,4044,,2025-08-08,Call centre,4,I was not told the policy terms clearly
+747,4046,4046,917,2026-09-30,App,1,"Hard to reach customer service, long wait on the phone"
+748,4050,4050,919,2026-09-30,Call centre,1,My claim took too long and I had to submit documents again
+749,4050,4050,,2024-08-02,Call centre,3,Premium is too high compared to what I get
+750,4053,4053,,2024-11-17,Email,4,Premium is too high compared to what I get
+751,4056,4056,920,2025-03-11,Branch,4,Claim was settled quickly and the agent kept me updated
+752,4070,4070,924,2026-04-05,Call centre,5,Process was okay but I had to follow up a few times
+753,4074,4074,925,2024-11-20,Branch,1,"Hard to reach customer service, long wait on the phone"
+754,4105,4105,,2025-11-16,Call centre,4,Good value for the premium I pay
+755,4134,4134,934,2025-02-11,Email,2,"Hard to reach customer service, long wait on the phone"
+756,4137,4137,935,2026-04-10,Email,1,Nobody gave me updates on my claim
+757,4147,4147,938,2025-08-08,Branch,4,Process was okay but I had to follow up a few times
+758,4149,4149,939,2024-09-08,Email,2,"Hard to reach customer service, long wait on the phone"
+759,4151,4151,940,2024-06-30,Call centre,4,Process was okay but I had to follow up a few times
+760,4158,4158,942,2026-09-30,Email,4,Process was okay but I had to follow up a few times
+761,4162,4162,944,2026-08-04,Email,5,Process was okay but I had to follow up a few times
+762,4167,4167,945,2026-05-01,Call centre,1,"Hard to reach customer service, long wait on the phone"
+763,4170,4170,946,2023-12-06,Email,4,Process was okay but I had to follow up a few times
+764,4170,4170,,2024-03-10,Call centre,1,Very easy to renew my policy on the app
+765,4172,4172,948,2026-04-13,Email,2,"Hard to reach customer service, long wait on the phone"
+766,4185,4185,949,2026-02-09,Email,2,"Hard to reach customer service, long wait on the phone"
+767,4201,4201,951,2023-06-20,Email,2,Nobody gave me updates on my claim
+768,4215,4215,952,2026-09-30,Branch,1,My claim was rejected and the reason was not explained clearly
+769,4225,4225,953,2026-09-30,Branch,4,Process was okay but I had to follow up a few times
+770,4232,4232,954,2026-03-04,Call centre,2,"Hard to reach customer service, long wait on the phone"
+771,4239,4239,955,2023-06-07,Call centre,1,My claim took too long and I had to submit documents again
+772,4244,4244,957,2025-08-19,App,5,Process was okay but I had to follow up a few times
+773,4247,4247,959,2024-06-27,Call centre,4,Claim was settled quickly and the agent kept me updated
+774,4250,4250,,2024-12-22,App,4,Very easy to renew my policy on the app
+775,4251,4251,,2026-09-30,Email,3,Premium is too high compared to what I get
+776,4260,4260,964,2026-07-11,App,1,My claim took too long and I had to submit documents again
+777,4261,4261,,2026-01-21,App,3,I was not told the policy terms clearly
+778,4269,4269,,2026-09-30,Call centre,2,Very easy to renew my policy on the app
+779,4273,4273,965,2026-08-17,Email,2,Nobody gave me updates on my claim
+780,4275,4275,967,2026-09-30,Call centre,1,"Hard to reach customer service, long wait on the phone"
+781,4280,4280,968,2026-07-15,Branch,5,Process was okay but I had to follow up a few times
+782,4287,4287,,2025-05-15,Email,2,I was not told the policy terms clearly
+783,4290,4290,,2024-11-01,Branch,5,I was not told the policy terms clearly
+784,4303,4303,,2025-04-24,Email,3,I was not told the policy terms clearly
+785,4309,4309,973,2026-02-17,Call centre,5,Customer service was polite and helpful
+786,4316,4316,,2026-09-30,Branch,4,I was not told the policy terms clearly
+787,4318,4318,,2026-09-30,Email,3,Good value for the premium I pay
+788,4321,4321,975,2026-09-30,Branch,4,Customer service was polite and helpful
+789,4325,4325,977,2026-09-30,Call centre,4,Customer service was polite and helpful
+790,4327,4327,978,2024-07-29,App,3,My claim was rejected and the reason was not explained clearly
+791,4330,4330,979,2026-06-01,App,2,"Hard to reach customer service, long wait on the phone"
+792,4331,4331,980,2025-04-17,App,4,Customer service was polite and helpful
+793,4333,4333,982,2025-10-10,App,3,Claim was settled quickly and the agent kept me updated
+794,4337,4337,983,2024-06-08,Branch,2,"Hard to reach customer service, long wait on the phone"
+795,4338,4338,984,2026-05-12,App,5,Process was okay but I had to follow up a few times
+796,4349,4349,986,2026-07-21,App,2,My claim took too long and I had to submit documents again
+797,4357,4357,987,2024-07-27,Call centre,4,Customer service was polite and helpful
+798,4358,4358,988,2024-02-23,Branch,4,Customer service was polite and helpful
+799,4364,4364,991,2024-07-08,App,5,Claim was settled quickly and the agent kept me updated
+800,4365,4365,992,2025-01-16,Call centre,4,Claim was settled quickly and the agent kept me updated
+801,4372,4372,,2026-09-30,App,5,Payment on the app failed twice
+802,4374,4374,,2025-04-04,Branch,5,I was not told the policy terms clearly
+803,4380,4380,997,2025-11-26,App,4,Process was okay but I had to follow up a few times
+804,4391,4391,999,2026-02-08,Branch,4,Claim was settled quickly and the agent kept me updated
+805,4399,4399,,2026-09-30,Call centre,3,Good value for the premium I pay
+806,4400,4400,1001,2026-09-08,Email,2,My claim was rejected and the reason was not explained clearly
+807,4401,4401,,2026-09-30,Email,5,I was not told the policy terms clearly
+808,4405,4405,1002,2026-08-10,App,4,Nobody gave me updates on my claim
+809,4411,4411,1003,2026-04-28,App,3,"Hard to reach customer service, long wait on the phone"
+810,4415,4415,1004,2025-03-28,App,5,Customer service was polite and helpful
+811,4415,4415,1005,2026-09-30,Branch,1,My claim took too long and I had to submit documents again
+812,4418,4418,1006,2026-05-18,Call centre,4,Process was okay but I had to follow up a few times
+813,4429,4429,1007,2026-09-30,App,2,My claim was rejected and the reason was not explained clearly
+814,4436,4436,1008,2026-05-13,Branch,3,My claim took too long and I had to submit documents again
+815,4443,4443,1010,2024-08-25,Call centre,2,My claim took too long and I had to submit documents again
+816,4443,4443,1011,2026-05-02,Call centre,4,Customer service was polite and helpful
+817,4444,4444,1012,2026-09-30,Email,2,My claim took too long and I had to submit documents again
+818,4447,4447,,2024-12-22,Email,4,Renewal reminder came late but service was fine
+819,4455,4455,,2023-04-30,Branch,3,Premium is too high compared to what I get
+820,4463,4463,,2024-08-24,Email,2,Payment on the app failed twice
+821,4469,4469,,2026-09-30,Call centre,4,Premium is too high compared to what I get
+822,4484,4484,1015,2026-09-30,App,5,Customer service was polite and helpful
+823,4485,4485,,2025-05-24,App,2,I was not told the policy terms clearly
+824,4493,4493,1018,2026-09-30,Branch,5,Process was okay but I had to follow up a few times
+825,4497,4497,1022,2026-09-11,Call centre,4,Customer service was polite and helpful
+826,4502,4502,1023,2024-11-21,App,1,Nobody gave me updates on my claim
+827,4502,4502,1024,2026-09-30,Branch,5,Claim was settled quickly and the agent kept me updated
+828,4506,4506,1025,2025-11-23,Email,2,My claim was rejected and the reason was not explained clearly
+829,4514,4514,1028,2026-09-30,App,4,Customer service was polite and helpful
+830,4537,4537,,2024-09-13,App,5,Premium is too high compared to what I get
+831,4538,4538,1033,2026-09-30,Branch,2,Nobody gave me updates on my claim
+832,4538,4538,,2024-11-09,Branch,1,Very easy to renew my policy on the app
+833,4539,4539,1034,2023-04-25,Branch,3,"Hard to reach customer service, long wait on the phone"
+834,4543,4543,,2026-09-30,Email,5,Premium is too high compared to what I get
+835,4544,4544,1035,2026-08-01,Call centre,4,Process was okay but I had to follow up a few times
+836,4548,4548,1036,2024-06-18,Branch,4,Process was okay but I had to follow up a few times
+837,4550,4550,1038,2025-10-22,App,3,Customer service was polite and helpful
+838,4557,4557,1040,2026-03-23,App,3,Nobody gave me updates on my claim
+839,4557,4557,,2025-12-30,Branch,4,Premium is too high compared to what I get
+840,4558,4558,1041,2023-12-11,App,4,Process was okay but I had to follow up a few times
+841,4562,4562,,2026-09-30,App,2,Premium is too high compared to what I get
+842,4565,4565,,2024-08-10,Email,3,Payment on the app failed twice
+843,4566,4566,1042,2024-10-02,Call centre,5,Claim was settled quickly and the agent kept me updated
+844,4566,4566,1043,2026-06-17,Email,2,"Hard to reach customer service, long wait on the phone"
+845,4576,4576,1045,2026-07-05,Branch,1,Nobody gave me updates on my claim
+846,4576,4576,,2026-09-30,Email,4,Premium is too high compared to what I get
+847,4579,4579,1046,2024-11-26,App,2,Nobody gave me updates on my claim
+848,4581,4581,1047,2023-09-15,Email,5,Process was okay but I had to follow up a few times
+849,4586,4586,1049,2025-12-28,Email,4,Claim was settled quickly and the agent kept me updated
+850,4586,4586,1050,2026-09-30,Branch,4,Customer service was polite and helpful
+851,4590,4590,,2026-09-30,Call centre,4,Renewal reminder came late but service was fine
+852,4594,4594,,2026-09-30,Branch,5,Good value for the premium I pay
+853,4605,4605,1055,2025-09-10,App,2,My claim was rejected and the reason was not explained clearly
+854,4609,4609,,2023-06-20,App,4,I was not told the policy terms clearly
+855,4614,4614,1056,2025-02-25,Branch,2,My claim took too long and I had to submit documents again
+856,4619,4619,1057,2024-02-19,Email,1,My claim took too long and I had to submit documents again
+857,4624,4624,1062,2024-09-19,App,4,Customer service was polite and helpful
+858,4626,4626,1063,2025-03-06,Call centre,1,My claim was rejected and the reason was not explained clearly
+859,4626,4626,1064,2026-01-07,Branch,1,Nobody gave me updates on my claim
+860,4628,4628,1066,2026-08-07,Email,1,"Hard to reach customer service, long wait on the phone"
+861,4631,4631,1067,2025-06-23,Call centre,2,"Hard to reach customer service, long wait on the phone"
+862,4631,4631,1068,2026-05-11,Email,1,Nobody gave me updates on my claim
+863,4632,4632,,2025-05-25,App,4,Premium is too high compared to what I get
+864,4649,4649,,2023-11-12,Call centre,4,Payment on the app failed twice
+865,4651,4651,,2026-04-04,Branch,1,Good value for the premium I pay
+866,4658,4658,,2026-09-30,Branch,4,Good value for the premium I pay
+867,4661,4661,1074,2026-09-30,Email,4,My claim was rejected and the reason was not explained clearly
+868,4671,4671,1075,2024-04-12,App,4,Customer service was polite and helpful
+869,4674,4674,1076,2024-06-04,Email,1,"Hard to reach customer service, long wait on the phone"
+870,4683,4683,1077,2024-07-06,App,4,Claim was settled quickly and the agent kept me updated
+871,4684,4684,1078,2024-06-19,App,4,Claim was settled quickly and the agent kept me updated
+872,4687,4687,1080,2023-09-27,App,1,Nobody gave me updates on my claim
+873,4688,4688,1082,2026-08-10,App,3,"Hard to reach customer service, long wait on the phone"
+874,4690,4690,1083,2026-02-19,App,3,My claim was rejected and the reason was not explained clearly
+875,4696,4696,1085,2026-02-22,Call centre,4,Process was okay but I had to follow up a few times
+876,4700,4700,1086,2024-08-20,Branch,4,Claim was settled quickly and the agent kept me updated
+877,4702,4702,1087,2025-09-07,App,3,"Hard to reach customer service, long wait on the phone"
+878,4709,4709,1088,2026-09-30,Call centre,3,Claim was settled quickly and the agent kept me updated
+879,4712,4712,1089,2025-01-20,Call centre,4,Process was okay but I had to follow up a few times
+880,4715,4715,1091,2026-02-14,Branch,1,"Hard to reach customer service, long wait on the phone"
+881,4722,4722,1094,2025-03-05,Branch,1,My claim took too long and I had to submit documents again
+882,4722,4722,,2024-07-12,Email,1,Payment on the app failed twice
+883,4730,4730,,2026-05-11,Call centre,5,I was not told the policy terms clearly
+884,4731,4731,1095,2026-06-29,Email,5,Process was okay but I had to follow up a few times
+885,4739,4739,1096,2026-09-30,Call centre,3,"Hard to reach customer service, long wait on the phone"
+886,4744,4744,1097,2025-11-27,Branch,1,My claim was rejected and the reason was not explained clearly
+887,4752,4752,,2026-09-30,Branch,3,Very easy to renew my policy on the app
+888,4756,4756,1098,2026-09-30,Call centre,1,My claim took too long and I had to submit documents again
+889,4758,4758,1099,2026-05-25,Email,3,Nobody gave me updates on my claim
+890,4760,4760,1101,2026-09-30,Call centre,2,My claim was rejected and the reason was not explained clearly
+891,4767,4767,,2026-05-10,App,2,Very easy to renew my policy on the app
+892,4771,4771,,2025-11-26,App,5,Very easy to renew my policy on the app
+893,4775,4775,1102,2026-09-30,App,1,"Hard to reach customer service, long wait on the phone"
+894,4776,4776,1103,2026-07-10,Email,2,My claim took too long and I had to submit documents again
+895,4777,4777,,2025-05-05,App,5,Renewal reminder came late but service was fine
+896,4787,4787,1105,2024-05-03,Email,2,My claim took too long and I had to submit documents again
+897,4791,4791,1107,2025-02-20,App,5,Process was okay but I had to follow up a few times
+898,4791,4791,1108,2026-04-06,Branch,5,Claim was settled quickly and the agent kept me updated
+899,4795,4795,1109,2025-05-14,App,4,My claim was rejected and the reason was not explained clearly
+900,4806,2892,1112,2026-09-30,App,4,My claim took too long and I had to submit documents again
+901,4807,3477,1113,2024-03-25,App,4,My claim was rejected and the reason was not explained clearly
+902,4819,2941,1115,2026-07-04,App,4,Customer service was polite and helpful
+903,4827,914,1116,2023-07-30,Call centre,2,My claim took too long and I had to submit documents again
+904,4827,914,1117,2025-12-06,Email,3,Customer service was polite and helpful
+905,4844,3252,1120,2025-07-13,Branch,1,My claim took too long and I had to submit documents again
+906,4847,385,1121,2025-05-21,App,5,Customer service was polite and helpful
+907,4847,385,1122,2026-03-10,App,4,Claim was settled quickly and the agent kept me updated
+908,4849,2465,,2024-11-19,Branch,4,Payment on the app failed twice
+909,4850,2397,,2025-09-19,App,1,Renewal reminder came late but service was fine
+910,4859,2098,1124,2026-06-19,Call centre,1,Nobody gave me updates on my claim
+911,4859,2098,,2024-10-21,Branch,3,Very easy to renew my policy on the app
+912,4867,1717,1125,2026-07-30,Branch,4,Claim was settled quickly and the agent kept me updated
+913,4867,1717,,2026-09-30,Call centre,5,Renewal reminder came late but service was fine
+914,4871,1477,,2023-03-29,Email,4,Premium is too high compared to what I get
+915,4877,2788,,2026-09-30,Email,4,Premium is too high compared to what I get
+916,4903,3901,1131,2026-09-30,Branch,3,My claim took too long and I had to submit documents again
+917,4908,1394,,2024-06-02,Branch,1,Very easy to renew my policy on the app
+918,4912,3208,1134,2024-11-05,Call centre,3,My claim was rejected and the reason was not explained clearly
+919,4915,2025,1136,2024-11-06,App,1,My claim took too long and I had to submit documents again
+920,4916,623,1137,2023-12-24,Call centre,4,Customer service was polite and helpful
+921,4920,4120,1139,2026-09-30,App,3,"Hard to reach customer service, long wait on the phone"
+922,4930,1250,1142,2025-12-07,App,4,Customer service was polite and helpful
+923,4936,2424,1144,2025-07-04,Email,4,"Hard to reach customer service, long wait on the phone"
+924,4949,2363,1146,2026-03-30,Email,4,Customer service was polite and helpful
+925,4973,401,1149,2024-12-28,Branch,4,Nobody gave me updates on my claim
+926,4977,4281,1150,2025-10-20,Email,5,Customer service was polite and helpful
+927,4980,4047,1151,2025-04-29,Branch,3,My claim was rejected and the reason was not explained clearly
+928,4986,437,,2026-09-30,Call centre,4,Payment on the app failed twice
+929,5001,2449,,2026-09-30,Branch,5,Very easy to renew my policy on the app
+930,5014,1858,,2024-03-22,Email,4,Very easy to renew my policy on the app
+931,5015,3485,,2026-09-30,App,3,Premium is too high compared to what I get
+932,5017,42,1154,2024-08-31,Call centre,3,My claim was rejected and the reason was not explained clearly
+933,5017,42,,2024-08-18,Call centre,4,Payment on the app failed twice
+934,5020,4757,,2025-06-28,Email,1,I was not told the policy terms clearly
+935,5021,4002,1155,2026-01-24,Branch,2,"Hard to reach customer service, long wait on the phone"
+936,5023,1346,,2024-05-02,App,1,Payment on the app failed twice
+937,5030,1194,,2026-09-30,Branch,5,I was not told the policy terms clearly
+938,5031,2034,1160,2025-04-30,Email,4,Claim was settled quickly and the agent kept me updated
+939,5033,2686,,2026-09-30,Call centre,4,I was not told the policy terms clearly
+940,5042,493,1163,2026-05-12,Branch,4,Process was okay but I had to follow up a few times
+941,5043,885,,2024-05-11,Email,5,I was not told the policy terms clearly
+942,5046,4260,1165,2026-07-26,App,3,Claim was settled quickly and the agent kept me updated
+943,5069,1016,,2024-11-03,Call centre,1,Premium is too high compared to what I get
+944,5081,1403,,2025-01-05,Email,3,Good value for the premium I pay
+945,5082,1200,,2026-09-30,Branch,1,I was not told the policy terms clearly
+946,5092,3945,,2026-09-30,Branch,4,Renewal reminder came late but service was fine
+947,5099,2571,1170,2026-03-05,Call centre,5,Customer service was polite and helpful
+948,5100,2443,1172,2025-10-15,App,4,Claim was settled quickly and the agent kept me updated
+949,5100,2443,,2024-01-15,Branch,4,Good value for the premium I pay
+950,5121,2237,,2024-06-04,Call centre,4,Renewal reminder came late but service was fine
+951,5130,3388,1179,2025-09-05,App,5,Customer service was polite and helpful
+952,5131,1970,1180,2024-11-10,Email,3,My claim was rejected and the reason was not explained clearly
+953,5134,3043,,2024-02-15,Call centre,3,Renewal reminder came late but service was fine
+954,5135,1629,1182,2023-04-29,Email,5,Process was okay but I had to follow up a few times
+955,5136,4797,,2026-09-30,Call centre,4,Renewal reminder came late but service was fine
+956,5142,2294,,2025-10-10,Branch,4,Good value for the premium I pay
+957,5148,337,1183,2023-10-11,Call centre,5,Customer service was polite and helpful
+958,5151,2635,1184,2023-12-13,Call centre,2,My claim was rejected and the reason was not explained clearly
+959,5156,3120,1186,2025-08-01,App,4,Nobody gave me updates on my claim
+960,5157,1117,1188,2025-09-15,Call centre,1,Nobody gave me updates on my claim
+961,5157,1117,,2024-04-28,Call centre,5,I was not told the policy terms clearly
+962,5164,4412,1189,2026-09-30,Call centre,3,My claim took too long and I had to submit documents again
+963,5169,3558,,2024-02-25,App,5,Premium is too high compared to what I get
+964,5170,293,1191,2026-08-27,Call centre,4,"Hard to reach customer service, long wait on the phone"
+965,5173,4714,,2026-09-30,Email,4,Premium is too high compared to what I get
+966,5181,1292,,2023-08-19,App,4,Good value for the premium I pay
+967,5185,926,1194,2025-09-29,Call centre,3,My claim was rejected and the reason was not explained clearly
+968,5187,1627,,2026-09-30,Branch,4,Payment on the app failed twice
+969,5192,3861,1195,2024-11-12,Branch,5,Process was okay but I had to follow up a few times
+970,5202,3883,1197,2026-07-17,Email,3,My claim was rejected and the reason was not explained clearly
+971,5202,3883,,2023-11-28,Call centre,3,Renewal reminder came late but service was fine
+972,5205,194,1199,2026-09-30,Branch,5,Claim was settled quickly and the agent kept me updated
+973,5205,194,,2026-09-30,App,4,Premium is too high compared to what I get
+974,5208,4385,1200,2026-08-14,Call centre,1,My claim took too long and I had to submit documents again
+975,5216,132,,2024-12-11,Branch,5,Premium is too high compared to what I get
+976,5221,4660,1204,2025-10-07,Call centre,5,Customer service was polite and helpful
+977,5238,2264,1206,2026-04-10,Call centre,5,Process was okay but I had to follow up a few times
+978,5244,784,1207,2026-01-09,App,5,Process was okay but I had to follow up a few times
+979,5244,784,,2026-09-23,Call centre,2,Premium is too high compared to what I get
+980,5247,62,1209,2026-01-03,Email,3,My claim took too long and I had to submit documents again
+981,5252,1430,,2025-06-20,Branch,5,Renewal reminder came late but service was fine
+982,5257,780,1211,2026-02-22,Branch,3,My claim was rejected and the reason was not explained clearly
+983,5259,4311,1212,2024-07-27,Branch,3,"Hard to reach customer service, long wait on the phone"
+984,5262,1907,,2025-08-09,Email,4,I was not told the policy terms clearly
+985,5268,933,1215,2024-01-05,App,2,My claim took too long and I had to submit documents again
+986,5276,4088,,2026-09-30,Call centre,4,Premium is too high compared to what I get
+987,5277,564,1218,2024-12-11,Branch,2,Nobody gave me updates on my claim
+988,5279,2126,,2023-09-20,Call centre,5,Very easy to renew my policy on the app
+989,5291,3065,,2026-09-30,App,3,Renewal reminder came late but service was fine
+990,5302,3945,1222,2023-05-25,App,5,Process was okay but I had to follow up a few times
+991,5304,3303,1223,2024-05-25,Call centre,5,Customer service was polite and helpful
+992,5310,3589,,2026-09-30,App,3,Good value for the premium I pay
+993,5323,2026,1229,2024-11-29,Email,1,Nobody gave me updates on my claim
+994,5323,2026,1230,2026-01-22,Branch,1,My claim took too long and I had to submit documents again
+995,5331,1229,1232,2025-06-02,Branch,2,Nobody gave me updates on my claim
+996,5331,1229,1233,2026-06-30,App,3,"Hard to reach customer service, long wait on the phone"
+997,5332,2342,1235,2025-06-30,Call centre,1,My claim was rejected and the reason was not explained clearly
+998,5332,2342,1237,2026-08-25,App,5,Process was okay but I had to follow up a few times
+999,5342,1723,1239,2026-09-30,Call centre,5,Customer service was polite and helpful
+1000,5342,1723,,2025-06-19,Email,4,I was not told the policy terms clearly
+1001,5345,4762,1240,2025-08-02,Email,2,Nobody gave me updates on my claim
+1002,5349,1169,1241,2023-09-02,Call centre,5,Process was okay but I had to follow up a few times
+1003,5350,1534,1242,2026-02-16,Call centre,5,Process was okay but I had to follow up a few times
+1004,5359,517,1244,2024-02-04,Branch,5,Process was okay but I had to follow up a few times
+1005,5366,3462,1245,2025-12-15,Branch,5,Process was okay but I had to follow up a few times
+1006,5369,3052,1246,2025-12-24,Branch,3,Customer service was polite and helpful
+1007,5375,1650,,2025-02-18,App,4,Good value for the premium I pay
+1008,5376,1405,1247,2024-10-20,App,4,Customer service was polite and helpful
+1009,5377,4570,1248,2025-11-23,App,3,Claim was settled quickly and the agent kept me updated
+1010,5385,3031,1250,2026-06-05,Email,5,Customer service was polite and helpful
+1011,5412,3860,,2026-09-30,Call centre,5,Very easy to renew my policy on the app
+1012,5417,4544,1257,2026-01-20,App,5,Process was okay but I had to follow up a few times
+1013,5421,2260,1259,2024-09-25,App,4,"Hard to reach customer service, long wait on the phone"
+1014,5427,2552,1261,2026-08-17,Email,3,My claim took too long and I had to submit documents again
+1015,5429,734,,2026-09-30,App,1,Premium is too high compared to what I get
+1016,5431,1370,1262,2024-08-26,Branch,5,Claim was settled quickly and the agent kept me updated
+1017,5440,3364,1264,2026-07-16,Branch,1,Nobody gave me updates on my claim
+1018,5442,2341,1266,2024-10-11,App,4,Customer service was polite and helpful
+1019,5444,2338,1267,2025-10-10,Email,1,My claim took too long and I had to submit documents again
+1020,5445,1560,1268,2023-10-10,Branch,5,Customer service was polite and helpful
+1021,5445,1560,1269,2024-08-07,App,2,My claim was rejected and the reason was not explained clearly
+1022,5445,1560,1270,2025-11-07,Call centre,4,My claim took too long and I had to submit documents again
+1023,5451,3437,1271,2026-08-02,Email,4,Customer service was polite and helpful
+1024,5451,3437,,2026-02-20,Branch,3,Renewal reminder came late but service was fine
+1025,5455,2593,1272,2026-02-03,Email,4,Claim was settled quickly and the agent kept me updated
+1026,5457,2567,1273,2025-09-25,Email,4,Claim was settled quickly and the agent kept me updated
+1027,5463,445,1274,2025-03-02,App,4,Process was okay but I had to follow up a few times
+1028,5468,4574,1275,2026-09-27,App,4,Process was okay but I had to follow up a few times
+1029,5472,4725,1278,2026-09-30,Email,5,Customer service was polite and helpful
+1030,5476,1166,1279,2023-07-30,Call centre,2,Nobody gave me updates on my claim
+1031,5506,99,1280,2026-09-30,Branch,4,Claim was settled quickly and the agent kept me updated
+1032,5515,1020,1283,2024-08-14,Call centre,1,Nobody gave me updates on my claim
+1033,5517,580,1284,2026-01-05,App,1,My claim took too long and I had to submit documents again
+1034,5520,598,,2023-10-26,Email,4,Good value for the premium I pay
+1035,5532,541,1286,2026-09-02,App,4,"Hard to reach customer service, long wait on the phone"
+1036,5545,4124,1289,2026-08-17,App,3,Nobody gave me updates on my claim
+1037,5547,3283,1290,2026-05-05,App,3,My claim took too long and I had to submit documents again
+1038,5547,3283,,2025-07-01,Call centre,2,Good value for the premium I pay
+1039,5550,3284,1291,2024-05-29,Email,5,Customer service was polite and helpful
+1040,5551,1086,1294,2026-02-11,Branch,1,Nobody gave me updates on my claim
+1041,5555,1955,1295,2026-09-30,Call centre,1,"Hard to reach customer service, long wait on the phone"
+1042,5556,52,1296,2025-06-18,App,1,My claim was rejected and the reason was not explained clearly
+1043,5564,2166,1297,2026-01-24,Branch,4,Process was okay but I had to follow up a few times
+1044,5568,2533,1298,2026-09-30,App,5,Customer service was polite and helpful
+1045,5575,4159,1302,2024-07-23,Branch,2,My claim took too long and I had to submit documents again
+1046,5585,210,1305,2024-12-14,Branch,1,My claim was rejected and the reason was not explained clearly
+1047,5586,2916,1306,2025-04-24,Email,5,Claim was settled quickly and the agent kept me updated
+1048,5588,4006,1308,2024-11-17,Branch,3,Claim was settled quickly and the agent kept me updated
+1049,5589,3641,1310,2026-02-14,Call centre,4,Claim was settled quickly and the agent kept me updated
+1050,5598,735,1312,2025-01-23,App,3,Customer service was polite and helpful
+1051,5598,735,1313,2026-05-24,Branch,4,Customer service was polite and helpful
+1052,5610,540,1314,2025-06-19,Branch,1,"Hard to reach customer service, long wait on the phone"
+1053,5613,3203,1315,2024-07-12,Call centre,5,Claim was settled quickly and the agent kept me updated
+1054,5616,3055,,2026-09-30,App,4,Renewal reminder came late but service was fine
+1055,5621,3691,1319,2026-09-30,Branch,3,My claim took too long and I had to submit documents again
+1056,5631,1097,1321,2026-09-30,Call centre,2,Nobody gave me updates on my claim
+1057,5632,546,1322,2026-09-30,Branch,3,Claim was settled quickly and the agent kept me updated
+1058,5640,2403,1323,2025-09-24,App,5,Claim was settled quickly and the agent kept me updated
+1059,5641,4150,1324,2026-05-05,Branch,2,My claim took too long and I had to submit documents again
+1060,5643,4548,1325,2025-03-12,Call centre,3,Nobody gave me updates on my claim
+1061,5643,4548,,2025-01-19,Call centre,1,Premium is too high compared to what I get
+1062,5646,4457,1326,2026-06-15,Email,5,Customer service was polite and helpful
+1063,5648,1696,,2023-10-13,Call centre,5,I was not told the policy terms clearly
+1064,5653,2884,1327,2026-09-30,App,5,Customer service was polite and helpful
+1065,5667,1969,,2023-10-02,Branch,2,Renewal reminder came late but service was fine
+1066,5691,2352,1328,2026-04-26,Email,4,Nobody gave me updates on my claim
+1067,5704,984,1330,2025-11-20,Call centre,3,Customer service was polite and helpful
+1068,5704,984,,2024-08-01,Branch,4,Very easy to renew my policy on the app
+1069,5705,2265,1331,2024-07-03,Email,1,My claim took too long and I had to submit documents again
+1070,5706,3053,1332,2025-09-17,App,4,"Hard to reach customer service, long wait on the phone"
+1071,5711,3202,1333,2026-09-30,Branch,4,"Hard to reach customer service, long wait on the phone"
+1072,5712,472,1334,2026-05-31,Email,5,Customer service was polite and helpful
+1073,5728,1134,,2025-11-11,Branch,2,I was not told the policy terms clearly
+1074,5730,4364,,2025-07-08,Call centre,5,Payment on the app failed twice
+1075,5750,2644,,2026-09-30,App,4,I was not told the policy terms clearly
+1076,5753,3668,1337,2024-05-28,Branch,2,Nobody gave me updates on my claim
+1077,5763,4358,1339,2026-04-02,Call centre,1,My claim took too long and I had to submit documents again
+1078,5763,4358,,2026-01-09,Call centre,3,Renewal reminder came late but service was fine
+1079,5768,90,1341,2024-01-31,App,5,Customer service was polite and helpful
+1080,5771,4667,1342,2026-06-08,App,1,Nobody gave me updates on my claim
+1081,5772,3565,1344,2024-09-18,Email,5,Customer service was polite and helpful
+1082,5773,1033,1345,2026-06-19,Call centre,4,Process was okay but I had to follow up a few times
+1083,5777,3384,,2026-06-21,App,3,I was not told the policy terms clearly
+1084,5785,4393,,2024-02-13,App,1,Very easy to renew my policy on the app
+1085,5787,1807,1346,2026-07-01,Email,4,Claim was settled quickly and the agent kept me updated
+1086,5791,4779,1349,2025-01-27,Email,5,Process was okay but I had to follow up a few times
+1087,5820,3583,1355,2025-11-04,Email,2,My claim took too long and I had to submit documents again
+1088,5822,513,1356,2026-04-01,Branch,4,Customer service was polite and helpful
+1089,5834,4066,1359,2026-09-30,App,5,Claim was settled quickly and the agent kept me updated
+1090,5836,1420,1360,2025-08-17,App,3,Claim was settled quickly and the agent kept me updated
+1091,5841,1388,1361,2024-04-04,Branch,4,Claim was settled quickly and the agent kept me updated
+1092,5845,3922,1363,2026-07-18,Branch,1,My claim took too long and I had to submit documents again
+1093,5859,466,1366,2024-02-20,Call centre,5,Claim was settled quickly and the agent kept me updated
+1094,5861,171,1367,2023-09-20,App,5,Process was okay but I had to follow up a few times
+1095,5861,171,1368,2025-10-13,Email,4,"Hard to reach customer service, long wait on the phone"
+1096,5861,171,1369,2026-07-11,App,2,Nobody gave me updates on my claim
+1097,5864,3815,1370,2026-04-28,App,5,Customer service was polite and helpful
+1098,5873,3954,1373,2026-04-11,Email,4,My claim was rejected and the reason was not explained clearly
+1099,5877,743,1375,2026-07-06,App,2,Nobody gave me updates on my claim
+1100,5879,2045,1376,2026-09-30,Call centre,2,My claim took too long and I had to submit documents again
+1101,5885,1434,,2026-06-12,Email,3,Premium is too high compared to what I get
+1102,5893,1509,1379,2026-02-25,Call centre,4,"Hard to reach customer service, long wait on the phone"
+1103,5896,1749,,2026-09-30,Email,2,Very easy to renew my policy on the app
+1104,5899,3264,1381,2026-04-13,Email,5,Process was okay but I had to follow up a few times
+1105,5900,4196,1382,2026-05-21,Call centre,4,Claim was settled quickly and the agent kept me updated
+1106,5902,2072,,2026-09-30,Call centre,5,Good value for the premium I pay
+1107,5905,2250,1384,2026-07-06,Email,3,My claim was rejected and the reason was not explained clearly
+1108,5912,3122,,2026-09-30,Branch,3,Very easy to renew my policy on the app
+1109,5915,3454,,2024-12-19,App,2,Renewal reminder came late but service was fine
+1110,5918,3470,,2024-11-02,App,5,I was not told the policy terms clearly
+1111,5922,3504,1387,2025-01-16,App,3,Claim was settled quickly and the agent kept me updated
+1112,5926,3048,1388,2026-05-13,Call centre,3,Nobody gave me updates on my claim
+1113,5928,4505,1389,2025-09-20,Email,3,"Hard to reach customer service, long wait on the phone"
+1114,5941,2888,1392,2026-09-30,Call centre,4,"Hard to reach customer service, long wait on the phone"
+1115,5946,1476,1393,2026-07-28,Email,2,"Hard to reach customer service, long wait on the phone"
+1116,5956,866,1394,2026-02-19,Call centre,3,My claim took too long and I had to submit documents again
+1117,5957,3870,,2025-10-29,Call centre,5,Very easy to renew my policy on the app
+1118,5962,1934,,2026-09-30,Email,5,Premium is too high compared to what I get
+1119,5963,2528,,2026-09-30,App,1,Renewal reminder came late but service was fine
+1120,5967,2237,,2023-12-01,Branch,3,Very easy to renew my policy on the app
+1121,5971,3342,1395,2024-09-16,App,2,Nobody gave me updates on my claim
+1122,5971,3342,1396,2026-01-06,Call centre,4,My claim was rejected and the reason was not explained clearly
+1123,5986,4603,,2024-03-08,Email,3,Renewal reminder came late but service was fine
+1124,5988,52,1400,2026-08-27,Email,4,Nobody gave me updates on my claim
+1125,5993,294,1401,2026-09-30,Call centre,5,Customer service was polite and helpful
+1126,5999,1573,1403,2026-09-30,Call centre,1,Nobody gave me updates on my claim
+1127,6003,3363,1405,2026-09-30,Email,4,Claim was settled quickly and the agent kept me updated
+1128,6007,4664,,2026-04-12,App,4,Renewal reminder came late but service was fine
+1129,6010,2734,1406,2024-09-06,Branch,5,Process was okay but I had to follow up a few times
+1130,6015,4672,1407,2025-08-23,Branch,2,My claim took too long and I had to submit documents again
+1131,6016,568,1408,2025-12-04,App,4,Customer service was polite and helpful
+1132,6022,3300,,2023-12-19,Branch,2,Premium is too high compared to what I get
+1133,6025,2857,1410,2024-06-09,App,2,Nobody gave me updates on my claim
+1134,6025,2857,1411,2026-01-17,Branch,3,"Hard to reach customer service, long wait on the phone"
+1135,6047,2844,1416,2026-06-29,Email,4,Claim was settled quickly and the agent kept me updated
+1136,6050,3904,1417,2026-09-30,App,1,Nobody gave me updates on my claim
+1137,6054,4618,1418,2025-02-24,App,2,"Hard to reach customer service, long wait on the phone"
+1138,6054,4618,1419,2026-05-21,Email,3,My claim was rejected and the reason was not explained clearly
+1139,6056,3648,1420,2026-08-10,App,4,Process was okay but I had to follow up a few times
+1140,6065,1516,,2023-09-13,Branch,4,Payment on the app failed twice
+1141,6068,2998,,2026-04-07,Branch,4,I was not told the policy terms clearly
+1142,6074,4297,1422,2024-02-27,App,5,Process was okay but I had to follow up a few times
+1143,6074,4297,1423,2025-04-23,App,2,Nobody gave me updates on my claim
+1144,6075,4792,1425,2026-08-26,Branch,3,"Hard to reach customer service, long wait on the phone"
+1145,6083,1152,1429,2026-06-29,Email,2,My claim took too long and I had to submit documents again
+1146,6085,512,1430,2024-10-03,Branch,1,My claim took too long and I had to submit documents again
+1147,6088,563,,2024-01-14,Call centre,1,Renewal reminder came late but service was fine
+1148,6096,2523,1432,2025-09-02,App,2,"Hard to reach customer service, long wait on the phone"
+1149,6100,714,,2025-10-02,Email,4,Good value for the premium I pay
+1150,6111,2981,1435,2025-03-16,Call centre,1,My claim was rejected and the reason was not explained clearly
+1151,6120,952,1437,2026-04-05,Email,1,"Hard to reach customer service, long wait on the phone"
+1152,6120,952,,2026-06-08,Branch,5,Good value for the premium I pay
+1153,6137,4565,1440,2026-09-30,Call centre,4,Claim was settled quickly and the agent kept me updated
+1154,6140,3815,1441,2024-12-26,Branch,4,Claim was settled quickly and the agent kept me updated
+1155,6141,1816,1443,2026-09-30,Branch,3,"Hard to reach customer service, long wait on the phone"
+1156,6142,4690,1444,2024-11-08,Call centre,2,"Hard to reach customer service, long wait on the phone"
+1157,6147,4131,1446,2025-12-01,Branch,5,Process was okay but I had to follow up a few times
+1158,6152,3061,1447,2023-12-22,Call centre,4,Process was okay but I had to follow up a few times
+1159,6152,3061,1448,2025-04-02,Branch,5,Claim was settled quickly and the agent kept me updated
+1160,6154,615,1449,2024-12-18,Call centre,5,Customer service was polite and helpful
+1161,6154,615,,2024-12-22,Branch,4,Premium is too high compared to what I get
+1162,6160,162,1451,2025-01-03,App,3,My claim took too long and I had to submit documents again
+1163,6161,2526,1452,2026-08-11,Call centre,3,My claim took too long and I had to submit documents again
+1164,6166,3660,1454,2026-09-30,Call centre,5,Process was okay but I had to follow up a few times
+1165,6175,1766,1455,2026-04-27,App,1,My claim was rejected and the reason was not explained clearly
+1166,6179,4792,1456,2025-10-01,Branch,3,My claim took too long and I had to submit documents again
+1167,6182,2118,1457,2026-02-24,App,5,Process was okay but I had to follow up a few times
+1168,6195,1180,,2026-09-30,Call centre,5,I was not told the policy terms clearly
+1169,6200,46,,2025-09-27,App,5,Good value for the premium I pay
+1170,6209,3095,1462,2026-08-11,App,2,My claim was rejected and the reason was not explained clearly
+1171,6210,362,1463,2025-09-07,Branch,4,Process was okay but I had to follow up a few times
+1172,6211,690,1464,2024-12-30,App,4,Customer service was polite and helpful
+1173,6217,4545,1466,2023-07-26,Email,1,Nobody gave me updates on my claim
+1174,6230,828,,2024-01-21,Branch,1,Payment on the app failed twice
+1175,6231,927,1468,2025-11-13,Branch,3,Customer service was polite and helpful
+1176,6238,2911,,2024-07-06,Email,3,Premium is too high compared to what I get
+1177,6246,1484,,2026-09-30,Call centre,4,Renewal reminder came late but service was fine
+1178,6247,3297,1470,2026-09-30,Call centre,3,Claim was settled quickly and the agent kept me updated
+1179,6247,3297,,2024-01-30,App,5,Payment on the app failed twice
+1180,6258,3191,1473,2025-07-21,App,5,Process was okay but I had to follow up a few times
+1181,6265,1823,1475,2026-03-12,Call centre,2,Nobody gave me updates on my claim
+1182,6271,3687,1476,2024-06-18,App,5,Claim was settled quickly and the agent kept me updated
+1183,6272,3619,1477,2026-09-30,Call centre,2,My claim was rejected and the reason was not explained clearly
+1184,6278,4678,1479,2026-01-08,App,5,Customer service was polite and helpful
+1185,6283,1730,1482,2024-03-11,Call centre,1,My claim took too long and I had to submit documents again
+1186,6288,2588,1483,2026-05-28,Branch,1,My claim took too long and I had to submit documents again
+1187,6294,2663,1484,2026-01-24,Call centre,1,"Hard to reach customer service, long wait on the phone"
+1188,6295,1213,1485,2026-07-29,App,4,Process was okay but I had to follow up a few times
+1189,6300,1827,1487,2025-03-18,App,1,"Hard to reach customer service, long wait on the phone"
+1190,6314,4327,1489,2025-07-19,Email,3,"Hard to reach customer service, long wait on the phone"
+1191,6317,1021,1490,2025-06-25,App,1,"Hard to reach customer service, long wait on the phone"
+1192,6319,476,1492,2026-09-30,Branch,1,My claim took too long and I had to submit documents again
+1193,6322,4578,1493,2026-06-10,Call centre,3,"Hard to reach customer service, long wait on the phone"
+1194,6325,3189,,2024-10-21,App,1,Renewal reminder came late but service was fine
+1195,6326,159,1494,2026-05-21,App,2,My claim was rejected and the reason was not explained clearly
+1196,6341,1822,,2026-09-30,Email,1,Renewal reminder came late but service was fine
+1197,6345,4358,1496,2025-12-17,Call centre,3,My claim took too long and I had to submit documents again
+1198,6359,3573,1497,2026-09-30,Branch,5,Customer service was polite and helpful
+1199,6360,265,1498,2026-09-30,App,1,My claim took too long and I had to submit documents again
+1200,6367,2045,,2026-09-30,App,4,Premium is too high compared to what I get
+1201,6368,52,1499,2024-04-11,Branch,2,My claim was rejected and the reason was not explained clearly
+1202,6370,590,,2023-12-21,Call centre,1,Premium is too high compared to what I get
+1203,6371,3588,1501,2026-09-30,Email,1,"Hard to reach customer service, long wait on the phone"
+1204,6379,510,1505,2026-08-15,App,5,Customer service was polite and helpful
+1205,6394,1662,1508,2026-09-30,Email,2,My claim was rejected and the reason was not explained clearly
+1206,6397,805,1509,2026-04-08,App,5,Process was okay but I had to follow up a few times
+1207,6397,805,1510,2026-07-30,App,4,Process was okay but I had to follow up a few times
+1208,6398,1229,,2024-01-26,Email,3,Very easy to renew my policy on the app
+1209,6412,731,1512,2023-10-16,App,4,My claim took too long and I had to submit documents again
+1210,6412,731,1514,2026-09-30,Call centre,2,My claim took too long and I had to submit documents again
+1211,6420,1335,,2026-09-30,Call centre,2,Payment on the app failed twice
+1212,6427,2717,1518,2025-06-06,Branch,3,My claim took too long and I had to submit documents again
+1213,6433,1917,,2024-09-25,App,4,Renewal reminder came late but service was fine
+1214,6434,4181,1521,2026-05-12,Branch,4,Customer service was polite and helpful
+1215,6437,3516,1523,2024-01-19,Email,3,My claim was rejected and the reason was not explained clearly
+1216,6437,3516,1524,2025-03-03,Branch,3,Customer service was polite and helpful
+1217,6437,3516,,2024-03-30,Email,5,Renewal reminder came late but service was fine
+1218,6445,4194,1526,2025-07-19,Branch,1,My claim was rejected and the reason was not explained clearly
+1219,6448,1370,1527,2024-12-15,Call centre,4,My claim took too long and I had to submit documents again
+1220,6451,4338,,2025-03-26,Email,2,Very easy to renew my policy on the app
+1221,6454,3371,1528,2025-12-09,Branch,1,My claim took too long and I had to submit documents again
+1222,6454,3371,,2025-01-03,Branch,5,Payment on the app failed twice
+1223,6459,340,1529,2024-11-03,Call centre,3,My claim took too long and I had to submit documents again
+1224,6461,3292,1530,2024-06-06,Email,1,Nobody gave me updates on my claim
+1225,6464,582,1531,2026-06-04,Branch,3,My claim was rejected and the reason was not explained clearly
+1226,6464,582,,2024-01-23,Branch,3,Very easy to renew my policy on the app
+1227,6465,3545,1532,2026-09-06,Branch,4,Customer service was polite and helpful
+1228,6477,1993,1537,2026-08-04,Call centre,5,Process was okay but I had to follow up a few times
+1229,6481,165,1538,2026-01-04,Email,3,My claim was rejected and the reason was not explained clearly
+1230,6485,2183,,2026-04-08,Branch,4,Very easy to renew my policy on the app
+1231,6496,4227,,2026-09-30,Branch,5,I was not told the policy terms clearly
+1232,6499,210,,2023-10-09,Email,4,I was not told the policy terms clearly
